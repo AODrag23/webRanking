@@ -2,25 +2,25 @@
     {
         "name":  "Ducky",
         "level":  45,
-        "class_id":  null,
-        "race_id":  null,
-        "elo":  null,
-        "criminales_matados":  null,
-        "ciudadanos_matados":  null,
-        "usuarios_matados":  null,
-        "muertes":  null,
-        "puntos_pesca":  null
+        "class_id":  1,
+        "race_id":  1,
+        "elo":  1000,
+        "criminales_matados":  0,
+        "ciudadanos_matados":  0,
+        "usuarios_matados":  0,
+        "muertes":  0,
+        "puntos_pesca":  0
     },
     {
         "name":  "pepito",
         "level":  1,
-        "class_id":  null,
-        "race_id":  null,
-        "elo":  null,
-        "criminales_matados":  null,
-        "ciudadanos_matados":  null,
-        "usuarios_matados":  null,
-        "muertes":  null,
-        "puntos_pesca":  null
+        "class_id":  1,
+        "race_id":  5,
+        "elo":  1000,
+        "criminales_matados":  0,
+        "ciudadanos_matados":  0,
+        "usuarios_matados":  0,
+        "muertes":  0,
+        "puntos_pesca":  0
     }
 ]
