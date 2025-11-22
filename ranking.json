@@ -2,6 +2,7 @@
     {
         "name":  "Ducky",
         "level":  45,
+        "genre":  1,
         "class_id":  1,
         "race_id":  1,
         "elo":  1000,
@@ -14,6 +15,7 @@
     {
         "name":  "pepito",
         "level":  1,
+        "genre":  1,
         "class_id":  1,
         "race_id":  5,
         "elo":  1000,
