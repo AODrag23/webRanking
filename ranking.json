@@ -1,10 +1,26 @@
 ﻿[
     {
         "name":  "Ducky",
-        "level":  45
+        "level":  45,
+        "class_id":  null,
+        "race_id":  null,
+        "elo":  null,
+        "criminales_matados":  null,
+        "ciudadanos_matados":  null,
+        "usuarios_matados":  null,
+        "muertes":  null,
+        "puntos_pesca":  null
     },
     {
         "name":  "pepito",
-        "level":  1
+        "level":  1,
+        "class_id":  null,
+        "race_id":  null,
+        "elo":  null,
+        "criminales_matados":  null,
+        "ciudadanos_matados":  null,
+        "usuarios_matados":  null,
+        "muertes":  null,
+        "puntos_pesca":  null
     }
 ]
