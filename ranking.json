@@ -2,6 +2,10 @@
     {
         "name":  "Ducky",
         "level":  45,
+        "exp":  7730715,
+        "exp_next_level":  25090537,
+        "exp_percentage":  30.81,
+        "remort":  0,
         "genre":  "Hombre",
         "class":  "Mago",
         "race":  "Humano",
@@ -16,6 +20,10 @@
     {
         "name":  "pepito",
         "level":  1,
+        "exp":  0,
+        "exp_next_level":  450,
+        "exp_percentage":  0,
+        "remort":  0,
         "genre":  "Hombre",
         "class":  "Mago",
         "race":  "Enano",
