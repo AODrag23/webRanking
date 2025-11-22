@@ -1,4 +1,10 @@
-﻿{
-    "name":  "Ducky",
-    "level":  45
-}
+﻿[
+    {
+        "name":  "Ducky",
+        "level":  45
+    },
+    {
+        "name":  "pepito",
+        "level":  1
+    }
+]
