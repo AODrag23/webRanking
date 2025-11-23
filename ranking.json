@@ -117,7 +117,7 @@
         "muertes":  0,
         "puntos_pesca":  0,
         "killed_npcs":  0,
-        "minutos_online":  0
+        "minutos_online":  10000
     },
     {
         "name":  "tetetasadd",
