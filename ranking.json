@@ -22,7 +22,7 @@
         "puntos_pesca":  0,
         "killed_npcs":  21,
         "minutos_online":  60,
-        "drag_puntos":  null
+        "drag_puntos":  28995
     },
     {
         "name":  "asd",
@@ -47,6 +47,6 @@
         "puntos_pesca":  0,
         "killed_npcs":  0,
         "minutos_online":  4,
-        "drag_puntos":  null
+        "drag_puntos":  0
     }
 ]
