@@ -21,7 +21,8 @@
         "muertes":  0,
         "puntos_pesca":  0,
         "killed_npcs":  21,
-        "minutos_online":  60
+        "minutos_online":  60,
+        "drag_puntos":  null
     },
     {
         "name":  "asd",
@@ -45,6 +46,7 @@
         "muertes":  1,
         "puntos_pesca":  0,
         "killed_npcs":  0,
-        "minutos_online":  4
+        "minutos_online":  4,
+        "drag_puntos":  null
     }
 ]
