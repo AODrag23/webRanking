@@ -176,10 +176,10 @@
     },
     {
         "name":  "GRiPoSa",
-        "level":  4,
-        "exp":  550,
-        "exp_next_level":  1520,
-        "exp_percentage":  36.18,
+        "level":  12,
+        "exp":  12943,
+        "exp_next_level":  25360,
+        "exp_percentage":  51.04,
         "remort":  0,
         "remorted":  "",
         "head":  167,
@@ -196,7 +196,7 @@
         "muertes":  1,
         "puntos_pesca":  0,
         "killed_npcs":  5,
-        "minutos_online":  7,
+        "minutos_online":  8,
         "drag_puntos":  0
     },
     {
@@ -827,9 +827,9 @@
     {
         "name":  "Fely",
         "level":  13,
-        "exp":  21792,
+        "exp":  21818,
         "exp_next_level":  32968,
-        "exp_percentage":  66.1,
+        "exp_percentage":  66.18,
         "remort":  0,
         "remorted":  "",
         "head":  373,
@@ -846,7 +846,7 @@
         "muertes":  1,
         "puntos_pesca":  185,
         "killed_npcs":  94,
-        "minutos_online":  120,
+        "minutos_online":  124,
         "drag_puntos":  0
     },
     {
@@ -1127,9 +1127,9 @@
     {
         "name":  "TechS",
         "level":  16,
-        "exp":  1954,
+        "exp":  11459,
         "exp_next_level":  72430,
-        "exp_percentage":  2.7,
+        "exp_percentage":  15.82,
         "remort":  0,
         "remorted":  "",
         "head":  28,
@@ -1145,8 +1145,8 @@
         "usuarios_matados":  0,
         "muertes":  7,
         "puntos_pesca":  0,
-        "killed_npcs":  69,
-        "minutos_online":  87,
+        "killed_npcs":  79,
+        "minutos_online":  92,
         "drag_puntos":  0
     },
     {
@@ -3002,9 +3002,9 @@
     {
         "name":  "RAW",
         "level":  11,
-        "exp":  3269,
+        "exp":  10124,
         "exp_next_level":  19508,
-        "exp_percentage":  16.76,
+        "exp_percentage":  51.9,
         "remort":  0,
         "remorted":  "",
         "head":  623,
@@ -3020,8 +3020,8 @@
         "usuarios_matados":  0,
         "muertes":  0,
         "puntos_pesca":  0,
-        "killed_npcs":  54,
-        "minutos_online":  6,
+        "killed_npcs":  68,
+        "minutos_online":  11,
         "drag_puntos":  0
     },
     {
