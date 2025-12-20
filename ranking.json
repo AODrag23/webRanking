@@ -21,7 +21,7 @@
         "muertes":  17,
         "puntos_pesca":  0,
         "killed_npcs":  238,
-        "minutos_online":  511,
+        "minutos_online":  513,
         "drag_puntos":  2
     },
     {
@@ -77,7 +77,7 @@
     {
         "name":  "LuKaRiO",
         "level":  50,
-        "exp":  99790514,
+        "exp":  99790718,
         "exp_next_level":  187186980,
         "exp_percentage":  53.31,
         "remort":  1,
@@ -92,11 +92,11 @@
         "elo":  1000,
         "criminales_matados":  54,
         "ciudadanos_matados":  68,
-        "usuarios_matados":  150,
-        "muertes":  100,
+        "usuarios_matados":  152,
+        "muertes":  102,
         "puntos_pesca":  0,
         "killed_npcs":  1683,
-        "minutos_online":  2337,
+        "minutos_online":  2342,
         "drag_puntos":  66
     },
     {
@@ -146,7 +146,7 @@
         "muertes":  41,
         "puntos_pesca":  0,
         "killed_npcs":  1146,
-        "minutos_online":  2558,
+        "minutos_online":  2560,
         "drag_puntos":  39
     },
     {
@@ -296,7 +296,7 @@
         "muertes":  26,
         "puntos_pesca":  0,
         "killed_npcs":  10,
-        "minutos_online":  2697,
+        "minutos_online":  2698,
         "drag_puntos":  0
     },
     {
@@ -443,10 +443,10 @@
         "criminales_matados":  26,
         "ciudadanos_matados":  37,
         "usuarios_matados":  99,
-        "muertes":  97,
+        "muertes":  98,
         "puntos_pesca":  0,
-        "killed_npcs":  1059,
-        "minutos_online":  3698,
+        "killed_npcs":  1072,
+        "minutos_online":  3721,
         "drag_puntos":  30
     },
     {
@@ -1271,15 +1271,15 @@
         "muertes":  40,
         "puntos_pesca":  0,
         "killed_npcs":  1318,
-        "minutos_online":  3041,
+        "minutos_online":  3042,
         "drag_puntos":  81
     },
     {
         "name":  "Brandy",
         "level":  52,
-        "exp":  18859267,
+        "exp":  18889799,
         "exp_next_level":  89903932,
-        "exp_percentage":  20.98,
+        "exp_percentage":  21.01,
         "remort":  0,
         "remorted":  "",
         "head":  151,
@@ -1295,8 +1295,8 @@
         "usuarios_matados":  15,
         "muertes":  34,
         "puntos_pesca":  0,
-        "killed_npcs":  230,
-        "minutos_online":  1886,
+        "killed_npcs":  236,
+        "minutos_online":  1895,
         "drag_puntos":  1
     },
     {
@@ -1477,7 +1477,7 @@
     {
         "name":  "Wasabi",
         "level":  50,
-        "exp":  49929386,
+        "exp":  49930796,
         "exp_next_level":  62433286,
         "exp_percentage":  79.97,
         "remort":  0,
@@ -1492,11 +1492,11 @@
         "elo":  1000,
         "criminales_matados":  6,
         "ciudadanos_matados":  10,
-        "usuarios_matados":  34,
-        "muertes":  82,
+        "usuarios_matados":  36,
+        "muertes":  90,
         "puntos_pesca":  0,
         "killed_npcs":  379,
-        "minutos_online":  2843,
+        "minutos_online":  2879,
         "drag_puntos":  5
     },
     {
@@ -1776,10 +1776,10 @@
     },
     {
         "name":  "qOnda",
-        "level":  46,
-        "exp":  8625146,
-        "exp_next_level":  30108644,
-        "exp_percentage":  28.65,
+        "level":  47,
+        "exp":  21976447,
+        "exp_next_level":  36130373,
+        "exp_percentage":  60.83,
         "remort":  0,
         "remorted":  "",
         "head":  639,
@@ -1795,9 +1795,9 @@
         "usuarios_matados":  8,
         "muertes":  10,
         "puntos_pesca":  0,
-        "killed_npcs":  501,
-        "minutos_online":  1179,
-        "drag_puntos":  11
+        "killed_npcs":  543,
+        "minutos_online":  1239,
+        "drag_puntos":  12
     },
     {
         "name":  "Koldo",
@@ -1827,9 +1827,9 @@
     {
         "name":  "trambolo",
         "level":  32,
-        "exp":  492202,
+        "exp":  780810,
         "exp_next_level":  2345059,
-        "exp_percentage":  20.99,
+        "exp_percentage":  33.3,
         "remort":  0,
         "remorted":  "",
         "head":  623,
@@ -1846,7 +1846,7 @@
         "muertes":  4,
         "puntos_pesca":  0,
         "killed_npcs":  6,
-        "minutos_online":  1053,
+        "minutos_online":  1112,
         "drag_puntos":  0
     },
     {
@@ -2001,10 +2001,10 @@
     },
     {
         "name":  "Hola",
-        "level":  38,
-        "exp":  2333036,
-        "exp_next_level":  7002308,
-        "exp_percentage":  33.32,
+        "level":  40,
+        "exp":  2096692,
+        "exp_next_level":  10083324,
+        "exp_percentage":  20.79,
         "remort":  0,
         "remorted":  "",
         "head":  626,
@@ -2020,8 +2020,8 @@
         "usuarios_matados":  0,
         "muertes":  15,
         "puntos_pesca":  0,
-        "killed_npcs":  644,
-        "minutos_online":  733,
+        "killed_npcs":  689,
+        "minutos_online":  761,
         "drag_puntos":  7
     },
     {
@@ -2046,7 +2046,7 @@
         "muertes":  25,
         "puntos_pesca":  30,
         "killed_npcs":  402,
-        "minutos_online":  553,
+        "minutos_online":  554,
         "drag_puntos":  0
     },
     {
@@ -2120,8 +2120,8 @@
         "usuarios_matados":  58,
         "muertes":  37,
         "puntos_pesca":  0,
-        "killed_npcs":  1120,
-        "minutos_online":  2301,
+        "killed_npcs":  1126,
+        "minutos_online":  2330,
         "drag_puntos":  39
     },
     {
@@ -2346,7 +2346,7 @@
         "muertes":  99,
         "puntos_pesca":  0,
         "killed_npcs":  823,
-        "minutos_online":  1984,
+        "minutos_online":  2044,
         "drag_puntos":  3
     },
     {
@@ -2871,7 +2871,7 @@
         "muertes":  8,
         "puntos_pesca":  700,
         "killed_npcs":  394,
-        "minutos_online":  620,
+        "minutos_online":  645,
         "drag_puntos":  10
     },
     {
@@ -3046,7 +3046,7 @@
         "muertes":  4,
         "puntos_pesca":  8260,
         "killed_npcs":  15,
-        "minutos_online":  753,
+        "minutos_online":  754,
         "drag_puntos":  0
     },
     {
@@ -3070,9 +3070,9 @@
         "usuarios_matados":  77,
         "muertes":  46,
         "puntos_pesca":  0,
-        "killed_npcs":  1020,
-        "minutos_online":  2324,
-        "drag_puntos":  41
+        "killed_npcs":  1039,
+        "minutos_online":  2347,
+        "drag_puntos":  42
     },
     {
         "name":  "MuGrienTa",
@@ -3552,9 +3552,9 @@
     {
         "name":  "MaLBoRo",
         "level":  37,
-        "exp":  6749171,
+        "exp":  12283363,
         "exp_next_level":  17495221,
-        "exp_percentage":  38.58,
+        "exp_percentage":  70.21,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  626,
@@ -3570,9 +3570,9 @@
         "usuarios_matados":  81,
         "muertes":  44,
         "puntos_pesca":  0,
-        "killed_npcs":  1358,
-        "minutos_online":  2152,
-        "drag_puntos":  87
+        "killed_npcs":  1408,
+        "minutos_online":  2210,
+        "drag_puntos":  89
     },
     {
         "name":  "tOrrento",
@@ -3671,7 +3671,7 @@
         "muertes":  64,
         "puntos_pesca":  0,
         "killed_npcs":  520,
-        "minutos_online":  2348,
+        "minutos_online":  2371,
         "drag_puntos":  1
     },
     {
@@ -4021,7 +4021,7 @@
         "muertes":  81,
         "puntos_pesca":  1245,
         "killed_npcs":  3838,
-        "minutos_online":  2918,
+        "minutos_online":  2919,
         "drag_puntos":  140
     },
     {
@@ -4446,7 +4446,7 @@
         "muertes":  28,
         "puntos_pesca":  0,
         "killed_npcs":  469,
-        "minutos_online":  561,
+        "minutos_online":  562,
         "drag_puntos":  40
     },
     {
@@ -4671,7 +4671,7 @@
         "muertes":  12,
         "puntos_pesca":  0,
         "killed_npcs":  141,
-        "minutos_online":  935,
+        "minutos_online":  936,
         "drag_puntos":  0
     },
     {
@@ -4752,9 +4752,9 @@
     {
         "name":  "EuBatta",
         "level":  42,
-        "exp":  10462043,
+        "exp":  10612228,
         "exp_next_level":  14519987,
-        "exp_percentage":  72.05,
+        "exp_percentage":  73.09,
         "remort":  0,
         "remorted":  "",
         "head":  625,
@@ -4771,7 +4771,7 @@
         "muertes":  10,
         "puntos_pesca":  0,
         "killed_npcs":  26,
-        "minutos_online":  3039,
+        "minutos_online":  3062,
         "drag_puntos":  0
     },
     {
@@ -4796,7 +4796,7 @@
         "muertes":  37,
         "puntos_pesca":  0,
         "killed_npcs":  494,
-        "minutos_online":  924,
+        "minutos_online":  925,
         "drag_puntos":  14
     },
     {
@@ -4927,9 +4927,9 @@
     {
         "name":  "DomaTO",
         "level":  40,
-        "exp":  2186197,
+        "exp":  2264747,
         "exp_next_level":  10083324,
-        "exp_percentage":  21.68,
+        "exp_percentage":  22.46,
         "remort":  0,
         "remorted":  "",
         "head":  625,
@@ -4946,7 +4946,7 @@
         "muertes":  95,
         "puntos_pesca":  0,
         "killed_npcs":  9,
-        "minutos_online":  813,
+        "minutos_online":  844,
         "drag_puntos":  0
     },
     {
@@ -5071,7 +5071,7 @@
         "muertes":  26,
         "puntos_pesca":  0,
         "killed_npcs":  947,
-        "minutos_online":  1408,
+        "minutos_online":  1459,
         "drag_puntos":  33
     },
     {
@@ -5652,9 +5652,9 @@
     {
         "name":  "NiKeL",
         "level":  50,
-        "exp":  97199617,
+        "exp":  97312564,
         "exp_next_level":  187186980,
-        "exp_percentage":  51.93,
+        "exp_percentage":  51.99,
         "remort":  1,
         "remorted":  "Elian-LAL",
         "head":  623,
@@ -5665,13 +5665,13 @@
         "race":  "Vampiro",
         "race_id":  7,
         "elo":  1000,
-        "criminales_matados":  28,
+        "criminales_matados":  29,
         "ciudadanos_matados":  206,
-        "usuarios_matados":  257,
-        "muertes":  92,
+        "usuarios_matados":  259,
+        "muertes":  104,
         "puntos_pesca":  240,
-        "killed_npcs":  859,
-        "minutos_online":  1837,
+        "killed_npcs":  965,
+        "minutos_online":  1898,
         "drag_puntos":  5
     },
     {
@@ -5752,9 +5752,9 @@
     {
         "name":  "Thunderstrike",
         "level":  55,
-        "exp":  13264063,
+        "exp":  40305309,
         "exp_next_level":  155353994,
-        "exp_percentage":  8.54,
+        "exp_percentage":  25.94,
         "remort":  0,
         "remorted":  "",
         "head":  519,
@@ -5770,9 +5770,9 @@
         "usuarios_matados":  3,
         "muertes":  59,
         "puntos_pesca":  0,
-        "killed_npcs":  444,
-        "minutos_online":  1469,
-        "drag_puntos":  40
+        "killed_npcs":  468,
+        "minutos_online":  1530,
+        "drag_puntos":  42
     },
     {
         "name":  "hamuRa",
@@ -5802,9 +5802,9 @@
     {
         "name":  "ToMMy",
         "level":  51,
-        "exp":  7173418,
+        "exp":  8265698,
         "exp_next_level":  74919943,
-        "exp_percentage":  9.57,
+        "exp_percentage":  11.03,
         "remort":  0,
         "remorted":  "",
         "head":  309,
@@ -5817,11 +5817,11 @@
         "elo":  1000,
         "criminales_matados":  8,
         "ciudadanos_matados":  25,
-        "usuarios_matados":  45,
-        "muertes":  67,
+        "usuarios_matados":  46,
+        "muertes":  69,
         "puntos_pesca":  0,
-        "killed_npcs":  1425,
-        "minutos_online":  1838,
+        "killed_npcs":  1456,
+        "minutos_online":  1874,
         "drag_puntos":  59
     },
     {
@@ -6671,7 +6671,7 @@
         "muertes":  36,
         "puntos_pesca":  0,
         "killed_npcs":  1117,
-        "minutos_online":  2136,
+        "minutos_online":  2159,
         "drag_puntos":  30
     },
     {
@@ -7090,13 +7090,13 @@
         "race":  "Elfo",
         "race_id":  2,
         "elo":  1000,
-        "criminales_matados":  111,
+        "criminales_matados":  113,
         "ciudadanos_matados":  16,
-        "usuarios_matados":  267,
-        "muertes":  105,
+        "usuarios_matados":  289,
+        "muertes":  108,
         "puntos_pesca":  0,
-        "killed_npcs":  3027,
-        "minutos_online":  3787,
+        "killed_npcs":  3047,
+        "minutos_online":  3845,
         "drag_puntos":  17
     },
     {
@@ -7201,10 +7201,10 @@
     },
     {
         "name":  "T ReVientO",
-        "level":  45,
-        "exp":  53972237,
-        "exp_next_level":  75226248,
-        "exp_percentage":  71.75,
+        "level":  46,
+        "exp":  11198301,
+        "exp_next_level":  90271498,
+        "exp_percentage":  12.41,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  625,
@@ -7218,16 +7218,16 @@
         "criminales_matados":  14,
         "ciudadanos_matados":  8,
         "usuarios_matados":  23,
-        "muertes":  24,
+        "muertes":  28,
         "puntos_pesca":  0,
-        "killed_npcs":  490,
-        "minutos_online":  1383,
-        "drag_puntos":  41
+        "killed_npcs":  530,
+        "minutos_online":  1444,
+        "drag_puntos":  49
     },
     {
         "name":  "TuSy",
         "level":  50,
-        "exp":  18742905,
+        "exp":  18744405,
         "exp_next_level":  62433286,
         "exp_percentage":  30.02,
         "remort":  0,
@@ -7243,10 +7243,10 @@
         "criminales_matados":  4,
         "ciudadanos_matados":  3,
         "usuarios_matados":  11,
-        "muertes":  43,
+        "muertes":  45,
         "puntos_pesca":  0,
         "killed_npcs":  353,
-        "minutos_online":  2933,
+        "minutos_online":  2994,
         "drag_puntos":  23
     },
     {
@@ -7277,9 +7277,9 @@
     {
         "name":  "Akinches",
         "level":  47,
-        "exp":  3738477,
+        "exp":  6738727,
         "exp_next_level":  36130373,
-        "exp_percentage":  10.35,
+        "exp_percentage":  18.65,
         "remort":  0,
         "remorted":  "",
         "head":  407,
@@ -7295,8 +7295,8 @@
         "usuarios_matados":  7,
         "muertes":  7,
         "puntos_pesca":  0,
-        "killed_npcs":  159,
-        "minutos_online":  253,
+        "killed_npcs":  162,
+        "minutos_online":  259,
         "drag_puntos":  2
     },
     {
@@ -7471,7 +7471,7 @@
         "muertes":  1,
         "puntos_pesca":  0,
         "killed_npcs":  1,
-        "minutos_online":  384,
+        "minutos_online":  390,
         "drag_puntos":  0
     },
     {
@@ -7502,9 +7502,9 @@
     {
         "name":  "Parrales",
         "level":  40,
-        "exp":  1155221,
+        "exp":  1306676,
         "exp_next_level":  10083324,
-        "exp_percentage":  11.46,
+        "exp_percentage":  12.96,
         "remort":  0,
         "remorted":  "",
         "head":  624,
@@ -7521,7 +7521,7 @@
         "muertes":  9,
         "puntos_pesca":  590,
         "killed_npcs":  3,
-        "minutos_online":  552,
+        "minutos_online":  582,
         "drag_puntos":  0
     },
     {
@@ -7852,9 +7852,9 @@
     {
         "name":  "Wasa",
         "level":  53,
-        "exp":  20597381,
+        "exp":  33121040,
         "exp_next_level":  107884718,
-        "exp_percentage":  19.09,
+        "exp_percentage":  30.7,
         "remort":  0,
         "remorted":  "",
         "head":  209,
@@ -7865,14 +7865,14 @@
         "race":  "Elfo oscuro",
         "race_id":  3,
         "elo":  997,
-        "criminales_matados":  2,
+        "criminales_matados":  3,
         "ciudadanos_matados":  0,
-        "usuarios_matados":  3,
-        "muertes":  43,
+        "usuarios_matados":  4,
+        "muertes":  47,
         "puntos_pesca":  0,
-        "killed_npcs":  154,
-        "minutos_online":  1501,
-        "drag_puntos":  4
+        "killed_npcs":  161,
+        "minutos_online":  1548,
+        "drag_puntos":  5
     },
     {
         "name":  "Naghat",
@@ -7996,7 +7996,7 @@
         "muertes":  0,
         "puntos_pesca":  0,
         "killed_npcs":  0,
-        "minutos_online":  0,
+        "minutos_online":  2,
         "drag_puntos":  0
     },
     {
@@ -8052,9 +8052,9 @@
     {
         "name":  "Heracles",
         "level":  40,
-        "exp":  1450007,
+        "exp":  3680352,
         "exp_next_level":  10083324,
-        "exp_percentage":  14.38,
+        "exp_percentage":  36.5,
         "remort":  0,
         "remorted":  "",
         "head":  512,
@@ -8070,8 +8070,8 @@
         "usuarios_matados":  2,
         "muertes":  4,
         "puntos_pesca":  0,
-        "killed_npcs":  479,
-        "minutos_online":  370,
+        "killed_npcs":  508,
+        "minutos_online":  383,
         "drag_puntos":  8
     },
     {
@@ -8271,7 +8271,7 @@
         "muertes":  39,
         "puntos_pesca":  0,
         "killed_npcs":  927,
-        "minutos_online":  1777,
+        "minutos_online":  1778,
         "drag_puntos":  55
     },
     {
@@ -8296,7 +8296,7 @@
         "muertes":  29,
         "puntos_pesca":  0,
         "killed_npcs":  991,
-        "minutos_online":  1439,
+        "minutos_online":  1480,
         "drag_puntos":  80
     },
     {
@@ -8477,9 +8477,9 @@
     {
         "name":  "Watermelon",
         "level":  40,
-        "exp":  4100787,
+        "exp":  4394917,
         "exp_next_level":  10083324,
-        "exp_percentage":  40.67,
+        "exp_percentage":  43.59,
         "remort":  0,
         "remorted":  "",
         "head":  626,
@@ -8495,8 +8495,8 @@
         "usuarios_matados":  0,
         "muertes":  3,
         "puntos_pesca":  0,
-        "killed_npcs":  80,
-        "minutos_online":  395,
+        "killed_npcs":  82,
+        "minutos_online":  452,
         "drag_puntos":  0
     },
     {
@@ -8521,7 +8521,7 @@
         "muertes":  13,
         "puntos_pesca":  0,
         "killed_npcs":  66,
-        "minutos_online":  503,
+        "minutos_online":  513,
         "drag_puntos":  1
     },
     {
@@ -8546,15 +8546,15 @@
         "muertes":  54,
         "puntos_pesca":  0,
         "killed_npcs":  119,
-        "minutos_online":  1496,
+        "minutos_online":  1519,
         "drag_puntos":  5
     },
     {
         "name":  "Elizid",
         "level":  51,
-        "exp":  802610,
+        "exp":  13163305,
         "exp_next_level":  74919943,
-        "exp_percentage":  1.07,
+        "exp_percentage":  17.57,
         "remort":  0,
         "remorted":  "",
         "head":  207,
@@ -8570,9 +8570,9 @@
         "usuarios_matados":  25,
         "muertes":  43,
         "puntos_pesca":  0,
-        "killed_npcs":  977,
-        "minutos_online":  1305,
-        "drag_puntos":  14
+        "killed_npcs":  1041,
+        "minutos_online":  1363,
+        "drag_puntos":  16
     },
     {
         "name":  "Kinshiki",
@@ -8626,10 +8626,10 @@
     },
     {
         "name":  "Lyzth",
-        "level":  13,
-        "exp":  1032,
-        "exp_next_level":  98843,
-        "exp_percentage":  1.04,
+        "level":  30,
+        "exp":  422238,
+        "exp_next_level":  4882595,
+        "exp_percentage":  8.65,
         "remort":  1,
         "remorted":  "Elian-LAL",
         "head":  424,
@@ -8642,11 +8642,11 @@
         "elo":  1003,
         "criminales_matados":  5,
         "ciudadanos_matados":  1,
-        "usuarios_matados":  7,
-        "muertes":  38,
+        "usuarios_matados":  13,
+        "muertes":  39,
         "puntos_pesca":  0,
-        "killed_npcs":  601,
-        "minutos_online":  1263,
+        "killed_npcs":  642,
+        "minutos_online":  1318,
         "drag_puntos":  22
     },
     {
@@ -8926,10 +8926,10 @@
     },
     {
         "name":  "IsshiKi",
-        "level":  51,
-        "exp":  51188500,
-        "exp_next_level":  74919943,
-        "exp_percentage":  68.32,
+        "level":  52,
+        "exp":  9241784,
+        "exp_next_level":  89903932,
+        "exp_percentage":  10.28,
         "remort":  0,
         "remorted":  "",
         "head":  626,
@@ -8945,9 +8945,9 @@
         "usuarios_matados":  1,
         "muertes":  3,
         "puntos_pesca":  0,
-        "killed_npcs":  139,
-        "minutos_online":  448,
-        "drag_puntos":  17
+        "killed_npcs":  188,
+        "minutos_online":  477,
+        "drag_puntos":  21
     },
     {
         "name":  "Hernan",
@@ -9296,7 +9296,7 @@
         "muertes":  7,
         "puntos_pesca":  0,
         "killed_npcs":  66,
-        "minutos_online":  152,
+        "minutos_online":  155,
         "drag_puntos":  8
     },
     {
@@ -9652,9 +9652,9 @@
     {
         "name":  "Pala Orco",
         "level":  22,
-        "exp":  97866,
+        "exp":  139866,
         "exp_next_level":  349606,
-        "exp_percentage":  27.99,
+        "exp_percentage":  40.01,
         "remort":  0,
         "remorted":  "",
         "head":  529,
@@ -9670,8 +9670,8 @@
         "usuarios_matados":  0,
         "muertes":  11,
         "puntos_pesca":  0,
-        "killed_npcs":  84,
-        "minutos_online":  95,
+        "killed_npcs":  88,
+        "minutos_online":  104,
         "drag_puntos":  0
     },
     {
@@ -9701,10 +9701,10 @@
     },
     {
         "name":  "Nate Higgers",
-        "level":  41,
-        "exp":  4481849,
-        "exp_next_level":  12099989,
-        "exp_percentage":  37.04,
+        "level":  42,
+        "exp":  4099155,
+        "exp_next_level":  14519987,
+        "exp_percentage":  28.23,
         "remort":  0,
         "remorted":  "",
         "head":  112,
@@ -9720,9 +9720,9 @@
         "usuarios_matados":  4,
         "muertes":  8,
         "puntos_pesca":  0,
-        "killed_npcs":  189,
-        "minutos_online":  371,
-        "drag_puntos":  4
+        "killed_npcs":  289,
+        "minutos_online":  429,
+        "drag_puntos":  5
     },
     {
         "name":  "Karpinty",
@@ -10227,9 +10227,9 @@
     {
         "name":  "ZaS",
         "level":  44,
-        "exp":  6582525,
+        "exp":  6659275,
         "exp_next_level":  20908781,
-        "exp_percentage":  31.48,
+        "exp_percentage":  31.85,
         "remort":  0,
         "remorted":  "",
         "head":  639,
@@ -10246,7 +10246,7 @@
         "muertes":  3,
         "puntos_pesca":  0,
         "killed_npcs":  270,
-        "minutos_online":  229,
+        "minutos_online":  245,
         "drag_puntos":  0
     },
     {
@@ -10371,7 +10371,7 @@
         "muertes":  4,
         "puntos_pesca":  0,
         "killed_npcs":  787,
-        "minutos_online":  348,
+        "minutos_online":  407,
         "drag_puntos":  67
     },
     {
@@ -10868,10 +10868,10 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  5,
+        "muertes":  6,
         "puntos_pesca":  0,
         "killed_npcs":  5,
-        "minutos_online":  132,
+        "minutos_online":  167,
         "drag_puntos":  0
     },
     {
@@ -11026,10 +11026,10 @@
     },
     {
         "name":  "UnSimP",
-        "level":  13,
-        "exp":  7265,
-        "exp_next_level":  32968,
-        "exp_percentage":  22.04,
+        "level":  15,
+        "exp":  21303,
+        "exp_next_level":  55715,
+        "exp_percentage":  38.24,
         "remort":  0,
         "remorted":  "",
         "head":  624,
@@ -11045,16 +11045,16 @@
         "usuarios_matados":  0,
         "muertes":  0,
         "puntos_pesca":  0,
-        "killed_npcs":  136,
-        "minutos_online":  16,
+        "killed_npcs":  137,
+        "minutos_online":  56,
         "drag_puntos":  0
     },
     {
         "name":  "Aljoaian",
-        "level":  14,
-        "exp":  11150,
-        "exp_next_level":  42858,
-        "exp_percentage":  26.02,
+        "level":  21,
+        "exp":  8347,
+        "exp_next_level":  268928,
+        "exp_percentage":  3.1,
         "remort":  0,
         "remorted":  "",
         "head":  313,
@@ -11071,15 +11071,15 @@
         "muertes":  0,
         "puntos_pesca":  0,
         "killed_npcs":  1,
-        "minutos_online":  8,
+        "minutos_online":  28,
         "drag_puntos":  0
     },
     {
         "name":  "Pedazos",
-        "level":  1,
-        "exp":  0,
-        "exp_next_level":  450,
-        "exp_percentage":  0,
+        "level":  14,
+        "exp":  2925,
+        "exp_next_level":  42858,
+        "exp_percentage":  6.82,
         "remort":  0,
         "remorted":  "",
         "head":  327,
@@ -11093,10 +11093,85 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
+        "muertes":  1,
+        "puntos_pesca":  220,
+        "killed_npcs":  101,
+        "minutos_online":  40,
+        "drag_puntos":  0
+    },
+    {
+        "name":  "Flecha Veloz",
+        "level":  2,
+        "exp":  400,
+        "exp_next_level":  675,
+        "exp_percentage":  59.26,
+        "remort":  0,
+        "remorted":  "",
+        "head":  224,
+        "genre":  "Hombre",
+        "genre_id":  1,
+        "class":  "Arquero",
+        "class_id":  8,
+        "race":  "Elfo oscuro",
+        "race_id":  3,
+        "elo":  1000,
+        "criminales_matados":  0,
+        "ciudadanos_matados":  0,
+        "usuarios_matados":  0,
+        "muertes":  1,
+        "puntos_pesca":  0,
+        "killed_npcs":  3,
+        "minutos_online":  1,
+        "drag_puntos":  0
+    },
+    {
+        "name":  "locos",
+        "level":  2,
+        "exp":  10,
+        "exp_next_level":  675,
+        "exp_percentage":  1.48,
+        "remort":  0,
+        "remorted":  "",
+        "head":  689,
+        "genre":  "Mujer",
+        "genre_id":  2,
+        "class":  "Cazador",
+        "class_id":  11,
+        "race":  "Vikingo",
+        "race_id":  8,
+        "elo":  1000,
+        "criminales_matados":  0,
+        "ciudadanos_matados":  0,
+        "usuarios_matados":  0,
         "muertes":  0,
         "puntos_pesca":  0,
-        "killed_npcs":  0,
-        "minutos_online":  0,
+        "killed_npcs":  1,
+        "minutos_online":  1,
+        "drag_puntos":  0
+    },
+    {
+        "name":  "Trabatodo",
+        "level":  12,
+        "exp":  12853,
+        "exp_next_level":  25360,
+        "exp_percentage":  50.68,
+        "remort":  0,
+        "remorted":  "",
+        "head":  622,
+        "genre":  "Hombre",
+        "genre_id":  1,
+        "class":  "Trabajador",
+        "class_id":  9,
+        "race":  "Vampiro",
+        "race_id":  7,
+        "elo":  1000,
+        "criminales_matados":  0,
+        "ciudadanos_matados":  0,
+        "usuarios_matados":  0,
+        "muertes":  0,
+        "puntos_pesca":  0,
+        "killed_npcs":  67,
+        "minutos_online":  15,
         "drag_puntos":  0
     }
 ]
