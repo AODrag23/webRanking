@@ -277,9 +277,9 @@
     {
         "name":  "Asura",
         "level":  41,
-        "exp":  3382169,
+        "exp":  6171681,
         "exp_next_level":  12099989,
-        "exp_percentage":  27.95,
+        "exp_percentage":  51.01,
         "remort":  0,
         "remorted":  "",
         "head":  624,
@@ -296,7 +296,7 @@
         "muertes":  28,
         "puntos_pesca":  0,
         "killed_npcs":  16,
-        "minutos_online":  3544,
+        "minutos_online":  3576,
         "drag_puntos":  0
     },
     {
@@ -443,10 +443,10 @@
         "criminales_matados":  43,
         "ciudadanos_matados":  43,
         "usuarios_matados":  171,
-        "muertes":  164,
+        "muertes":  165,
         "puntos_pesca":  0,
-        "killed_npcs":  1386,
-        "minutos_online":  5924,
+        "killed_npcs":  1388,
+        "minutos_online":  5984,
         "drag_puntos":  0
     },
     {
@@ -2496,7 +2496,7 @@
         "muertes":  40,
         "puntos_pesca":  12180,
         "killed_npcs":  1770,
-        "minutos_online":  4998,
+        "minutos_online":  5058,
         "drag_puntos":  159
     },
     {
@@ -5645,8 +5645,8 @@
         "usuarios_matados":  206,
         "muertes":  194,
         "puntos_pesca":  0,
-        "killed_npcs":  1160,
-        "minutos_online":  2881,
+        "killed_npcs":  1171,
+        "minutos_online":  2932,
         "drag_puntos":  82
     },
     {
@@ -5821,7 +5821,7 @@
         "muertes":  17,
         "puntos_pesca":  0,
         "killed_npcs":  240,
-        "minutos_online":  1517,
+        "minutos_online":  1564,
         "drag_puntos":  0
     },
     {
@@ -6970,8 +6970,8 @@
         "usuarios_matados":  56,
         "muertes":  67,
         "puntos_pesca":  0,
-        "killed_npcs":  1075,
-        "minutos_online":  5848,
+        "killed_npcs":  1092,
+        "minutos_online":  5908,
         "drag_puntos":  87
     },
     {
@@ -7046,7 +7046,7 @@
         "muertes":  10,
         "puntos_pesca":  1455,
         "killed_npcs":  658,
-        "minutos_online":  2822,
+        "minutos_online":  2868,
         "drag_puntos":  0
     },
     {
@@ -8701,10 +8701,10 @@
     },
     {
         "name":  "Astaroth",
-        "level":  49,
-        "exp":  7092280,
-        "exp_next_level":  52027738,
-        "exp_percentage":  13.63,
+        "level":  50,
+        "exp":  12662752,
+        "exp_next_level":  62433286,
+        "exp_percentage":  20.28,
         "remort":  0,
         "remorted":  "",
         "head":  686,
@@ -8716,13 +8716,13 @@
         "race_id":  8,
         "elo":  1000,
         "criminales_matados":  4,
-        "ciudadanos_matados":  0,
-        "usuarios_matados":  4,
+        "ciudadanos_matados":  1,
+        "usuarios_matados":  5,
         "muertes":  24,
         "puntos_pesca":  0,
-        "killed_npcs":  332,
-        "minutos_online":  993,
-        "drag_puntos":  9
+        "killed_npcs":  376,
+        "minutos_online":  1053,
+        "drag_puntos":  14
     },
     {
         "name":  "Hefesto",
@@ -10896,7 +10896,7 @@
         "muertes":  12,
         "puntos_pesca":  0,
         "killed_npcs":  110,
-        "minutos_online":  2085,
+        "minutos_online":  2088,
         "drag_puntos":  1
     },
     {
@@ -12200,31 +12200,6 @@
         "drag_puntos":  0
     },
     {
-        "name":  "Akrapovic",
-        "level":  3,
-        "exp":  0,
-        "exp_next_level":  1013,
-        "exp_percentage":  0,
-        "remort":  0,
-        "remorted":  "",
-        "head":  457,
-        "genre":  "Mujer",
-        "genre_id":  2,
-        "class":  "Bardo",
-        "class_id":  5,
-        "race":  "Gnomo",
-        "race_id":  4,
-        "elo":  1000,
-        "criminales_matados":  0,
-        "ciudadanos_matados":  0,
-        "usuarios_matados":  0,
-        "muertes":  0,
-        "puntos_pesca":  0,
-        "killed_npcs":  0,
-        "minutos_online":  0,
-        "drag_puntos":  0
-    },
-    {
         "name":  "Saved",
         "level":  4,
         "exp":  400,
@@ -12826,10 +12801,10 @@
     },
     {
         "name":  "arke",
-        "level":  35,
-        "exp":  1720933,
-        "exp_next_level":  4052262,
-        "exp_percentage":  42.47,
+        "level":  36,
+        "exp":  1346048,
+        "exp_next_level":  4862714,
+        "exp_percentage":  27.68,
         "remort":  0,
         "remorted":  "",
         "head":  205,
@@ -12843,10 +12818,10 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  14,
+        "muertes":  15,
         "puntos_pesca":  0,
-        "killed_npcs":  265,
-        "minutos_online":  396,
+        "killed_npcs":  267,
+        "minutos_online":  410,
         "drag_puntos":  4
     },
     {
@@ -13021,7 +12996,7 @@
         "muertes":  4,
         "puntos_pesca":  0,
         "killed_npcs":  50,
-        "minutos_online":  331,
+        "minutos_online":  391,
         "drag_puntos":  2
     },
     {
@@ -13121,7 +13096,7 @@
         "muertes":  2,
         "puntos_pesca":  0,
         "killed_npcs":  14,
-        "minutos_online":  59,
+        "minutos_online":  116,
         "drag_puntos":  0
     },
     {
@@ -13196,7 +13171,7 @@
         "muertes":  21,
         "puntos_pesca":  0,
         "killed_npcs":  96,
-        "minutos_online":  311,
+        "minutos_online":  371,
         "drag_puntos":  9
     },
     {
@@ -13272,6 +13247,31 @@
         "puntos_pesca":  0,
         "killed_npcs":  7,
         "minutos_online":  3,
+        "drag_puntos":  0
+    },
+    {
+        "name":  "kAk ExpulCe",
+        "level":  4,
+        "exp":  575,
+        "exp_next_level":  1520,
+        "exp_percentage":  37.83,
+        "remort":  0,
+        "remorted":  "",
+        "head":  472,
+        "genre":  "Mujer",
+        "genre_id":  2,
+        "class":  "Asesino",
+        "class_id":  4,
+        "race":  "Gnomo",
+        "race_id":  4,
+        "elo":  1000,
+        "criminales_matados":  0,
+        "ciudadanos_matados":  0,
+        "usuarios_matados":  0,
+        "muertes":  1,
+        "puntos_pesca":  0,
+        "killed_npcs":  2,
+        "minutos_online":  1,
         "drag_puntos":  0
     }
 ]
