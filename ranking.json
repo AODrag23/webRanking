@@ -102,9 +102,9 @@
     {
         "name":  "SoBaO",
         "level":  48,
-        "exp":  70354484,
+        "exp":  76354484,
         "exp_next_level":  129990958,
-        "exp_percentage":  54.12,
+        "exp_percentage":  58.74,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  625,
@@ -120,9 +120,9 @@
         "usuarios_matados":  20,
         "muertes":  26,
         "puntos_pesca":  0,
-        "killed_npcs":  516,
-        "minutos_online":  1117,
-        "drag_puntos":  29
+        "killed_npcs":  517,
+        "minutos_online":  1127,
+        "drag_puntos":  35
     },
     {
         "name":  "Urashiki",
@@ -452,9 +452,9 @@
     {
         "name":  "toPO",
         "level":  44,
-        "exp":  6507556,
+        "exp":  6838176,
         "exp_next_level":  62688540,
-        "exp_percentage":  10.38,
+        "exp_percentage":  10.91,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  624,
@@ -470,8 +470,8 @@
         "usuarios_matados":  68,
         "muertes":  60,
         "puntos_pesca":  20,
-        "killed_npcs":  3905,
-        "minutos_online":  5349,
+        "killed_npcs":  3909,
+        "minutos_online":  5398,
         "drag_puntos":  116
     },
     {
@@ -752,9 +752,9 @@
     {
         "name":  "Hukx",
         "level":  53,
-        "exp":  6994656,
+        "exp":  8562156,
         "exp_next_level":  107884718,
-        "exp_percentage":  6.48,
+        "exp_percentage":  7.94,
         "remort":  0,
         "remorted":  "",
         "head":  308,
@@ -771,7 +771,7 @@
         "muertes":  7,
         "puntos_pesca":  0,
         "killed_npcs":  159,
-        "minutos_online":  504,
+        "minutos_online":  508,
         "drag_puntos":  0
     },
     {
@@ -971,7 +971,7 @@
         "muertes":  8,
         "puntos_pesca":  0,
         "killed_npcs":  657,
-        "minutos_online":  1308,
+        "minutos_online":  1319,
         "drag_puntos":  0
     },
     {
@@ -1446,7 +1446,7 @@
         "muertes":  7,
         "puntos_pesca":  0,
         "killed_npcs":  46,
-        "minutos_online":  1420,
+        "minutos_online":  1423,
         "drag_puntos":  0
     },
     {
@@ -2496,7 +2496,7 @@
         "muertes":  49,
         "puntos_pesca":  12180,
         "killed_npcs":  1865,
-        "minutos_online":  6133,
+        "minutos_online":  6193,
         "drag_puntos":  51
     },
     {
@@ -2852,7 +2852,7 @@
     {
         "name":  "Xima",
         "level":  46,
-        "exp":  18133728,
+        "exp":  18134228,
         "exp_next_level":  30108644,
         "exp_percentage":  60.23,
         "remort":  0,
@@ -2871,7 +2871,7 @@
         "muertes":  10,
         "puntos_pesca":  700,
         "killed_npcs":  457,
-        "minutos_online":  1167,
+        "minutos_online":  1169,
         "drag_puntos":  14
     },
     {
@@ -4796,7 +4796,7 @@
         "muertes":  7,
         "puntos_pesca":  0,
         "killed_npcs":  263,
-        "minutos_online":  923,
+        "minutos_online":  961,
         "drag_puntos":  0
     },
     {
@@ -4851,10 +4851,10 @@
     },
     {
         "name":  "Sifurus",
-        "level":  36,
-        "exp":  1085737,
-        "exp_next_level":  4862714,
-        "exp_percentage":  22.33,
+        "level":  37,
+        "exp":  2745475,
+        "exp_next_level":  5835257,
+        "exp_percentage":  47.05,
         "remort":  0,
         "remorted":  "",
         "head":  313,
@@ -4870,8 +4870,8 @@
         "usuarios_matados":  0,
         "muertes":  2,
         "puntos_pesca":  0,
-        "killed_npcs":  150,
-        "minutos_online":  115,
+        "killed_npcs":  156,
+        "minutos_online":  141,
         "drag_puntos":  0
     },
     {
@@ -4946,7 +4946,7 @@
         "muertes":  47,
         "puntos_pesca":  0,
         "killed_npcs":  1818,
-        "minutos_online":  2676,
+        "minutos_online":  2736,
         "drag_puntos":  60
     },
     {
@@ -5345,8 +5345,8 @@
         "usuarios_matados":  9,
         "muertes":  27,
         "puntos_pesca":  0,
-        "killed_npcs":  983,
-        "minutos_online":  1741,
+        "killed_npcs":  985,
+        "minutos_online":  1745,
         "drag_puntos":  52
     },
     {
@@ -5821,7 +5821,7 @@
         "muertes":  18,
         "puntos_pesca":  0,
         "killed_npcs":  245,
-        "minutos_online":  2470,
+        "minutos_online":  2530,
         "drag_puntos":  0
     },
     {
@@ -8546,7 +8546,7 @@
         "muertes":  8,
         "puntos_pesca":  0,
         "killed_npcs":  1009,
-        "minutos_online":  3620,
+        "minutos_online":  3621,
         "drag_puntos":  62
     },
     {
@@ -10821,7 +10821,7 @@
         "muertes":  4,
         "puntos_pesca":  320,
         "killed_npcs":  630,
-        "minutos_online":  1627,
+        "minutos_online":  1687,
         "drag_puntos":  49
     },
     {
@@ -11152,9 +11152,9 @@
     {
         "name":  "SikTy",
         "level":  50,
-        "exp":  5578758,
+        "exp":  10754258,
         "exp_next_level":  62433286,
-        "exp_percentage":  8.94,
+        "exp_percentage":  17.23,
         "remort":  0,
         "remorted":  "",
         "head":  253,
@@ -11170,8 +11170,8 @@
         "usuarios_matados":  0,
         "muertes":  4,
         "puntos_pesca":  0,
-        "killed_npcs":  448,
-        "minutos_online":  722,
+        "killed_npcs":  467,
+        "minutos_online":  734,
         "drag_puntos":  0
     },
     {
@@ -11602,9 +11602,9 @@
     {
         "name":  "Vereford",
         "level":  33,
-        "exp":  488546,
+        "exp":  493046,
         "exp_next_level":  2814071,
-        "exp_percentage":  17.36,
+        "exp_percentage":  17.52,
         "remort":  0,
         "remorted":  "",
         "head":  201,
@@ -11620,8 +11620,8 @@
         "usuarios_matados":  1,
         "muertes":  6,
         "puntos_pesca":  0,
-        "killed_npcs":  238,
-        "minutos_online":  344,
+        "killed_npcs":  248,
+        "minutos_online":  367,
         "drag_puntos":  0
     },
     {
@@ -12671,7 +12671,7 @@
         "muertes":  15,
         "puntos_pesca":  0,
         "killed_npcs":  104,
-        "minutos_online":  480,
+        "minutos_online":  481,
         "drag_puntos":  0
     },
     {
@@ -12727,9 +12727,9 @@
     {
         "name":  "Cruiser",
         "level":  42,
-        "exp":  1390089,
+        "exp":  1712074,
         "exp_next_level":  14519987,
-        "exp_percentage":  9.57,
+        "exp_percentage":  11.79,
         "remort":  0,
         "remorted":  "",
         "head":  635,
@@ -12746,7 +12746,7 @@
         "muertes":  13,
         "puntos_pesca":  0,
         "killed_npcs":  9,
-        "minutos_online":  736,
+        "minutos_online":  776,
         "drag_puntos":  0
     },
     {
@@ -12826,10 +12826,10 @@
     },
     {
         "name":  "arke",
-        "level":  41,
-        "exp":  5661869,
-        "exp_next_level":  12099989,
-        "exp_percentage":  46.79,
+        "level":  43,
+        "exp":  13008806,
+        "exp_next_level":  17423984,
+        "exp_percentage":  74.66,
         "remort":  0,
         "remorted":  "",
         "head":  205,
@@ -12845,9 +12845,9 @@
         "usuarios_matados":  0,
         "muertes":  20,
         "puntos_pesca":  0,
-        "killed_npcs":  289,
-        "minutos_online":  636,
-        "drag_puntos":  6
+        "killed_npcs":  370,
+        "minutos_online":  696,
+        "drag_puntos":  12
     },
     {
         "name":  "DaMaRiS",
@@ -13201,10 +13201,10 @@
     },
     {
         "name":  "Dominatrix",
-        "level":  28,
-        "exp":  220073,
-        "exp_next_level":  1130912,
-        "exp_percentage":  19.46,
+        "level":  31,
+        "exp":  94390,
+        "exp_next_level":  1954216,
+        "exp_percentage":  4.83,
         "remort":  0,
         "remorted":  "",
         "head":  353,
@@ -13220,8 +13220,8 @@
         "usuarios_matados":  0,
         "muertes":  16,
         "puntos_pesca":  0,
-        "killed_npcs":  318,
-        "minutos_online":  295,
+        "killed_npcs":  330,
+        "minutos_online":  302,
         "drag_puntos":  0
     },
     {
@@ -13477,9 +13477,9 @@
     {
         "name":  "Celegorm",
         "level":  13,
-        "exp":  2740,
+        "exp":  7290,
         "exp_next_level":  32968,
-        "exp_percentage":  8.31,
+        "exp_percentage":  22.11,
         "remort":  0,
         "remorted":  "",
         "head":  429,
@@ -13495,8 +13495,8 @@
         "usuarios_matados":  0,
         "muertes":  13,
         "puntos_pesca":  0,
-        "killed_npcs":  140,
-        "minutos_online":  109,
+        "killed_npcs":  142,
+        "minutos_online":  121,
         "drag_puntos":  0
     },
     {
@@ -13546,7 +13546,7 @@
         "muertes":  4,
         "puntos_pesca":  0,
         "killed_npcs":  10,
-        "minutos_online":  580,
+        "minutos_online":  640,
         "drag_puntos":  0
     },
     {
