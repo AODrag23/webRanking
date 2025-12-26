@@ -102,9 +102,9 @@
     {
         "name":  "SoBaO",
         "level":  48,
-        "exp":  69272502,
+        "exp":  70354484,
         "exp_next_level":  129990958,
-        "exp_percentage":  53.29,
+        "exp_percentage":  54.12,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  625,
@@ -115,14 +115,14 @@
         "race":  "Vampiro",
         "race_id":  7,
         "elo":  1000,
-        "criminales_matados":  1,
+        "criminales_matados":  4,
         "ciudadanos_matados":  0,
-        "usuarios_matados":  2,
+        "usuarios_matados":  20,
         "muertes":  26,
         "puntos_pesca":  0,
-        "killed_npcs":  515,
-        "minutos_online":  1103,
-        "drag_puntos":  28
+        "killed_npcs":  516,
+        "minutos_online":  1117,
+        "drag_puntos":  29
     },
     {
         "name":  "Urashiki",
@@ -751,10 +751,10 @@
     },
     {
         "name":  "Hukx",
-        "level":  52,
-        "exp":  43118974,
-        "exp_next_level":  89903932,
-        "exp_percentage":  47.96,
+        "level":  53,
+        "exp":  6994656,
+        "exp_next_level":  107884718,
+        "exp_percentage":  6.48,
         "remort":  0,
         "remorted":  "",
         "head":  308,
@@ -768,10 +768,10 @@
         "criminales_matados":  2,
         "ciudadanos_matados":  0,
         "usuarios_matados":  3,
-        "muertes":  6,
+        "muertes":  7,
         "puntos_pesca":  0,
         "killed_npcs":  159,
-        "minutos_online":  473,
+        "minutos_online":  504,
         "drag_puntos":  0
     },
     {
@@ -2343,10 +2343,10 @@
         "criminales_matados":  75,
         "ciudadanos_matados":  23,
         "usuarios_matados":  170,
-        "muertes":  164,
+        "muertes":  170,
         "puntos_pesca":  0,
         "killed_npcs":  1132,
-        "minutos_online":  4079,
+        "minutos_online":  4090,
         "drag_puntos":  17
     },
     {
@@ -2496,7 +2496,7 @@
         "muertes":  49,
         "puntos_pesca":  12180,
         "killed_npcs":  1865,
-        "minutos_online":  6073,
+        "minutos_online":  6133,
         "drag_puntos":  51
     },
     {
@@ -3021,7 +3021,7 @@
         "muertes":  8,
         "puntos_pesca":  13590,
         "killed_npcs":  15,
-        "minutos_online":  1367,
+        "minutos_online":  1369,
         "drag_puntos":  0
     },
     {
@@ -4777,9 +4777,9 @@
     {
         "name":  "Domud",
         "level":  40,
-        "exp":  1260743,
+        "exp":  1261993,
         "exp_next_level":  10083324,
-        "exp_percentage":  12.5,
+        "exp_percentage":  12.52,
         "remort":  0,
         "remorted":  "",
         "head":  313,
@@ -4796,7 +4796,7 @@
         "muertes":  7,
         "puntos_pesca":  0,
         "killed_npcs":  263,
-        "minutos_online":  869,
+        "minutos_online":  923,
         "drag_puntos":  0
     },
     {
@@ -4946,7 +4946,7 @@
         "muertes":  47,
         "puntos_pesca":  0,
         "killed_npcs":  1818,
-        "minutos_online":  2616,
+        "minutos_online":  2676,
         "drag_puntos":  60
     },
     {
@@ -5345,9 +5345,9 @@
         "usuarios_matados":  9,
         "muertes":  27,
         "puntos_pesca":  0,
-        "killed_npcs":  962,
-        "minutos_online":  1706,
-        "drag_puntos":  49
+        "killed_npcs":  983,
+        "minutos_online":  1741,
+        "drag_puntos":  52
     },
     {
         "name":  "PLAGUICIDA",
@@ -5518,10 +5518,10 @@
         "criminales_matados":  85,
         "ciudadanos_matados":  209,
         "usuarios_matados":  354,
-        "muertes":  192,
+        "muertes":  193,
         "puntos_pesca":  240,
-        "killed_npcs":  1171,
-        "minutos_online":  2585,
+        "killed_npcs":  1191,
+        "minutos_online":  2616,
         "drag_puntos":  13
     },
     {
@@ -5821,7 +5821,7 @@
         "muertes":  18,
         "puntos_pesca":  0,
         "killed_npcs":  245,
-        "minutos_online":  2467,
+        "minutos_online":  2470,
         "drag_puntos":  0
     },
     {
@@ -9071,7 +9071,7 @@
         "muertes":  18,
         "puntos_pesca":  0,
         "killed_npcs":  931,
-        "minutos_online":  863,
+        "minutos_online":  869,
         "drag_puntos":  78
     },
     {
@@ -10802,9 +10802,9 @@
     {
         "name":  "Shivai",
         "level":  45,
-        "exp":  56841234,
+        "exp":  56873672,
         "exp_next_level":  75226248,
-        "exp_percentage":  75.56,
+        "exp_percentage":  75.6,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  688,
@@ -10821,7 +10821,7 @@
         "muertes":  4,
         "puntos_pesca":  320,
         "killed_npcs":  630,
-        "minutos_online":  1567,
+        "minutos_online":  1627,
         "drag_puntos":  49
     },
     {
@@ -11171,7 +11171,7 @@
         "muertes":  4,
         "puntos_pesca":  0,
         "killed_npcs":  448,
-        "minutos_online":  659,
+        "minutos_online":  722,
         "drag_puntos":  0
     },
     {
@@ -11218,10 +11218,10 @@
         "criminales_matados":  2,
         "ciudadanos_matados":  3,
         "usuarios_matados":  24,
-        "muertes":  23,
+        "muertes":  34,
         "puntos_pesca":  0,
-        "killed_npcs":  105,
-        "minutos_online":  852,
+        "killed_npcs":  108,
+        "minutos_online":  864,
         "drag_puntos":  2
     },
     {
@@ -12646,7 +12646,7 @@
         "muertes":  2,
         "puntos_pesca":  0,
         "killed_npcs":  134,
-        "minutos_online":  140,
+        "minutos_online":  141,
         "drag_puntos":  0
     },
     {
@@ -12827,9 +12827,9 @@
     {
         "name":  "arke",
         "level":  41,
-        "exp":  4161369,
+        "exp":  5661869,
         "exp_next_level":  12099989,
-        "exp_percentage":  34.39,
+        "exp_percentage":  46.79,
         "remort":  0,
         "remorted":  "",
         "head":  205,
@@ -12845,8 +12845,8 @@
         "usuarios_matados":  0,
         "muertes":  20,
         "puntos_pesca":  0,
-        "killed_npcs":  288,
-        "minutos_online":  629,
+        "killed_npcs":  289,
+        "minutos_online":  636,
         "drag_puntos":  6
     },
     {
@@ -13321,7 +13321,7 @@
         "muertes":  0,
         "puntos_pesca":  0,
         "killed_npcs":  122,
-        "minutos_online":  109,
+        "minutos_online":  116,
         "drag_puntos":  0
     },
     {
@@ -13546,7 +13546,7 @@
         "muertes":  4,
         "puntos_pesca":  0,
         "killed_npcs":  10,
-        "minutos_online":  520,
+        "minutos_online":  580,
         "drag_puntos":  0
     },
     {
