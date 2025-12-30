@@ -277,9 +277,9 @@
     {
         "name":  "Asura",
         "level":  41,
-        "exp":  7736765,
+        "exp":  7754595,
         "exp_next_level":  12099989,
-        "exp_percentage":  63.94,
+        "exp_percentage":  64.09,
         "remort":  0,
         "remorted":  "",
         "head":  624,
@@ -296,7 +296,7 @@
         "muertes":  31,
         "puntos_pesca":  0,
         "killed_npcs":  20,
-        "minutos_online":  4021,
+        "minutos_online":  4024,
         "drag_puntos":  0
     },
     {
@@ -752,9 +752,9 @@
     {
         "name":  "Hukx",
         "level":  44,
-        "exp":  12248250,
+        "exp":  12266166,
         "exp_next_level":  62688540,
-        "exp_percentage":  19.54,
+        "exp_percentage":  19.57,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  308,
@@ -771,7 +771,7 @@
         "muertes":  9,
         "puntos_pesca":  0,
         "killed_npcs":  498,
-        "minutos_online":  1148,
+        "minutos_online":  1149,
         "drag_puntos":  19
     },
     {
@@ -2495,9 +2495,9 @@
         "usuarios_matados":  109,
         "muertes":  58,
         "puntos_pesca":  12180,
-        "killed_npcs":  2828,
-        "minutos_online":  8267,
-        "drag_puntos":  176
+        "killed_npcs":  2863,
+        "minutos_online":  8293,
+        "drag_puntos":  180
     },
     {
         "name":  "Lenio",
@@ -2802,9 +2802,9 @@
     {
         "name":  "Zhongwen",
         "level":  55,
-        "exp":  315692532,
+        "exp":  367306880,
         "exp_next_level":  465781105,
-        "exp_percentage":  67.78,
+        "exp_percentage":  78.86,
         "remort":  1,
         "remorted":  "Elian-LAL",
         "head":  103,
@@ -2818,11 +2818,11 @@
         "criminales_matados":  135,
         "ciudadanos_matados":  18,
         "usuarios_matados":  445,
-        "muertes":  331,
+        "muertes":  332,
         "puntos_pesca":  0,
-        "killed_npcs":  2247,
-        "minutos_online":  8541,
-        "drag_puntos":  61
+        "killed_npcs":  2278,
+        "minutos_online":  8601,
+        "drag_puntos":  62
     },
     {
         "name":  "Magardo",
@@ -2871,7 +2871,7 @@
         "muertes":  11,
         "puntos_pesca":  700,
         "killed_npcs":  515,
-        "minutos_online":  3379,
+        "minutos_online":  3439,
         "drag_puntos":  15
     },
     {
@@ -3043,10 +3043,10 @@
         "criminales_matados":  152,
         "ciudadanos_matados":  36,
         "usuarios_matados":  342,
-        "muertes":  96,
+        "muertes":  97,
         "puntos_pesca":  0,
         "killed_npcs":  1959,
-        "minutos_online":  5461,
+        "minutos_online":  5464,
         "drag_puntos":  148
     },
     {
@@ -3695,9 +3695,9 @@
         "usuarios_matados":  206,
         "muertes":  207,
         "puntos_pesca":  0,
-        "killed_npcs":  2125,
-        "minutos_online":  4342,
-        "drag_puntos":  62
+        "killed_npcs":  2231,
+        "minutos_online":  4401,
+        "drag_puntos":  63
     },
     {
         "name":  "andromeda",
@@ -7046,7 +7046,7 @@
         "muertes":  12,
         "puntos_pesca":  1625,
         "killed_npcs":  658,
-        "minutos_online":  5025,
+        "minutos_online":  5085,
         "drag_puntos":  0
     },
     {
@@ -7446,7 +7446,7 @@
         "muertes":  15,
         "puntos_pesca":  0,
         "killed_npcs":  306,
-        "minutos_online":  534,
+        "minutos_online":  537,
         "drag_puntos":  10
     },
     {
@@ -9021,7 +9021,7 @@
         "muertes":  22,
         "puntos_pesca":  0,
         "killed_npcs":  1141,
-        "minutos_online":  1105,
+        "minutos_online":  1107,
         "drag_puntos":  85
     },
     {
@@ -10771,7 +10771,7 @@
         "muertes":  13,
         "puntos_pesca":  320,
         "killed_npcs":  1220,
-        "minutos_online":  4404,
+        "minutos_online":  4464,
         "drag_puntos":  67
     },
     {
@@ -11021,7 +11021,7 @@
         "muertes":  86,
         "puntos_pesca":  0,
         "killed_npcs":  1333,
-        "minutos_online":  4278,
+        "minutos_online":  4322,
         "drag_puntos":  75
     },
     {
@@ -13502,9 +13502,9 @@
     {
         "name":  "Asterix",
         "level":  12,
-        "exp":  1718,
+        "exp":  3798,
         "exp_next_level":  25360,
-        "exp_percentage":  6.77,
+        "exp_percentage":  14.98,
         "remort":  0,
         "remorted":  "",
         "head":  624,
@@ -13518,10 +13518,10 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  0,
+        "muertes":  2,
         "puntos_pesca":  0,
-        "killed_npcs":  38,
-        "minutos_online":  35,
+        "killed_npcs":  39,
+        "minutos_online":  43,
         "drag_puntos":  0
     },
     {
@@ -13646,7 +13646,7 @@
         "muertes":  60,
         "puntos_pesca":  0,
         "killed_npcs":  403,
-        "minutos_online":  2385,
+        "minutos_online":  2432,
         "drag_puntos":  21
     },
     {
@@ -13776,10 +13776,10 @@
     },
     {
         "name":  "Cyrilla",
-        "level":  51,
-        "exp":  50110718,
-        "exp_next_level":  74919943,
-        "exp_percentage":  66.89,
+        "level":  52,
+        "exp":  12447782,
+        "exp_next_level":  89903932,
+        "exp_percentage":  13.85,
         "remort":  0,
         "remorted":  "",
         "head":  258,
@@ -13795,9 +13795,9 @@
         "usuarios_matados":  3,
         "muertes":  7,
         "puntos_pesca":  0,
-        "killed_npcs":  802,
-        "minutos_online":  600,
-        "drag_puntos":  37
+        "killed_npcs":  864,
+        "minutos_online":  626,
+        "drag_puntos":  39
     },
     {
         "name":  "Dimitrii",
@@ -14021,7 +14021,7 @@
         "muertes":  19,
         "puntos_pesca":  0,
         "killed_npcs":  610,
-        "minutos_online":  2449,
+        "minutos_online":  2509,
         "drag_puntos":  4
     },
     {
@@ -15601,10 +15601,10 @@
     },
     {
         "name":  "MuGre",
-        "level":  41,
-        "exp":  59334,
-        "exp_next_level":  12099989,
-        "exp_percentage":  0.49,
+        "level":  44,
+        "exp":  6296955,
+        "exp_next_level":  20908781,
+        "exp_percentage":  30.12,
         "remort":  0,
         "remorted":  "",
         "head":  527,
@@ -15618,11 +15618,11 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  4,
+        "muertes":  6,
         "puntos_pesca":  0,
-        "killed_npcs":  150,
-        "minutos_online":  142,
-        "drag_puntos":  9
+        "killed_npcs":  167,
+        "minutos_online":  202,
+        "drag_puntos":  11
     },
     {
         "name":  "ELPATRON",
@@ -15701,10 +15701,10 @@
     },
     {
         "name":  "Muzan",
-        "level":  41,
-        "exp":  60922,
-        "exp_next_level":  12099989,
-        "exp_percentage":  0.5,
+        "level":  45,
+        "exp":  19412266,
+        "exp_next_level":  25090537,
+        "exp_percentage":  77.37,
         "remort":  0,
         "remorted":  "",
         "head":  623,
@@ -15718,10 +15718,35 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  3,
+        "muertes":  6,
         "puntos_pesca":  0,
         "killed_npcs":  0,
-        "minutos_online":  29,
+        "minutos_online":  55,
+        "drag_puntos":  0
+    },
+    {
+        "name":  "CoCaCoLa",
+        "level":  2,
+        "exp":  0,
+        "exp_next_level":  675,
+        "exp_percentage":  0,
+        "remort":  0,
+        "remorted":  "",
+        "head":  0,
+        "genre":  "Mujer",
+        "genre_id":  2,
+        "class":  "NiÃ±o",
+        "class_id":  14,
+        "race":  "Vampiro",
+        "race_id":  7,
+        "elo":  1000,
+        "criminales_matados":  0,
+        "ciudadanos_matados":  0,
+        "usuarios_matados":  0,
+        "muertes":  0,
+        "puntos_pesca":  0,
+        "killed_npcs":  1,
+        "minutos_online":  15,
         "drag_puntos":  0
     }
 ]
