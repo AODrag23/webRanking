@@ -71,7 +71,7 @@
         "muertes":  263,
         "puntos_pesca":  0,
         "killed_npcs":  498,
-        "minutos_online":  5839,
+        "minutos_online":  5899,
         "drag_puntos":  25
     },
     {
@@ -202,9 +202,9 @@
     {
         "name":  "RIP",
         "level":  46,
-        "exp":  1406634,
+        "exp":  6102122,
         "exp_next_level":  90271498,
-        "exp_percentage":  1.56,
+        "exp_percentage":  6.76,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  227,
@@ -218,11 +218,11 @@
         "criminales_matados":  5,
         "ciudadanos_matados":  20,
         "usuarios_matados":  41,
-        "muertes":  99,
+        "muertes":  100,
         "puntos_pesca":  0,
-        "killed_npcs":  2454,
-        "minutos_online":  5059,
-        "drag_puntos":  31
+        "killed_npcs":  2462,
+        "minutos_online":  5125,
+        "drag_puntos":  32
     },
     {
         "name":  "MeLo",
@@ -751,10 +751,10 @@
     },
     {
         "name":  "Hukx",
-        "level":  49,
-        "exp":  122256822,
-        "exp_next_level":  155989150,
-        "exp_percentage":  78.38,
+        "level":  50,
+        "exp":  2851094,
+        "exp_next_level":  187186980,
+        "exp_percentage":  1.52,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  308,
@@ -770,9 +770,9 @@
         "usuarios_matados":  4,
         "muertes":  12,
         "puntos_pesca":  0,
-        "killed_npcs":  854,
-        "minutos_online":  1678,
-        "drag_puntos":  49
+        "killed_npcs":  1209,
+        "minutos_online":  1743,
+        "drag_puntos":  50
     },
     {
         "name":  "Laburador",
@@ -7046,7 +7046,7 @@
         "muertes":  12,
         "puntos_pesca":  1625,
         "killed_npcs":  658,
-        "minutos_online":  5697,
+        "minutos_online":  5757,
         "drag_puntos":  0
     },
     {
@@ -8721,7 +8721,7 @@
         "muertes":  38,
         "puntos_pesca":  0,
         "killed_npcs":  731,
-        "minutos_online":  3587,
+        "minutos_online":  3647,
         "drag_puntos":  47
     },
     {
@@ -13120,8 +13120,8 @@
         "usuarios_matados":  46,
         "muertes":  49,
         "puntos_pesca":  0,
-        "killed_npcs":  1288,
-        "minutos_online":  4363,
+        "killed_npcs":  1289,
+        "minutos_online":  4381,
         "drag_puntos":  137
     },
     {
@@ -13646,7 +13646,7 @@
         "muertes":  63,
         "puntos_pesca":  0,
         "killed_npcs":  807,
-        "minutos_online":  4105,
+        "minutos_online":  4165,
         "drag_puntos":  43
     },
     {
@@ -13996,7 +13996,7 @@
         "muertes":  23,
         "puntos_pesca":  0,
         "killed_npcs":  625,
-        "minutos_online":  3143,
+        "minutos_online":  3203,
         "drag_puntos":  6
     },
     {
@@ -15752,9 +15752,9 @@
     {
         "name":  "ibuprofeno",
         "level":  18,
-        "exp":  71699,
+        "exp":  72199,
         "exp_next_level":  122407,
-        "exp_percentage":  58.57,
+        "exp_percentage":  58.98,
         "remort":  0,
         "remorted":  "",
         "head":  329,
@@ -15771,7 +15771,7 @@
         "muertes":  1,
         "puntos_pesca":  0,
         "killed_npcs":  195,
-        "minutos_online":  62,
+        "minutos_online":  64,
         "drag_puntos":  0
     },
     {
@@ -15846,7 +15846,7 @@
         "muertes":  0,
         "puntos_pesca":  0,
         "killed_npcs":  11,
-        "minutos_online":  1622,
+        "minutos_online":  1682,
         "drag_puntos":  0
     },
     {
