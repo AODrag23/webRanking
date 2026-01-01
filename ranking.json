@@ -71,7 +71,7 @@
         "muertes":  263,
         "puntos_pesca":  0,
         "killed_npcs":  498,
-        "minutos_online":  5779,
+        "minutos_online":  5839,
         "drag_puntos":  25
     },
     {
@@ -201,10 +201,10 @@
     },
     {
         "name":  "RIP",
-        "level":  45,
-        "exp":  5816304,
-        "exp_next_level":  75226248,
-        "exp_percentage":  7.73,
+        "level":  46,
+        "exp":  1406634,
+        "exp_next_level":  90271498,
+        "exp_percentage":  1.56,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  227,
@@ -220,9 +220,9 @@
         "usuarios_matados":  41,
         "muertes":  99,
         "puntos_pesca":  0,
-        "killed_npcs":  2285,
-        "minutos_online":  4999,
-        "drag_puntos":  13
+        "killed_npcs":  2454,
+        "minutos_online":  5059,
+        "drag_puntos":  31
     },
     {
         "name":  "MeLo",
@@ -752,9 +752,9 @@
     {
         "name":  "Hukx",
         "level":  49,
-        "exp":  78003022,
+        "exp":  122256822,
         "exp_next_level":  155989150,
-        "exp_percentage":  50.01,
+        "exp_percentage":  78.38,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  308,
@@ -770,9 +770,9 @@
         "usuarios_matados":  4,
         "muertes":  12,
         "puntos_pesca":  0,
-        "killed_npcs":  797,
-        "minutos_online":  1618,
-        "drag_puntos":  45
+        "killed_npcs":  854,
+        "minutos_online":  1678,
+        "drag_puntos":  49
     },
     {
         "name":  "Laburador",
@@ -7046,7 +7046,7 @@
         "muertes":  12,
         "puntos_pesca":  1625,
         "killed_npcs":  658,
-        "minutos_online":  5637,
+        "minutos_online":  5697,
         "drag_puntos":  0
     },
     {
@@ -8496,7 +8496,7 @@
         "muertes":  30,
         "puntos_pesca":  0,
         "killed_npcs":  1509,
-        "minutos_online":  7552,
+        "minutos_online":  7562,
         "drag_puntos":  110
     },
     {
@@ -8721,7 +8721,7 @@
         "muertes":  38,
         "puntos_pesca":  0,
         "killed_npcs":  731,
-        "minutos_online":  3527,
+        "minutos_online":  3587,
         "drag_puntos":  47
     },
     {
@@ -13646,7 +13646,7 @@
         "muertes":  63,
         "puntos_pesca":  0,
         "killed_npcs":  807,
-        "minutos_online":  4045,
+        "minutos_online":  4105,
         "drag_puntos":  43
     },
     {
@@ -13996,7 +13996,7 @@
         "muertes":  23,
         "puntos_pesca":  0,
         "killed_npcs":  625,
-        "minutos_online":  3083,
+        "minutos_online":  3143,
         "drag_puntos":  6
     },
     {
@@ -14801,10 +14801,10 @@
     },
     {
         "name":  "Sucia",
-        "level":  38,
-        "exp":  4647601,
-        "exp_next_level":  7002308,
-        "exp_percentage":  66.37,
+        "level":  40,
+        "exp":  500192,
+        "exp_next_level":  10083324,
+        "exp_percentage":  4.96,
         "remort":  0,
         "remorted":  "",
         "head":  687,
@@ -14820,8 +14820,8 @@
         "usuarios_matados":  0,
         "muertes":  4,
         "puntos_pesca":  0,
-        "killed_npcs":  67,
-        "minutos_online":  520,
+        "killed_npcs":  73,
+        "minutos_online":  539,
         "drag_puntos":  0
     },
     {
@@ -15846,7 +15846,7 @@
         "muertes":  0,
         "puntos_pesca":  0,
         "killed_npcs":  11,
-        "minutos_online":  1562,
+        "minutos_online":  1622,
         "drag_puntos":  0
     },
     {
