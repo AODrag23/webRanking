@@ -146,7 +146,7 @@
         "muertes":  115,
         "puntos_pesca":  0,
         "killed_npcs":  2619,
-        "minutos_online":  6703,
+        "minutos_online":  6707,
         "drag_puntos":  257
     },
     {
@@ -752,9 +752,9 @@
     {
         "name":  "Hukx",
         "level":  50,
-        "exp":  17840930,
+        "exp":  17941270,
         "exp_next_level":  187186980,
-        "exp_percentage":  9.53,
+        "exp_percentage":  9.58,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  308,
@@ -771,7 +771,7 @@
         "muertes":  12,
         "puntos_pesca":  0,
         "killed_npcs":  1248,
-        "minutos_online":  1847,
+        "minutos_online":  1879,
         "drag_puntos":  50
     },
     {
@@ -951,10 +951,10 @@
     },
     {
         "name":  "Hannibal",
-        "level":  44,
-        "exp":  38525512,
-        "exp_next_level":  62688540,
-        "exp_percentage":  61.46,
+        "level":  45,
+        "exp":  14062687,
+        "exp_next_level":  75226248,
+        "exp_percentage":  18.69,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  623,
@@ -970,9 +970,9 @@
         "usuarios_matados":  17,
         "muertes":  21,
         "puntos_pesca":  3375,
-        "killed_npcs":  2327,
-        "minutos_online":  4170,
-        "drag_puntos":  75
+        "killed_npcs":  2410,
+        "minutos_online":  4210,
+        "drag_puntos":  78
     },
     {
         "name":  "Alat",
@@ -2851,10 +2851,10 @@
     },
     {
         "name":  "Xima",
-        "level":  37,
-        "exp":  10407832,
-        "exp_next_level":  17495221,
-        "exp_percentage":  59.49,
+        "level":  39,
+        "exp":  10405875,
+        "exp_next_level":  25193118,
+        "exp_percentage":  41.3,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  628,
@@ -2870,9 +2870,9 @@
         "usuarios_matados":  1,
         "muertes":  11,
         "puntos_pesca":  700,
-        "killed_npcs":  687,
-        "minutos_online":  4133,
-        "drag_puntos":  17
+        "killed_npcs":  736,
+        "minutos_online":  4182,
+        "drag_puntos":  19
     },
     {
         "name":  "GOOD SHADOW",
@@ -5346,7 +5346,7 @@
         "muertes":  28,
         "puntos_pesca":  0,
         "killed_npcs":  1307,
-        "minutos_online":  2267,
+        "minutos_online":  2303,
         "drag_puntos":  80
     },
     {
@@ -7221,7 +7221,7 @@
         "muertes":  255,
         "puntos_pesca":  0,
         "killed_npcs":  772,
-        "minutos_online":  3709,
+        "minutos_online":  3722,
         "drag_puntos":  12
     },
     {
@@ -8496,7 +8496,7 @@
         "muertes":  30,
         "puntos_pesca":  0,
         "killed_npcs":  1539,
-        "minutos_online":  8083,
+        "minutos_online":  8084,
         "drag_puntos":  132
     },
     {
@@ -10771,7 +10771,7 @@
         "muertes":  16,
         "puntos_pesca":  320,
         "killed_npcs":  1323,
-        "minutos_online":  7458,
+        "minutos_online":  7518,
         "drag_puntos":  70
     },
     {
@@ -11596,7 +11596,7 @@
         "muertes":  3,
         "puntos_pesca":  0,
         "killed_npcs":  294,
-        "minutos_online":  404,
+        "minutos_online":  405,
         "drag_puntos":  18
     },
     {
@@ -11877,9 +11877,9 @@
     {
         "name":  "natchu",
         "level":  54,
-        "exp":  53476710,
+        "exp":  65718460,
         "exp_next_level":  129461662,
-        "exp_percentage":  41.31,
+        "exp_percentage":  50.76,
         "remort":  0,
         "remorted":  "",
         "head":  516,
@@ -11895,8 +11895,8 @@
         "usuarios_matados":  2,
         "muertes":  43,
         "puntos_pesca":  0,
-        "killed_npcs":  782,
-        "minutos_online":  1454,
+        "killed_npcs":  792,
+        "minutos_online":  1489,
         "drag_puntos":  55
     },
     {
@@ -13152,9 +13152,9 @@
     {
         "name":  "Dominatrix",
         "level":  40,
-        "exp":  1060097,
+        "exp":  1064347,
         "exp_next_level":  10083324,
-        "exp_percentage":  10.51,
+        "exp_percentage":  10.56,
         "remort":  0,
         "remorted":  "",
         "head":  353,
@@ -13170,8 +13170,8 @@
         "usuarios_matados":  0,
         "muertes":  19,
         "puntos_pesca":  0,
-        "killed_npcs":  450,
-        "minutos_online":  1281,
+        "killed_npcs":  451,
+        "minutos_online":  1313,
         "drag_puntos":  0
     },
     {
@@ -13246,7 +13246,7 @@
         "muertes":  24,
         "puntos_pesca":  0,
         "killed_npcs":  24,
-        "minutos_online":  748,
+        "minutos_online":  808,
         "drag_puntos":  0
     },
     {
@@ -14521,7 +14521,7 @@
         "muertes":  0,
         "puntos_pesca":  0,
         "killed_npcs":  4,
-        "minutos_online":  14,
+        "minutos_online":  15,
         "drag_puntos":  0
     },
     {
@@ -14652,9 +14652,9 @@
     {
         "name":  "currante",
         "level":  33,
-        "exp":  1184148,
+        "exp":  1227572,
         "exp_next_level":  2814071,
-        "exp_percentage":  42.08,
+        "exp_percentage":  43.62,
         "remort":  0,
         "remorted":  "",
         "head":  324,
@@ -14671,7 +14671,7 @@
         "muertes":  26,
         "puntos_pesca":  0,
         "killed_npcs":  122,
-        "minutos_online":  712,
+        "minutos_online":  726,
         "drag_puntos":  0
     },
     {
@@ -15671,7 +15671,7 @@
         "muertes":  52,
         "puntos_pesca":  0,
         "killed_npcs":  40,
-        "minutos_online":  1084,
+        "minutos_online":  1144,
         "drag_puntos":  0
     },
     {
@@ -16046,7 +16046,7 @@
         "muertes":  14,
         "puntos_pesca":  0,
         "killed_npcs":  29,
-        "minutos_online":  613,
+        "minutos_online":  636,
         "drag_puntos":  0
     },
     {
