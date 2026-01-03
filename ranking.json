@@ -146,7 +146,7 @@
         "muertes":  115,
         "puntos_pesca":  0,
         "killed_npcs":  2620,
-        "minutos_online":  6728,
+        "minutos_online":  6733,
         "drag_puntos":  257
     },
     {
@@ -202,9 +202,9 @@
     {
         "name":  "RIP",
         "level":  48,
-        "exp":  7889264,
+        "exp":  32966764,
         "exp_next_level":  129990958,
-        "exp_percentage":  6.07,
+        "exp_percentage":  25.36,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  227,
@@ -220,9 +220,9 @@
         "usuarios_matados":  42,
         "muertes":  112,
         "puntos_pesca":  0,
-        "killed_npcs":  2722,
-        "minutos_online":  5497,
-        "drag_puntos":  48
+        "killed_npcs":  2743,
+        "minutos_online":  5542,
+        "drag_puntos":  50
     },
     {
         "name":  "MeLo",
@@ -377,7 +377,7 @@
     {
         "name":  "AtipOfijo",
         "level":  51,
-        "exp":  15240,
+        "exp":  19032,
         "exp_next_level":  224624376,
         "exp_percentage":  0.01,
         "remort":  1,
@@ -390,13 +390,13 @@
         "race":  "Elfo",
         "race_id":  2,
         "elo":  1000,
-        "criminales_matados":  135,
+        "criminales_matados":  139,
         "ciudadanos_matados":  51,
-        "usuarios_matados":  289,
+        "usuarios_matados":  295,
         "muertes":  191,
         "puntos_pesca":  0,
-        "killed_npcs":  2798,
-        "minutos_online":  6134,
+        "killed_npcs":  2802,
+        "minutos_online":  6156,
         "drag_puntos":  156
     },
     {
@@ -752,7 +752,7 @@
     {
         "name":  "Hukx",
         "level":  50,
-        "exp":  18400758,
+        "exp":  18402808,
         "exp_next_level":  187186980,
         "exp_percentage":  9.83,
         "remort":  1,
@@ -770,8 +770,8 @@
         "usuarios_matados":  4,
         "muertes":  12,
         "puntos_pesca":  0,
-        "killed_npcs":  1248,
-        "minutos_online":  2354,
+        "killed_npcs":  1249,
+        "minutos_online":  2359,
         "drag_puntos":  50
     },
     {
@@ -2495,9 +2495,9 @@
         "usuarios_matados":  125,
         "muertes":  66,
         "puntos_pesca":  12180,
-        "killed_npcs":  3820,
-        "minutos_online":  9979,
-        "drag_puntos":  121
+        "killed_npcs":  3929,
+        "minutos_online":  10039,
+        "drag_puntos":  133
     },
     {
         "name":  "Lenio",
@@ -2821,7 +2821,7 @@
         "muertes":  379,
         "puntos_pesca":  0,
         "killed_npcs":  2315,
-        "minutos_online":  10916,
+        "minutos_online":  10976,
         "drag_puntos":  62
     },
     {
@@ -3102,9 +3102,9 @@
     {
         "name":  "OVNI",
         "level":  15,
-        "exp":  22562,
+        "exp":  23562,
         "exp_next_level":  55715,
-        "exp_percentage":  40.5,
+        "exp_percentage":  42.29,
         "remort":  0,
         "remorted":  "",
         "head":  303,
@@ -3118,10 +3118,10 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  39,
+        "muertes":  55,
         "puntos_pesca":  0,
         "killed_npcs":  102,
-        "minutos_online":  163,
+        "minutos_online":  174,
         "drag_puntos":  0
     },
     {
@@ -3643,10 +3643,10 @@
         "criminales_matados":  35,
         "ciudadanos_matados":  4,
         "usuarios_matados":  82,
-        "muertes":  116,
+        "muertes":  117,
         "puntos_pesca":  0,
-        "killed_npcs":  683,
-        "minutos_online":  3287,
+        "killed_npcs":  684,
+        "minutos_online":  3299,
         "drag_puntos":  19
     },
     {
@@ -3846,7 +3846,7 @@
         "muertes":  1,
         "puntos_pesca":  30,
         "killed_npcs":  4,
-        "minutos_online":  390,
+        "minutos_online":  450,
         "drag_puntos":  0
     },
     {
@@ -5345,9 +5345,9 @@
         "usuarios_matados":  9,
         "muertes":  28,
         "puntos_pesca":  0,
-        "killed_npcs":  1309,
-        "minutos_online":  2862,
-        "drag_puntos":  80
+        "killed_npcs":  1393,
+        "minutos_online":  2914,
+        "drag_puntos":  83
     },
     {
         "name":  "PLAGUICIDA",
@@ -5846,7 +5846,7 @@
         "muertes":  29,
         "puntos_pesca":  0,
         "killed_npcs":  42,
-        "minutos_online":  2043,
+        "minutos_online":  2062,
         "drag_puntos":  0
     },
     {
@@ -7046,7 +7046,7 @@
         "muertes":  12,
         "puntos_pesca":  1625,
         "killed_npcs":  688,
-        "minutos_online":  6771,
+        "minutos_online":  6831,
         "drag_puntos":  0
     },
     {
@@ -7471,7 +7471,7 @@
         "muertes":  6,
         "puntos_pesca":  0,
         "killed_npcs":  629,
-        "minutos_online":  1846,
+        "minutos_online":  1906,
         "drag_puntos":  17
     },
     {
@@ -9802,9 +9802,9 @@
     {
         "name":  "Silent Kastel",
         "level":  44,
-        "exp":  7867030,
+        "exp":  8067030,
         "exp_next_level":  20908781,
-        "exp_percentage":  37.63,
+        "exp_percentage":  38.58,
         "remort":  0,
         "remorted":  "",
         "head":  624,
@@ -9821,7 +9821,7 @@
         "muertes":  3,
         "puntos_pesca":  0,
         "killed_npcs":  37,
-        "minutos_online":  314,
+        "minutos_online":  336,
         "drag_puntos":  0
     },
     {
@@ -12271,7 +12271,7 @@
         "muertes":  1,
         "puntos_pesca":  0,
         "killed_npcs":  1,
-        "minutos_online":  239,
+        "minutos_online":  246,
         "drag_puntos":  0
     },
     {
@@ -12871,7 +12871,7 @@
         "muertes":  59,
         "puntos_pesca":  0,
         "killed_npcs":  60,
-        "minutos_online":  1683,
+        "minutos_online":  1743,
         "drag_puntos":  1
     },
     {
@@ -13246,7 +13246,7 @@
         "muertes":  29,
         "puntos_pesca":  0,
         "killed_npcs":  24,
-        "minutos_online":  1949,
+        "minutos_online":  2009,
         "drag_puntos":  0
     },
     {
@@ -14821,7 +14821,7 @@
         "muertes":  5,
         "puntos_pesca":  0,
         "killed_npcs":  177,
-        "minutos_online":  1280,
+        "minutos_online":  1340,
         "drag_puntos":  0
     },
     {
@@ -14943,10 +14943,10 @@
         "criminales_matados":  1,
         "ciudadanos_matados":  2,
         "usuarios_matados":  46,
-        "muertes":  56,
+        "muertes":  59,
         "puntos_pesca":  0,
-        "killed_npcs":  563,
-        "minutos_online":  1026,
+        "killed_npcs":  565,
+        "minutos_online":  1046,
         "drag_puntos":  27
     },
     {
@@ -15643,10 +15643,10 @@
         "criminales_matados":  1,
         "ciudadanos_matados":  2,
         "usuarios_matados":  42,
-        "muertes":  127,
+        "muertes":  129,
         "puntos_pesca":  0,
         "killed_npcs":  61,
-        "minutos_online":  2379,
+        "minutos_online":  2439,
         "drag_puntos":  0
     },
     {
@@ -16021,7 +16021,7 @@
         "muertes":  17,
         "puntos_pesca":  0,
         "killed_npcs":  90,
-        "minutos_online":  1028,
+        "minutos_online":  1088,
         "drag_puntos":  0
     },
     {
@@ -16796,7 +16796,7 @@
         "muertes":  1,
         "puntos_pesca":  0,
         "killed_npcs":  0,
-        "minutos_online":  26,
+        "minutos_online":  29,
         "drag_puntos":  0
     }
 ]
