@@ -202,9 +202,9 @@
     {
         "name":  "RIP",
         "level":  48,
-        "exp":  2026519,
+        "exp":  7889264,
         "exp_next_level":  129990958,
-        "exp_percentage":  1.56,
+        "exp_percentage":  6.07,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  227,
@@ -220,9 +220,9 @@
         "usuarios_matados":  42,
         "muertes":  112,
         "puntos_pesca":  0,
-        "killed_npcs":  2703,
-        "minutos_online":  5455,
-        "drag_puntos":  47
+        "killed_npcs":  2722,
+        "minutos_online":  5497,
+        "drag_puntos":  48
     },
     {
         "name":  "MeLo",
@@ -2490,14 +2490,14 @@
         "race":  "Vampiro",
         "race_id":  7,
         "elo":  1000,
-        "criminales_matados":  72,
+        "criminales_matados":  73,
         "ciudadanos_matados":  22,
-        "usuarios_matados":  124,
+        "usuarios_matados":  125,
         "muertes":  66,
         "puntos_pesca":  12180,
-        "killed_npcs":  3792,
-        "minutos_online":  9946,
-        "drag_puntos":  113
+        "killed_npcs":  3820,
+        "minutos_online":  9979,
+        "drag_puntos":  121
     },
     {
         "name":  "Lenio",
@@ -2821,7 +2821,7 @@
         "muertes":  379,
         "puntos_pesca":  0,
         "killed_npcs":  2315,
-        "minutos_online":  10861,
+        "minutos_online":  10916,
         "drag_puntos":  62
     },
     {
@@ -3102,9 +3102,9 @@
     {
         "name":  "OVNI",
         "level":  15,
-        "exp":  20562,
+        "exp":  22562,
         "exp_next_level":  55715,
-        "exp_percentage":  36.91,
+        "exp_percentage":  40.5,
         "remort":  0,
         "remorted":  "",
         "head":  303,
@@ -3118,10 +3118,10 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  23,
+        "muertes":  39,
         "puntos_pesca":  0,
         "killed_npcs":  102,
-        "minutos_online":  153,
+        "minutos_online":  163,
         "drag_puntos":  0
     },
     {
@@ -3646,7 +3646,7 @@
         "muertes":  116,
         "puntos_pesca":  0,
         "killed_npcs":  683,
-        "minutos_online":  3279,
+        "minutos_online":  3287,
         "drag_puntos":  19
     },
     {
@@ -3696,7 +3696,7 @@
         "muertes":  230,
         "puntos_pesca":  0,
         "killed_npcs":  2403,
-        "minutos_online":  5313,
+        "minutos_online":  5314,
         "drag_puntos":  69
     },
     {
@@ -3846,7 +3846,7 @@
         "muertes":  1,
         "puntos_pesca":  30,
         "killed_npcs":  4,
-        "minutos_online":  330,
+        "minutos_online":  390,
         "drag_puntos":  0
     },
     {
@@ -5345,8 +5345,8 @@
         "usuarios_matados":  9,
         "muertes":  28,
         "puntos_pesca":  0,
-        "killed_npcs":  1307,
-        "minutos_online":  2859,
+        "killed_npcs":  1309,
+        "minutos_online":  2862,
         "drag_puntos":  80
     },
     {
@@ -6596,7 +6596,7 @@
         "muertes":  0,
         "puntos_pesca":  0,
         "killed_npcs":  9,
-        "minutos_online":  73,
+        "minutos_online":  74,
         "drag_puntos":  0
     },
     {
@@ -7046,7 +7046,7 @@
         "muertes":  12,
         "puntos_pesca":  1625,
         "killed_npcs":  688,
-        "minutos_online":  6711,
+        "minutos_online":  6771,
         "drag_puntos":  0
     },
     {
@@ -7471,7 +7471,7 @@
         "muertes":  6,
         "puntos_pesca":  0,
         "killed_npcs":  629,
-        "minutos_online":  1786,
+        "minutos_online":  1846,
         "drag_puntos":  17
     },
     {
@@ -9020,8 +9020,8 @@
         "usuarios_matados":  119,
         "muertes":  48,
         "puntos_pesca":  0,
-        "killed_npcs":  1497,
-        "minutos_online":  1678,
+        "killed_npcs":  1498,
+        "minutos_online":  1694,
         "drag_puntos":  100
     },
     {
@@ -9821,7 +9821,7 @@
         "muertes":  3,
         "puntos_pesca":  0,
         "killed_npcs":  37,
-        "minutos_online":  313,
+        "minutos_online":  314,
         "drag_puntos":  0
     },
     {
@@ -11521,7 +11521,7 @@
         "muertes":  2,
         "puntos_pesca":  0,
         "killed_npcs":  1,
-        "minutos_online":  955,
+        "minutos_online":  960,
         "drag_puntos":  0
     },
     {
@@ -12271,7 +12271,7 @@
         "muertes":  1,
         "puntos_pesca":  0,
         "killed_npcs":  1,
-        "minutos_online":  178,
+        "minutos_online":  239,
         "drag_puntos":  0
     },
     {
@@ -12871,7 +12871,7 @@
         "muertes":  59,
         "puntos_pesca":  0,
         "killed_npcs":  60,
-        "minutos_online":  1634,
+        "minutos_online":  1683,
         "drag_puntos":  1
     },
     {
@@ -13246,7 +13246,7 @@
         "muertes":  29,
         "puntos_pesca":  0,
         "killed_npcs":  24,
-        "minutos_online":  1908,
+        "minutos_online":  1949,
         "drag_puntos":  0
     },
     {
@@ -14821,7 +14821,7 @@
         "muertes":  5,
         "puntos_pesca":  0,
         "killed_npcs":  177,
-        "minutos_online":  1220,
+        "minutos_online":  1280,
         "drag_puntos":  0
     },
     {
@@ -14945,8 +14945,8 @@
         "usuarios_matados":  46,
         "muertes":  56,
         "puntos_pesca":  0,
-        "killed_npcs":  550,
-        "minutos_online":  979,
+        "killed_npcs":  563,
+        "minutos_online":  1026,
         "drag_puntos":  27
     },
     {
@@ -15552,9 +15552,9 @@
     {
         "name":  "ELPATRON",
         "level":  54,
-        "exp":  48428569,
+        "exp":  54729069,
         "exp_next_level":  129461662,
-        "exp_percentage":  37.41,
+        "exp_percentage":  42.27,
         "remort":  0,
         "remorted":  "",
         "head":  204,
@@ -15570,8 +15570,8 @@
         "usuarios_matados":  0,
         "muertes":  13,
         "puntos_pesca":  0,
-        "killed_npcs":  135,
-        "minutos_online":  514,
+        "killed_npcs":  136,
+        "minutos_online":  523,
         "drag_puntos":  2
     },
     {
@@ -15643,10 +15643,10 @@
         "criminales_matados":  1,
         "ciudadanos_matados":  2,
         "usuarios_matados":  42,
-        "muertes":  126,
+        "muertes":  127,
         "puntos_pesca":  0,
-        "killed_npcs":  53,
-        "minutos_online":  2319,
+        "killed_npcs":  61,
+        "minutos_online":  2379,
         "drag_puntos":  0
     },
     {
@@ -16021,7 +16021,7 @@
         "muertes":  17,
         "puntos_pesca":  0,
         "killed_npcs":  90,
-        "minutos_online":  968,
+        "minutos_online":  1028,
         "drag_puntos":  0
     },
     {
@@ -16046,7 +16046,7 @@
         "muertes":  0,
         "puntos_pesca":  0,
         "killed_npcs":  7,
-        "minutos_online":  120,
+        "minutos_online":  129,
         "drag_puntos":  0
     },
     {
@@ -16796,7 +16796,7 @@
         "muertes":  1,
         "puntos_pesca":  0,
         "killed_npcs":  0,
-        "minutos_online":  21,
+        "minutos_online":  26,
         "drag_puntos":  0
     }
 ]
