@@ -146,7 +146,7 @@
         "muertes":  115,
         "puntos_pesca":  0,
         "killed_npcs":  2620,
-        "minutos_online":  6727,
+        "minutos_online":  6728,
         "drag_puntos":  257
     },
     {
@@ -277,9 +277,9 @@
     {
         "name":  "Asura",
         "level":  41,
-        "exp":  8648938,
+        "exp":  8689210,
         "exp_next_level":  12099989,
-        "exp_percentage":  71.48,
+        "exp_percentage":  71.81,
         "remort":  0,
         "remorted":  "",
         "head":  624,
@@ -296,7 +296,7 @@
         "muertes":  34,
         "puntos_pesca":  0,
         "killed_npcs":  20,
-        "minutos_online":  4325,
+        "minutos_online":  4339,
         "drag_puntos":  0
     },
     {
@@ -2820,8 +2820,8 @@
         "usuarios_matados":  519,
         "muertes":  379,
         "puntos_pesca":  0,
-        "killed_npcs":  2314,
-        "minutos_online":  10736,
+        "killed_npcs":  2315,
+        "minutos_online":  10796,
         "drag_puntos":  62
     },
     {
@@ -2867,11 +2867,11 @@
         "elo":  1000,
         "criminales_matados":  1,
         "ciudadanos_matados":  1,
-        "usuarios_matados":  15,
-        "muertes":  20,
+        "usuarios_matados":  17,
+        "muertes":  23,
         "puntos_pesca":  1440,
         "killed_npcs":  1183,
-        "minutos_online":  5164,
+        "minutos_online":  5176,
         "drag_puntos":  36
     },
     {
@@ -3046,7 +3046,7 @@
         "muertes":  113,
         "puntos_pesca":  0,
         "killed_npcs":  2250,
-        "minutos_online":  6367,
+        "minutos_online":  6392,
         "drag_puntos":  176
     },
     {
@@ -3695,8 +3695,8 @@
         "usuarios_matados":  263,
         "muertes":  230,
         "puntos_pesca":  0,
-        "killed_npcs":  2401,
-        "minutos_online":  5295,
+        "killed_npcs":  2403,
+        "minutos_online":  5313,
         "drag_puntos":  69
     },
     {
@@ -3846,7 +3846,7 @@
         "muertes":  1,
         "puntos_pesca":  30,
         "killed_npcs":  4,
-        "minutos_online":  210,
+        "minutos_online":  270,
         "drag_puntos":  0
     },
     {
@@ -6093,10 +6093,10 @@
         "criminales_matados":  27,
         "ciudadanos_matados":  19,
         "usuarios_matados":  77,
-        "muertes":  104,
+        "muertes":  105,
         "puntos_pesca":  0,
         "killed_npcs":  3152,
-        "minutos_online":  5292,
+        "minutos_online":  5333,
         "drag_puntos":  5
     },
     {
@@ -6968,10 +6968,10 @@
         "criminales_matados":  37,
         "ciudadanos_matados":  27,
         "usuarios_matados":  130,
-        "muertes":  128,
+        "muertes":  129,
         "puntos_pesca":  0,
         "killed_npcs":  2127,
-        "minutos_online":  9995,
+        "minutos_online":  10036,
         "drag_puntos":  186
     },
     {
@@ -7046,7 +7046,7 @@
         "muertes":  12,
         "puntos_pesca":  1625,
         "killed_npcs":  688,
-        "minutos_online":  6591,
+        "minutos_online":  6651,
         "drag_puntos":  0
     },
     {
@@ -7446,7 +7446,7 @@
         "muertes":  42,
         "puntos_pesca":  0,
         "killed_npcs":  476,
-        "minutos_online":  777,
+        "minutos_online":  778,
         "drag_puntos":  16
     },
     {
@@ -7471,7 +7471,7 @@
         "muertes":  6,
         "puntos_pesca":  0,
         "killed_npcs":  629,
-        "minutos_online":  1681,
+        "minutos_online":  1726,
         "drag_puntos":  17
     },
     {
@@ -7521,7 +7521,7 @@
         "muertes":  4,
         "puntos_pesca":  0,
         "killed_npcs":  0,
-        "minutos_online":  1267,
+        "minutos_online":  1270,
         "drag_puntos":  0
     },
     {
@@ -9020,8 +9020,8 @@
         "usuarios_matados":  119,
         "muertes":  48,
         "puntos_pesca":  0,
-        "killed_npcs":  1432,
-        "minutos_online":  1601,
+        "killed_npcs":  1436,
+        "minutos_online":  1640,
         "drag_puntos":  100
     },
     {
@@ -9802,9 +9802,9 @@
     {
         "name":  "Silent Kastel",
         "level":  44,
-        "exp":  7866780,
+        "exp":  7867030,
         "exp_next_level":  20908781,
-        "exp_percentage":  37.62,
+        "exp_percentage":  37.63,
         "remort":  0,
         "remorted":  "",
         "head":  624,
@@ -9821,7 +9821,7 @@
         "muertes":  3,
         "puntos_pesca":  0,
         "killed_npcs":  37,
-        "minutos_online":  311,
+        "minutos_online":  313,
         "drag_puntos":  0
     },
     {
@@ -10765,13 +10765,13 @@
         "race":  "Vikingo",
         "race_id":  8,
         "elo":  1000,
-        "criminales_matados":  26,
-        "ciudadanos_matados":  9,
-        "usuarios_matados":  42,
+        "criminales_matados":  28,
+        "ciudadanos_matados":  11,
+        "usuarios_matados":  47,
         "muertes":  22,
         "puntos_pesca":  320,
-        "killed_npcs":  1486,
-        "minutos_online":  8453,
+        "killed_npcs":  1488,
+        "minutos_online":  8465,
         "drag_puntos":  91
     },
     {
@@ -12271,7 +12271,7 @@
         "muertes":  1,
         "puntos_pesca":  0,
         "killed_npcs":  1,
-        "minutos_online":  73,
+        "minutos_online":  118,
         "drag_puntos":  0
     },
     {
@@ -12752,9 +12752,9 @@
     {
         "name":  "Tsukuyomi",
         "level":  50,
-        "exp":  68403403,
+        "exp":  80923403,
         "exp_next_level":  187186980,
-        "exp_percentage":  36.54,
+        "exp_percentage":  43.23,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  355,
@@ -12768,10 +12768,10 @@
         "criminales_matados":  10,
         "ciudadanos_matados":  0,
         "usuarios_matados":  39,
-        "muertes":  17,
+        "muertes":  18,
         "puntos_pesca":  0,
-        "killed_npcs":  72,
-        "minutos_online":  361,
+        "killed_npcs":  73,
+        "minutos_online":  378,
         "drag_puntos":  2
     },
     {
@@ -12871,7 +12871,7 @@
         "muertes":  59,
         "puntos_pesca":  0,
         "killed_npcs":  60,
-        "minutos_online":  1528,
+        "minutos_online":  1588,
         "drag_puntos":  1
     },
     {
@@ -13246,7 +13246,7 @@
         "muertes":  29,
         "puntos_pesca":  0,
         "killed_npcs":  24,
-        "minutos_online":  1790,
+        "minutos_online":  1848,
         "drag_puntos":  0
     },
     {
@@ -13721,7 +13721,7 @@
         "muertes":  20,
         "puntos_pesca":  0,
         "killed_npcs":  1332,
-        "minutos_online":  1847,
+        "minutos_online":  1885,
         "drag_puntos":  58
     },
     {
@@ -14171,7 +14171,7 @@
         "muertes":  96,
         "puntos_pesca":  0,
         "killed_npcs":  68,
-        "minutos_online":  1285,
+        "minutos_online":  1326,
         "drag_puntos":  1
     },
     {
@@ -14821,7 +14821,7 @@
         "muertes":  5,
         "puntos_pesca":  0,
         "killed_npcs":  177,
-        "minutos_online":  1116,
+        "minutos_online":  1160,
         "drag_puntos":  0
     },
     {
@@ -14943,11 +14943,11 @@
         "criminales_matados":  1,
         "ciudadanos_matados":  1,
         "usuarios_matados":  45,
-        "muertes":  55,
+        "muertes":  56,
         "puntos_pesca":  0,
-        "killed_npcs":  517,
-        "minutos_online":  877,
-        "drag_puntos":  5
+        "killed_npcs":  532,
+        "minutos_online":  914,
+        "drag_puntos":  25
     },
     {
         "name":  "COLAPINTO",
@@ -15302,9 +15302,9 @@
     {
         "name":  "Praga",
         "level":  47,
-        "exp":  15108008,
+        "exp":  15125883,
         "exp_next_level":  36130373,
-        "exp_percentage":  41.82,
+        "exp_percentage":  41.86,
         "remort":  0,
         "remorted":  "",
         "head":  367,
@@ -15320,8 +15320,8 @@
         "usuarios_matados":  0,
         "muertes":  10,
         "puntos_pesca":  0,
-        "killed_npcs":  680,
-        "minutos_online":  631,
+        "killed_npcs":  682,
+        "minutos_online":  640,
         "drag_puntos":  22
     },
     {
@@ -15571,7 +15571,7 @@
         "muertes":  12,
         "puntos_pesca":  0,
         "killed_npcs":  107,
-        "minutos_online":  447,
+        "minutos_online":  455,
         "drag_puntos":  0
     },
     {
@@ -15642,11 +15642,11 @@
         "elo":  1000,
         "criminales_matados":  1,
         "ciudadanos_matados":  2,
-        "usuarios_matados":  39,
-        "muertes":  123,
+        "usuarios_matados":  42,
+        "muertes":  126,
         "puntos_pesca":  0,
         "killed_npcs":  53,
-        "minutos_online":  2199,
+        "minutos_online":  2259,
         "drag_puntos":  0
     },
     {
@@ -15821,7 +15821,7 @@
         "muertes":  1,
         "puntos_pesca":  0,
         "killed_npcs":  14,
-        "minutos_online":  46,
+        "minutos_online":  48,
         "drag_puntos":  0
     },
     {
@@ -15852,9 +15852,9 @@
     {
         "name":  "Shivaa",
         "level":  38,
-        "exp":  4931796,
+        "exp":  4932796,
         "exp_next_level":  7002308,
-        "exp_percentage":  70.43,
+        "exp_percentage":  70.45,
         "remort":  0,
         "remorted":  "",
         "head":  80,
@@ -15868,10 +15868,10 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  7,
+        "muertes":  8,
         "puntos_pesca":  0,
         "killed_npcs":  202,
-        "minutos_online":  261,
+        "minutos_online":  273,
         "drag_puntos":  9
     },
     {
@@ -16018,10 +16018,10 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  16,
+        "muertes":  17,
         "puntos_pesca":  0,
         "killed_npcs":  90,
-        "minutos_online":  848,
+        "minutos_online":  908,
         "drag_puntos":  0
     },
     {
@@ -16046,7 +16046,7 @@
         "muertes":  0,
         "puntos_pesca":  0,
         "killed_npcs":  7,
-        "minutos_online":  12,
+        "minutos_online":  60,
         "drag_puntos":  0
     },
     {
@@ -16418,10 +16418,10 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  3,
+        "muertes":  4,
         "puntos_pesca":  0,
         "killed_npcs":  74,
-        "minutos_online":  434,
+        "minutos_online":  473,
         "drag_puntos":  3
     },
     {
@@ -16751,10 +16751,10 @@
     },
     {
         "name":  "Tdomo",
-        "level":  4,
-        "exp":  610,
-        "exp_next_level":  1520,
-        "exp_percentage":  40.13,
+        "level":  24,
+        "exp":  208272,
+        "exp_next_level":  545386,
+        "exp_percentage":  38.19,
         "remort":  0,
         "remorted":  "",
         "head":  555,
@@ -16768,10 +16768,35 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  0,
+        "muertes":  3,
         "puntos_pesca":  0,
-        "killed_npcs":  4,
-        "minutos_online":  1,
+        "killed_npcs":  40,
+        "minutos_online":  37,
+        "drag_puntos":  1
+    },
+    {
+        "name":  "temiroelnpc",
+        "level":  1,
+        "exp":  0,
+        "exp_next_level":  450,
+        "exp_percentage":  0,
+        "remort":  0,
+        "remorted":  "",
+        "head":  684,
+        "genre":  "Hombre",
+        "genre_id":  1,
+        "class":  "Cazador",
+        "class_id":  11,
+        "race":  "Vikingo",
+        "race_id":  8,
+        "elo":  1000,
+        "criminales_matados":  0,
+        "ciudadanos_matados":  0,
+        "usuarios_matados":  0,
+        "muertes":  1,
+        "puntos_pesca":  0,
+        "killed_npcs":  0,
+        "minutos_online":  21,
         "drag_puntos":  0
     }
 ]
