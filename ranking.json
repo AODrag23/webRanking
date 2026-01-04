@@ -202,9 +202,9 @@
     {
         "name":  "RIP",
         "level":  48,
-        "exp":  33759594,
+        "exp":  33790674,
         "exp_next_level":  129990958,
-        "exp_percentage":  25.97,
+        "exp_percentage":  25.99,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  227,
@@ -220,8 +220,8 @@
         "usuarios_matados":  45,
         "muertes":  117,
         "puntos_pesca":  0,
-        "killed_npcs":  2774,
-        "minutos_online":  5646,
+        "killed_npcs":  2802,
+        "minutos_online":  5656,
         "drag_puntos":  50
     },
     {
@@ -2821,7 +2821,7 @@
         "muertes":  379,
         "puntos_pesca":  0,
         "killed_npcs":  2315,
-        "minutos_online":  11533,
+        "minutos_online":  11593,
         "drag_puntos":  62
     },
     {
@@ -3577,9 +3577,9 @@
     {
         "name":  "Onirem",
         "level":  40,
-        "exp":  3485130,
+        "exp":  3638750,
         "exp_next_level":  10083324,
-        "exp_percentage":  34.56,
+        "exp_percentage":  36.09,
         "remort":  0,
         "remorted":  "",
         "head":  311,
@@ -3595,8 +3595,8 @@
         "usuarios_matados":  0,
         "muertes":  15,
         "puntos_pesca":  0,
-        "killed_npcs":  101,
-        "minutos_online":  873,
+        "killed_npcs":  104,
+        "minutos_online":  901,
         "drag_puntos":  0
     },
     {
@@ -5327,9 +5327,9 @@
     {
         "name":  "Alia",
         "level":  49,
-        "exp":  12320316,
+        "exp":  107253566,
         "exp_next_level":  155989150,
-        "exp_percentage":  7.9,
+        "exp_percentage":  68.76,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  258,
@@ -5345,9 +5345,9 @@
         "usuarios_matados":  9,
         "muertes":  31,
         "puntos_pesca":  0,
-        "killed_npcs":  1986,
-        "minutos_online":  3618,
-        "drag_puntos":  119
+        "killed_npcs":  2033,
+        "minutos_online":  3678,
+        "drag_puntos":  122
     },
     {
         "name":  "PLAGUICIDA",
@@ -12846,7 +12846,7 @@
         "muertes":  59,
         "puntos_pesca":  0,
         "killed_npcs":  60,
-        "minutos_online":  2293,
+        "minutos_online":  2353,
         "drag_puntos":  1
     },
     {
@@ -13771,7 +13771,7 @@
         "muertes":  11,
         "puntos_pesca":  0,
         "killed_npcs":  1143,
-        "minutos_online":  1031,
+        "minutos_online":  1091,
         "drag_puntos":  57
     },
     {
@@ -15671,7 +15671,7 @@
         "muertes":  2,
         "puntos_pesca":  0,
         "killed_npcs":  321,
-        "minutos_online":  145,
+        "minutos_online":  146,
         "drag_puntos":  1
     },
     {
@@ -16427,9 +16427,9 @@
     {
         "name":  "Nadie",
         "level":  30,
-        "exp":  176337,
+        "exp":  518212,
         "exp_next_level":  1628513,
-        "exp_percentage":  10.83,
+        "exp_percentage":  31.82,
         "remort":  0,
         "remorted":  "",
         "head":  123,
@@ -16445,8 +16445,8 @@
         "usuarios_matados":  1,
         "muertes":  33,
         "puntos_pesca":  0,
-        "killed_npcs":  122,
-        "minutos_online":  314,
+        "killed_npcs":  125,
+        "minutos_online":  323,
         "drag_puntos":  0
     },
     {
@@ -16777,9 +16777,9 @@
     {
         "name":  "Natsuhi",
         "level":  38,
-        "exp":  2378765,
+        "exp":  2379265,
         "exp_next_level":  7002308,
-        "exp_percentage":  33.97,
+        "exp_percentage":  33.98,
         "remort":  0,
         "remorted":  "",
         "head":  150,
@@ -16796,7 +16796,7 @@
         "muertes":  13,
         "puntos_pesca":  0,
         "killed_npcs":  220,
-        "minutos_online":  423,
+        "minutos_online":  437,
         "drag_puntos":  0
     },
     {
