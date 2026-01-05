@@ -202,9 +202,9 @@
     {
         "name":  "RIP",
         "level":  49,
-        "exp":  61801927,
+        "exp":  61869491,
         "exp_next_level":  155989150,
-        "exp_percentage":  39.62,
+        "exp_percentage":  39.66,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  227,
@@ -220,8 +220,8 @@
         "usuarios_matados":  48,
         "muertes":  139,
         "puntos_pesca":  0,
-        "killed_npcs":  3034,
-        "minutos_online":  6103,
+        "killed_npcs":  3044,
+        "minutos_online":  6130,
         "drag_puntos":  62
     },
     {
@@ -396,7 +396,7 @@
         "muertes":  227,
         "puntos_pesca":  0,
         "killed_npcs":  3280,
-        "minutos_online":  7128,
+        "minutos_online":  7155,
         "drag_puntos":  220
     },
     {
@@ -970,8 +970,8 @@
         "usuarios_matados":  19,
         "muertes":  49,
         "puntos_pesca":  3415,
-        "killed_npcs":  3472,
-        "minutos_online":  5503,
+        "killed_npcs":  3475,
+        "minutos_online":  5521,
         "drag_puntos":  159
     },
     {
@@ -1421,7 +1421,7 @@
         "muertes":  7,
         "puntos_pesca":  0,
         "killed_npcs":  78,
-        "minutos_online":  2997,
+        "minutos_online":  3057,
         "drag_puntos":  0
     },
     {
@@ -11546,7 +11546,7 @@
         "muertes":  62,
         "puntos_pesca":  0,
         "killed_npcs":  831,
-        "minutos_online":  1643,
+        "minutos_online":  1644,
         "drag_puntos":  18
     },
     {
@@ -12321,7 +12321,7 @@
         "muertes":  10,
         "puntos_pesca":  0,
         "killed_npcs":  40,
-        "minutos_online":  1884,
+        "minutos_online":  1893,
         "drag_puntos":  0
     },
     {
@@ -12652,9 +12652,9 @@
     {
         "name":  "Cruiser",
         "level":  44,
-        "exp":  10193710,
+        "exp":  10198820,
         "exp_next_level":  20908781,
-        "exp_percentage":  48.75,
+        "exp_percentage":  48.78,
         "remort":  0,
         "remorted":  "",
         "head":  635,
@@ -12671,7 +12671,7 @@
         "muertes":  22,
         "puntos_pesca":  230,
         "killed_npcs":  14,
-        "minutos_online":  1871,
+        "minutos_online":  1921,
         "drag_puntos":  0
     },
     {
@@ -13271,7 +13271,7 @@
         "muertes":  21,
         "puntos_pesca":  0,
         "killed_npcs":  297,
-        "minutos_online":  1246,
+        "minutos_online":  1286,
         "drag_puntos":  5
     },
     {
@@ -13952,9 +13952,9 @@
     {
         "name":  "Toke",
         "level":  50,
-        "exp":  61917907,
+        "exp":  62035525,
         "exp_next_level":  187186980,
-        "exp_percentage":  33.08,
+        "exp_percentage":  33.14,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  689,
@@ -13971,7 +13971,7 @@
         "muertes":  48,
         "puntos_pesca":  0,
         "killed_npcs":  1166,
-        "minutos_online":  5341,
+        "minutos_online":  5401,
         "drag_puntos":  69
     },
     {
@@ -14451,10 +14451,10 @@
     },
     {
         "name":  "Clarisma",
-        "level":  5,
-        "exp":  212,
-        "exp_next_level":  2280,
-        "exp_percentage":  9.3,
+        "level":  13,
+        "exp":  440,
+        "exp_next_level":  32968,
+        "exp_percentage":  1.33,
         "remort":  0,
         "remorted":  "",
         "head":  639,
@@ -14470,8 +14470,8 @@
         "usuarios_matados":  0,
         "muertes":  0,
         "puntos_pesca":  0,
-        "killed_npcs":  4,
-        "minutos_online":  15,
+        "killed_npcs":  171,
+        "minutos_online":  29,
         "drag_puntos":  0
     },
     {
@@ -14596,7 +14596,7 @@
         "muertes":  18,
         "puntos_pesca":  0,
         "killed_npcs":  669,
-        "minutos_online":  989,
+        "minutos_online":  991,
         "drag_puntos":  40
     },
     {
@@ -15076,10 +15076,10 @@
     },
     {
         "name":  "Pinshito",
-        "level":  26,
-        "exp":  782472,
-        "exp_next_level":  2354647,
-        "exp_percentage":  33.23,
+        "level":  28,
+        "exp":  865869,
+        "exp_next_level":  3390691,
+        "exp_percentage":  25.54,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  213,
@@ -15095,8 +15095,8 @@
         "usuarios_matados":  6,
         "muertes":  39,
         "puntos_pesca":  0,
-        "killed_npcs":  1408,
-        "minutos_online":  1977,
+        "killed_npcs":  1411,
+        "minutos_online":  1987,
         "drag_puntos":  56
     },
     {
@@ -16327,7 +16327,7 @@
     {
         "name":  "Nadie",
         "level":  47,
-        "exp":  3788774,
+        "exp":  3790899,
         "exp_next_level":  36130373,
         "exp_percentage":  10.49,
         "remort":  0,
@@ -16345,8 +16345,8 @@
         "usuarios_matados":  4,
         "muertes":  44,
         "puntos_pesca":  0,
-        "killed_npcs":  211,
-        "minutos_online":  690,
+        "killed_npcs":  213,
+        "minutos_online":  694,
         "drag_puntos":  1
     },
     {
