@@ -696,7 +696,7 @@
         "muertes":  78,
         "puntos_pesca":  0,
         "killed_npcs":  2900,
-        "minutos_online":  3224,
+        "minutos_online":  3225,
         "drag_puntos":  170
     },
     {
@@ -8652,9 +8652,9 @@
     {
         "name":  "jet",
         "level":  61,
-        "exp":  35706126,
+        "exp":  148360776,
         "exp_next_level":  463884540,
-        "exp_percentage":  7.7,
+        "exp_percentage":  31.98,
         "remort":  0,
         "remorted":  "",
         "head":  639,
@@ -8668,10 +8668,10 @@
         "criminales_matados":  158,
         "ciudadanos_matados":  1,
         "usuarios_matados":  175,
-        "muertes":  51,
+        "muertes":  52,
         "puntos_pesca":  0,
-        "killed_npcs":  626,
-        "minutos_online":  2966,
+        "killed_npcs":  633,
+        "minutos_online":  3003,
         "drag_puntos":  15
     },
     {
@@ -11551,10 +11551,10 @@
     },
     {
         "name":  "Droferev",
-        "level":  37,
-        "exp":  3242130,
-        "exp_next_level":  5835257,
-        "exp_percentage":  55.56,
+        "level":  42,
+        "exp":  1070098,
+        "exp_next_level":  14519987,
+        "exp_percentage":  7.37,
         "remort":  0,
         "remorted":  "",
         "head":  702,
@@ -11570,9 +11570,9 @@
         "usuarios_matados":  0,
         "muertes":  4,
         "puntos_pesca":  0,
-        "killed_npcs":  302,
-        "minutos_online":  435,
-        "drag_puntos":  21
+        "killed_npcs":  311,
+        "minutos_online":  495,
+        "drag_puntos":  22
     },
     {
         "name":  "LAcoste",
@@ -15696,7 +15696,7 @@
         "muertes":  1,
         "puntos_pesca":  0,
         "killed_npcs":  14,
-        "minutos_online":  52,
+        "minutos_online":  54,
         "drag_puntos":  0
     },
     {
@@ -15727,9 +15727,9 @@
     {
         "name":  "Shivaa",
         "level":  38,
-        "exp":  4932796,
+        "exp":  4934046,
         "exp_next_level":  7002308,
-        "exp_percentage":  70.45,
+        "exp_percentage":  70.46,
         "remort":  0,
         "remorted":  "",
         "head":  80,
@@ -15743,11 +15743,11 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  8,
+        "muertes":  9,
         "puntos_pesca":  0,
         "killed_npcs":  202,
-        "minutos_online":  290,
-        "drag_puntos":  9
+        "minutos_online":  301,
+        "drag_puntos":  10
     },
     {
         "name":  "Lidrox",
@@ -16551,10 +16551,10 @@
     },
     {
         "name":  "Tdomo",
-        "level":  35,
-        "exp":  2638787,
-        "exp_next_level":  4052262,
-        "exp_percentage":  65.12,
+        "level":  36,
+        "exp":  1255652,
+        "exp_next_level":  4862714,
+        "exp_percentage":  25.82,
         "remort":  0,
         "remorted":  "",
         "head":  555,
@@ -16570,9 +16570,9 @@
         "usuarios_matados":  0,
         "muertes":  3,
         "puntos_pesca":  0,
-        "killed_npcs":  98,
-        "minutos_online":  90,
-        "drag_puntos":  6
+        "killed_npcs":  109,
+        "minutos_online":  101,
+        "drag_puntos":  7
     },
     {
         "name":  "temiroelnpc",
@@ -16696,7 +16696,7 @@
         "muertes":  35,
         "puntos_pesca":  0,
         "killed_npcs":  382,
-        "minutos_online":  1384,
+        "minutos_online":  1387,
         "drag_puntos":  9
     },
     {
