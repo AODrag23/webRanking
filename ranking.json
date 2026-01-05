@@ -52,9 +52,9 @@
     {
         "name":  "Spock",
         "level":  45,
-        "exp":  13373812,
+        "exp":  13453480,
         "exp_next_level":  75226248,
-        "exp_percentage":  17.78,
+        "exp_percentage":  17.88,
         "remort":  1,
         "remorted":  "Elian-LAL",
         "head":  117,
@@ -71,7 +71,7 @@
         "muertes":  360,
         "puntos_pesca":  0,
         "killed_npcs":  613,
-        "minutos_online":  7691,
+        "minutos_online":  7743,
         "drag_puntos":  29
     },
     {
@@ -396,7 +396,7 @@
         "muertes":  227,
         "puntos_pesca":  0,
         "killed_npcs":  3280,
-        "minutos_online":  7155,
+        "minutos_online":  7157,
         "drag_puntos":  220
     },
     {
@@ -545,9 +545,9 @@
         "usuarios_matados":  336,
         "muertes":  71,
         "puntos_pesca":  0,
-        "killed_npcs":  728,
-        "minutos_online":  2831,
-        "drag_puntos":  27
+        "killed_npcs":  735,
+        "minutos_online":  2863,
+        "drag_puntos":  28
     },
     {
         "name":  "Carperter",
@@ -4496,7 +4496,7 @@
         "muertes":  32,
         "puntos_pesca":  0,
         "killed_npcs":  33,
-        "minutos_online":  2427,
+        "minutos_online":  2436,
         "drag_puntos":  0
     },
     {
@@ -4976,10 +4976,10 @@
     },
     {
         "name":  "KuRoTSuKi",
-        "level":  42,
-        "exp":  11986682,
-        "exp_next_level":  14519987,
-        "exp_percentage":  82.55,
+        "level":  43,
+        "exp":  2887078,
+        "exp_next_level":  17423984,
+        "exp_percentage":  16.57,
         "remort":  0,
         "remorted":  "",
         "head":  625,
@@ -4995,8 +4995,8 @@
         "usuarios_matados":  5,
         "muertes":  17,
         "puntos_pesca":  0,
-        "killed_npcs":  725,
-        "minutos_online":  1467,
+        "killed_npcs":  730,
+        "minutos_online":  1473,
         "drag_puntos":  11
     },
     {
@@ -7070,8 +7070,8 @@
         "usuarios_matados":  52,
         "muertes":  137,
         "puntos_pesca":  0,
-        "killed_npcs":  1019,
-        "minutos_online":  2224,
+        "killed_npcs":  1023,
+        "minutos_online":  2229,
         "drag_puntos":  47
     },
     {
@@ -7251,10 +7251,10 @@
     },
     {
         "name":  "Eavc",
-        "level":  50,
-        "exp":  22508505,
-        "exp_next_level":  62433286,
-        "exp_percentage":  36.05,
+        "level":  51,
+        "exp":  9125250,
+        "exp_next_level":  74919943,
+        "exp_percentage":  12.18,
         "remort":  0,
         "remorted":  "",
         "head":  102,
@@ -7270,8 +7270,8 @@
         "usuarios_matados":  25,
         "muertes":  59,
         "puntos_pesca":  0,
-        "killed_npcs":  386,
-        "minutos_online":  1231,
+        "killed_npcs":  422,
+        "minutos_online":  1282,
         "drag_puntos":  0
     },
     {
@@ -13102,9 +13102,9 @@
     {
         "name":  "NkZa",
         "level":  41,
-        "exp":  4621409,
+        "exp":  4654959,
         "exp_next_level":  12099989,
-        "exp_percentage":  38.19,
+        "exp_percentage":  38.47,
         "remort":  0,
         "remorted":  "",
         "head":  625,
@@ -13121,7 +13121,7 @@
         "muertes":  21,
         "puntos_pesca":  0,
         "killed_npcs":  128,
-        "minutos_online":  1004,
+        "minutos_online":  1026,
         "drag_puntos":  0
     },
     {
@@ -17176,10 +17176,10 @@
     },
     {
         "name":  "Aiden",
-        "level":  26,
-        "exp":  332404,
-        "exp_next_level":  785356,
-        "exp_percentage":  42.33,
+        "level":  38,
+        "exp":  270182,
+        "exp_next_level":  7002308,
+        "exp_percentage":  3.86,
         "remort":  0,
         "remorted":  "",
         "head":  303,
@@ -17195,8 +17195,8 @@
         "usuarios_matados":  0,
         "muertes":  0,
         "puntos_pesca":  0,
-        "killed_npcs":  29,
-        "minutos_online":  23,
+        "killed_npcs":  34,
+        "minutos_online":  63,
         "drag_puntos":  0
     }
 ]
