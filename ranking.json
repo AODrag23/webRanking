@@ -52,9 +52,9 @@
     {
         "name":  "Spock",
         "level":  45,
-        "exp":  13294516,
+        "exp":  13373812,
         "exp_next_level":  75226248,
-        "exp_percentage":  17.67,
+        "exp_percentage":  17.78,
         "remort":  1,
         "remorted":  "Elian-LAL",
         "head":  117,
@@ -71,7 +71,7 @@
         "muertes":  360,
         "puntos_pesca":  0,
         "killed_npcs":  613,
-        "minutos_online":  7631,
+        "minutos_online":  7691,
         "drag_puntos":  29
     },
     {
@@ -545,9 +545,9 @@
         "usuarios_matados":  336,
         "muertes":  71,
         "puntos_pesca":  0,
-        "killed_npcs":  711,
-        "minutos_online":  2817,
-        "drag_puntos":  26
+        "killed_npcs":  728,
+        "minutos_online":  2831,
+        "drag_puntos":  27
     },
     {
         "name":  "Carperter",
@@ -2896,7 +2896,7 @@
         "muertes":  6,
         "puntos_pesca":  0,
         "killed_npcs":  128,
-        "minutos_online":  60,
+        "minutos_online":  61,
         "drag_puntos":  0
     },
     {
@@ -4477,9 +4477,9 @@
     {
         "name":  "Glock crema",
         "level":  40,
-        "exp":  970437,
+        "exp":  974687,
         "exp_next_level":  10083324,
-        "exp_percentage":  9.62,
+        "exp_percentage":  9.67,
         "remort":  0,
         "remorted":  "",
         "head":  633,
@@ -4496,7 +4496,7 @@
         "muertes":  32,
         "puntos_pesca":  0,
         "killed_npcs":  33,
-        "minutos_online":  2406,
+        "minutos_online":  2427,
         "drag_puntos":  0
     },
     {
@@ -7251,10 +7251,10 @@
     },
     {
         "name":  "Eavc",
-        "level":  49,
-        "exp":  23633203,
-        "exp_next_level":  52027738,
-        "exp_percentage":  45.42,
+        "level":  50,
+        "exp":  22508505,
+        "exp_next_level":  62433286,
+        "exp_percentage":  36.05,
         "remort":  0,
         "remorted":  "",
         "head":  102,
@@ -7270,8 +7270,8 @@
         "usuarios_matados":  25,
         "muertes":  59,
         "puntos_pesca":  0,
-        "killed_npcs":  372,
-        "minutos_online":  1206,
+        "killed_npcs":  386,
+        "minutos_online":  1231,
         "drag_puntos":  0
     },
     {
@@ -10246,7 +10246,7 @@
         "muertes":  21,
         "puntos_pesca":  0,
         "killed_npcs":  79,
-        "minutos_online":  206,
+        "minutos_online":  208,
         "drag_puntos":  0
     },
     {
@@ -10546,7 +10546,7 @@
         "muertes":  12,
         "puntos_pesca":  0,
         "killed_npcs":  268,
-        "minutos_online":  814,
+        "minutos_online":  825,
         "drag_puntos":  2
     },
     {
@@ -11621,7 +11621,7 @@
         "muertes":  25,
         "puntos_pesca":  0,
         "killed_npcs":  0,
-        "minutos_online":  11,
+        "minutos_online":  12,
         "drag_puntos":  0
     },
     {
@@ -15026,10 +15026,10 @@
     },
     {
         "name":  "ELTEMIBLE",
-        "level":  50,
-        "exp":  9055911,
-        "exp_next_level":  62433286,
-        "exp_percentage":  14.5,
+        "level":  53,
+        "exp":  12716431,
+        "exp_next_level":  107884718,
+        "exp_percentage":  11.79,
         "remort":  0,
         "remorted":  "",
         "head":  317,
@@ -15045,9 +15045,9 @@
         "usuarios_matados":  1,
         "muertes":  37,
         "puntos_pesca":  0,
-        "killed_npcs":  881,
-        "minutos_online":  986,
-        "drag_puntos":  31
+        "killed_npcs":  939,
+        "minutos_online":  1040,
+        "drag_puntos":  32
     },
     {
         "name":  "CuPiDo",
@@ -15076,10 +15076,10 @@
     },
     {
         "name":  "Pinshito",
-        "level":  28,
-        "exp":  1330119,
-        "exp_next_level":  3390691,
-        "exp_percentage":  39.23,
+        "level":  32,
+        "exp":  3472678,
+        "exp_next_level":  7030937,
+        "exp_percentage":  49.39,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  213,
@@ -15095,9 +15095,9 @@
         "usuarios_matados":  6,
         "muertes":  39,
         "puntos_pesca":  0,
-        "killed_npcs":  1412,
-        "minutos_online":  1989,
-        "drag_puntos":  56
+        "killed_npcs":  1443,
+        "minutos_online":  2040,
+        "drag_puntos":  57
     },
     {
         "name":  "Gini",
@@ -17172,6 +17172,31 @@
         "puntos_pesca":  0,
         "killed_npcs":  0,
         "minutos_online":  0,
+        "drag_puntos":  0
+    },
+    {
+        "name":  "Aiden",
+        "level":  26,
+        "exp":  332404,
+        "exp_next_level":  785356,
+        "exp_percentage":  42.33,
+        "remort":  0,
+        "remorted":  "",
+        "head":  303,
+        "genre":  "Hombre",
+        "genre_id":  1,
+        "class":  "Guerrero",
+        "class_id":  3,
+        "race":  "Enano",
+        "race_id":  5,
+        "elo":  1000,
+        "criminales_matados":  0,
+        "ciudadanos_matados":  0,
+        "usuarios_matados":  0,
+        "muertes":  0,
+        "puntos_pesca":  0,
+        "killed_npcs":  29,
+        "minutos_online":  23,
         "drag_puntos":  0
     }
 ]
