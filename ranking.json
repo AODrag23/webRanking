@@ -395,8 +395,8 @@
         "usuarios_matados":  377,
         "muertes":  227,
         "puntos_pesca":  0,
-        "killed_npcs":  3278,
-        "minutos_online":  7064,
+        "killed_npcs":  3280,
+        "minutos_online":  7123,
         "drag_puntos":  220
     },
     {
@@ -951,10 +951,10 @@
     },
     {
         "name":  "Hannibal",
-        "level":  50,
-        "exp":  138511623,
-        "exp_next_level":  187186980,
-        "exp_percentage":  74,
+        "level":  51,
+        "exp":  0,
+        "exp_next_level":  224624376,
+        "exp_percentage":  0,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  623,
@@ -970,9 +970,9 @@
         "usuarios_matados":  19,
         "muertes":  49,
         "puntos_pesca":  3415,
-        "killed_npcs":  3358,
-        "minutos_online":  5383,
-        "drag_puntos":  154
+        "killed_npcs":  3415,
+        "minutos_online":  5443,
+        "drag_puntos":  157
     },
     {
         "name":  "Alat",
@@ -1421,7 +1421,7 @@
         "muertes":  7,
         "puntos_pesca":  0,
         "killed_npcs":  78,
-        "minutos_online":  2877,
+        "minutos_online":  2937,
         "drag_puntos":  0
     },
     {
@@ -3921,8 +3921,8 @@
         "muertes":  88,
         "puntos_pesca":  0,
         "killed_npcs":  4004,
-        "minutos_online":  5396,
-        "drag_puntos":  51
+        "minutos_online":  5407,
+        "drag_puntos":  53
     },
     {
         "name":  "EnRiCo",
@@ -6970,8 +6970,8 @@
         "usuarios_matados":  138,
         "muertes":  143,
         "puntos_pesca":  0,
-        "killed_npcs":  2184,
-        "minutos_online":  10494,
+        "killed_npcs":  2210,
+        "minutos_online":  10520,
         "drag_puntos":  193
     },
     {
@@ -12302,9 +12302,9 @@
     {
         "name":  "hIIo",
         "level":  49,
-        "exp":  15507452,
+        "exp":  41893702,
         "exp_next_level":  52027738,
-        "exp_percentage":  29.81,
+        "exp_percentage":  80.52,
         "remort":  0,
         "remorted":  "",
         "head":  623,
@@ -12321,7 +12321,7 @@
         "muertes":  10,
         "puntos_pesca":  0,
         "killed_npcs":  40,
-        "minutos_online":  1764,
+        "minutos_online":  1824,
         "drag_puntos":  0
     },
     {
@@ -13952,9 +13952,9 @@
     {
         "name":  "Toke",
         "level":  50,
-        "exp":  61719909,
+        "exp":  61801115,
         "exp_next_level":  187186980,
-        "exp_percentage":  32.97,
+        "exp_percentage":  33.02,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  689,
@@ -13970,8 +13970,8 @@
         "usuarios_matados":  6,
         "muertes":  48,
         "puntos_pesca":  0,
-        "killed_npcs":  1159,
-        "minutos_online":  5221,
+        "killed_npcs":  1166,
+        "minutos_online":  5281,
         "drag_puntos":  69
     },
     {
@@ -14251,10 +14251,10 @@
     },
     {
         "name":  "Grimnar",
-        "level":  26,
-        "exp":  553273,
-        "exp_next_level":  785356,
-        "exp_percentage":  70.45,
+        "level":  32,
+        "exp":  3258,
+        "exp_next_level":  2345059,
+        "exp_percentage":  0.14,
         "remort":  0,
         "remorted":  "",
         "head":  326,
@@ -14270,8 +14270,8 @@
         "usuarios_matados":  0,
         "muertes":  2,
         "puntos_pesca":  0,
-        "killed_npcs":  56,
-        "minutos_online":  71,
+        "killed_npcs":  76,
+        "minutos_online":  106,
         "drag_puntos":  0
     },
     {
@@ -14596,7 +14596,7 @@
         "muertes":  18,
         "puntos_pesca":  0,
         "killed_npcs":  669,
-        "minutos_online":  980,
+        "minutos_online":  984,
         "drag_puntos":  40
     },
     {
@@ -15077,9 +15077,9 @@
     {
         "name":  "Pinshito",
         "level":  54,
-        "exp":  38098605,
+        "exp":  87490481,
         "exp_next_level":  129461662,
-        "exp_percentage":  29.43,
+        "exp_percentage":  67.58,
         "remort":  0,
         "remorted":  "",
         "head":  213,
@@ -15093,11 +15093,11 @@
         "criminales_matados":  2,
         "ciudadanos_matados":  4,
         "usuarios_matados":  6,
-        "muertes":  34,
+        "muertes":  39,
         "puntos_pesca":  0,
-        "killed_npcs":  1329,
-        "minutos_online":  1867,
-        "drag_puntos":  51
+        "killed_npcs":  1352,
+        "minutos_online":  1923,
+        "drag_puntos":  54
     },
     {
         "name":  "Gini",
