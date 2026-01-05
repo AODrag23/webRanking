@@ -396,7 +396,7 @@
         "muertes":  227,
         "puntos_pesca":  0,
         "killed_npcs":  3280,
-        "minutos_online":  7123,
+        "minutos_online":  7128,
         "drag_puntos":  220
     },
     {
@@ -970,9 +970,9 @@
         "usuarios_matados":  19,
         "muertes":  49,
         "puntos_pesca":  3415,
-        "killed_npcs":  3415,
-        "minutos_online":  5443,
-        "drag_puntos":  157
+        "killed_npcs":  3472,
+        "minutos_online":  5503,
+        "drag_puntos":  159
     },
     {
         "name":  "Alat",
@@ -1421,7 +1421,7 @@
         "muertes":  7,
         "puntos_pesca":  0,
         "killed_npcs":  78,
-        "minutos_online":  2937,
+        "minutos_online":  2997,
         "drag_puntos":  0
     },
     {
@@ -12321,7 +12321,7 @@
         "muertes":  10,
         "puntos_pesca":  0,
         "killed_npcs":  40,
-        "minutos_online":  1824,
+        "minutos_online":  1884,
         "drag_puntos":  0
     },
     {
@@ -13252,7 +13252,7 @@
     {
         "name":  "Keyla",
         "level":  56,
-        "exp":  101686570,
+        "exp":  101687070,
         "exp_next_level":  186424793,
         "exp_percentage":  54.55,
         "remort":  0,
@@ -13271,7 +13271,7 @@
         "muertes":  21,
         "puntos_pesca":  0,
         "killed_npcs":  297,
-        "minutos_online":  1236,
+        "minutos_online":  1246,
         "drag_puntos":  5
     },
     {
@@ -13952,9 +13952,9 @@
     {
         "name":  "Toke",
         "level":  50,
-        "exp":  61801115,
+        "exp":  61917907,
         "exp_next_level":  187186980,
-        "exp_percentage":  33.02,
+        "exp_percentage":  33.08,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  689,
@@ -13971,7 +13971,7 @@
         "muertes":  48,
         "puntos_pesca":  0,
         "killed_npcs":  1166,
-        "minutos_online":  5281,
+        "minutos_online":  5341,
         "drag_puntos":  69
     },
     {
@@ -14596,7 +14596,7 @@
         "muertes":  18,
         "puntos_pesca":  0,
         "killed_npcs":  669,
-        "minutos_online":  984,
+        "minutos_online":  989,
         "drag_puntos":  40
     },
     {
@@ -15076,12 +15076,12 @@
     },
     {
         "name":  "Pinshito",
-        "level":  54,
-        "exp":  87490481,
-        "exp_next_level":  129461662,
-        "exp_percentage":  67.58,
-        "remort":  0,
-        "remorted":  "",
+        "level":  26,
+        "exp":  782472,
+        "exp_next_level":  2354647,
+        "exp_percentage":  33.23,
+        "remort":  1,
+        "remorted":  "Gork-RoR",
         "head":  213,
         "genre":  "Hombre",
         "genre_id":  1,
@@ -15095,9 +15095,9 @@
         "usuarios_matados":  6,
         "muertes":  39,
         "puntos_pesca":  0,
-        "killed_npcs":  1352,
-        "minutos_online":  1923,
-        "drag_puntos":  54
+        "killed_npcs":  1408,
+        "minutos_online":  1977,
+        "drag_puntos":  56
     },
     {
         "name":  "Gini",
@@ -15121,7 +15121,7 @@
         "muertes":  7,
         "puntos_pesca":  0,
         "killed_npcs":  74,
-        "minutos_online":  131,
+        "minutos_online":  132,
         "drag_puntos":  0
     },
     {
