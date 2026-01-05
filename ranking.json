@@ -52,9 +52,9 @@
     {
         "name":  "Spock",
         "level":  45,
-        "exp":  13453480,
+        "exp":  13513582,
         "exp_next_level":  75226248,
-        "exp_percentage":  17.88,
+        "exp_percentage":  17.96,
         "remort":  1,
         "remorted":  "Elian-LAL",
         "head":  117,
@@ -71,7 +71,7 @@
         "muertes":  360,
         "puntos_pesca":  0,
         "killed_npcs":  613,
-        "minutos_online":  7743,
+        "minutos_online":  7749,
         "drag_puntos":  29
     },
     {
@@ -3046,7 +3046,7 @@
         "muertes":  124,
         "puntos_pesca":  0,
         "killed_npcs":  2707,
-        "minutos_online":  6881,
+        "minutos_online":  6883,
         "drag_puntos":  206
     },
     {
@@ -4996,7 +4996,7 @@
         "muertes":  17,
         "puntos_pesca":  0,
         "killed_npcs":  730,
-        "minutos_online":  1473,
+        "minutos_online":  1486,
         "drag_puntos":  11
     },
     {
@@ -5671,7 +5671,7 @@
         "muertes":  182,
         "puntos_pesca":  0,
         "killed_npcs":  7935,
-        "minutos_online":  7177,
+        "minutos_online":  7180,
         "drag_puntos":  7
     },
     {
@@ -6621,7 +6621,7 @@
         "muertes":  1,
         "puntos_pesca":  0,
         "killed_npcs":  43,
-        "minutos_online":  118,
+        "minutos_online":  128,
         "drag_puntos":  0
     },
     {
@@ -6721,7 +6721,7 @@
         "muertes":  1,
         "puntos_pesca":  0,
         "killed_npcs":  5,
-        "minutos_online":  38,
+        "minutos_online":  39,
         "drag_puntos":  0
     },
     {
@@ -6777,7 +6777,7 @@
     {
         "name":  "VeNi aCa",
         "level":  40,
-        "exp":  58217,
+        "exp":  58942,
         "exp_next_level":  10083324,
         "exp_percentage":  0.58,
         "remort":  0,
@@ -6796,7 +6796,7 @@
         "muertes":  18,
         "puntos_pesca":  0,
         "killed_npcs":  2,
-        "minutos_online":  257,
+        "minutos_online":  258,
         "drag_puntos":  0
     },
     {
@@ -6946,7 +6946,7 @@
         "muertes":  41,
         "puntos_pesca":  0,
         "killed_npcs":  736,
-        "minutos_online":  2273,
+        "minutos_online":  2274,
         "drag_puntos":  69
     },
     {
@@ -7071,7 +7071,7 @@
         "muertes":  137,
         "puntos_pesca":  0,
         "killed_npcs":  1023,
-        "minutos_online":  2229,
+        "minutos_online":  2230,
         "drag_puntos":  47
     },
     {
@@ -7252,9 +7252,9 @@
     {
         "name":  "Eavc",
         "level":  51,
-        "exp":  9125250,
+        "exp":  38500500,
         "exp_next_level":  74919943,
-        "exp_percentage":  12.18,
+        "exp_percentage":  51.39,
         "remort":  0,
         "remorted":  "",
         "head":  102,
@@ -7270,8 +7270,8 @@
         "usuarios_matados":  25,
         "muertes":  59,
         "puntos_pesca":  0,
-        "killed_npcs":  422,
-        "minutos_online":  1282,
+        "killed_npcs":  436,
+        "minutos_online":  1316,
         "drag_puntos":  0
     },
     {
@@ -7752,9 +7752,9 @@
     {
         "name":  "Kaylo",
         "level":  52,
-        "exp":  6986044,
+        "exp":  7293429,
         "exp_next_level":  89903932,
-        "exp_percentage":  7.77,
+        "exp_percentage":  8.11,
         "remort":  0,
         "remorted":  "",
         "head":  120,
@@ -7770,9 +7770,9 @@
         "usuarios_matados":  31,
         "muertes":  49,
         "puntos_pesca":  0,
-        "killed_npcs":  905,
-        "minutos_online":  1440,
-        "drag_puntos":  13
+        "killed_npcs":  917,
+        "minutos_online":  1444,
+        "drag_puntos":  14
     },
     {
         "name":  "Dioses",
@@ -10546,7 +10546,7 @@
         "muertes":  12,
         "puntos_pesca":  0,
         "killed_npcs":  268,
-        "minutos_online":  825,
+        "minutos_online":  826,
         "drag_puntos":  2
     },
     {
@@ -11293,10 +11293,10 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  5,
+        "muertes":  6,
         "puntos_pesca":  0,
         "killed_npcs":  170,
-        "minutos_online":  359,
+        "minutos_online":  362,
         "drag_puntos":  0
     },
     {
@@ -11551,10 +11551,10 @@
     },
     {
         "name":  "Droferev",
-        "level":  35,
-        "exp":  3037227,
-        "exp_next_level":  4052262,
-        "exp_percentage":  74.95,
+        "level":  37,
+        "exp":  3242130,
+        "exp_next_level":  5835257,
+        "exp_percentage":  55.56,
         "remort":  0,
         "remorted":  "",
         "head":  702,
@@ -11568,11 +11568,11 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  3,
+        "muertes":  4,
         "puntos_pesca":  0,
-        "killed_npcs":  294,
-        "minutos_online":  405,
-        "drag_puntos":  18
+        "killed_npcs":  302,
+        "minutos_online":  435,
+        "drag_puntos":  21
     },
     {
         "name":  "LAcoste",
@@ -12302,7 +12302,7 @@
     {
         "name":  "hIIo",
         "level":  49,
-        "exp":  41893702,
+        "exp":  41893778,
         "exp_next_level":  52027738,
         "exp_percentage":  80.52,
         "remort":  0,
@@ -12316,12 +12316,12 @@
         "race_id":  7,
         "elo":  1000,
         "criminales_matados":  0,
-        "ciudadanos_matados":  0,
-        "usuarios_matados":  0,
+        "ciudadanos_matados":  1,
+        "usuarios_matados":  1,
         "muertes":  10,
         "puntos_pesca":  0,
         "killed_npcs":  40,
-        "minutos_online":  1893,
+        "minutos_online":  1901,
         "drag_puntos":  0
     },
     {
@@ -16277,9 +16277,9 @@
     {
         "name":  "Nitrogeno",
         "level":  44,
-        "exp":  9565190,
+        "exp":  11065440,
         "exp_next_level":  20908781,
-        "exp_percentage":  45.75,
+        "exp_percentage":  52.92,
         "remort":  0,
         "remorted":  "",
         "head":  118,
@@ -16295,8 +16295,8 @@
         "usuarios_matados":  0,
         "muertes":  24,
         "puntos_pesca":  0,
-        "killed_npcs":  189,
-        "minutos_online":  439,
+        "killed_npcs":  190,
+        "minutos_online":  444,
         "drag_puntos":  0
     },
     {
@@ -17197,6 +17197,31 @@
         "puntos_pesca":  0,
         "killed_npcs":  34,
         "minutos_online":  63,
+        "drag_puntos":  0
+    },
+    {
+        "name":  "Hidrogeno",
+        "level":  1,
+        "exp":  0,
+        "exp_next_level":  450,
+        "exp_percentage":  0,
+        "remort":  0,
+        "remorted":  "",
+        "head":  640,
+        "genre":  "Mujer",
+        "genre_id":  2,
+        "class":  "Druida",
+        "class_id":  6,
+        "race":  "Vampiro",
+        "race_id":  7,
+        "elo":  1000,
+        "criminales_matados":  0,
+        "ciudadanos_matados":  0,
+        "usuarios_matados":  0,
+        "muertes":  1,
+        "puntos_pesca":  0,
+        "killed_npcs":  0,
+        "minutos_online":  5,
         "drag_puntos":  0
     }
 ]
