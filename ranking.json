@@ -52,9 +52,9 @@
     {
         "name":  "Spock",
         "level":  45,
-        "exp":  13233676,
+        "exp":  13294516,
         "exp_next_level":  75226248,
-        "exp_percentage":  17.59,
+        "exp_percentage":  17.67,
         "remort":  1,
         "remorted":  "Elian-LAL",
         "head":  117,
@@ -71,7 +71,7 @@
         "muertes":  360,
         "puntos_pesca":  0,
         "killed_npcs":  613,
-        "minutos_online":  7583,
+        "minutos_online":  7631,
         "drag_puntos":  29
     },
     {
@@ -971,8 +971,8 @@
         "muertes":  49,
         "puntos_pesca":  3415,
         "killed_npcs":  3475,
-        "minutos_online":  5521,
-        "drag_puntos":  159
+        "minutos_online":  5526,
+        "drag_puntos":  189
     },
     {
         "name":  "Alat",
@@ -1421,7 +1421,7 @@
         "muertes":  7,
         "puntos_pesca":  0,
         "killed_npcs":  78,
-        "minutos_online":  3057,
+        "minutos_online":  3067,
         "drag_puntos":  0
     },
     {
@@ -5645,8 +5645,8 @@
         "usuarios_matados":  816,
         "muertes":  360,
         "puntos_pesca":  0,
-        "killed_npcs":  1698,
-        "minutos_online":  6271,
+        "killed_npcs":  1701,
+        "minutos_online":  6274,
         "drag_puntos":  42
     },
     {
@@ -6946,7 +6946,7 @@
         "muertes":  41,
         "puntos_pesca":  0,
         "killed_npcs":  736,
-        "minutos_online":  2264,
+        "minutos_online":  2273,
         "drag_puntos":  69
     },
     {
@@ -7071,7 +7071,7 @@
         "muertes":  137,
         "puntos_pesca":  0,
         "killed_npcs":  1019,
-        "minutos_online":  2223,
+        "minutos_online":  2224,
         "drag_puntos":  47
     },
     {
@@ -7252,9 +7252,9 @@
     {
         "name":  "Eavc",
         "level":  49,
-        "exp":  23619828,
+        "exp":  23633203,
         "exp_next_level":  52027738,
-        "exp_percentage":  45.4,
+        "exp_percentage":  45.42,
         "remort":  0,
         "remorted":  "",
         "head":  102,
@@ -7270,8 +7270,8 @@
         "usuarios_matados":  25,
         "muertes":  59,
         "puntos_pesca":  0,
-        "killed_npcs":  369,
-        "minutos_online":  1187,
+        "killed_npcs":  372,
+        "minutos_online":  1206,
         "drag_puntos":  0
     },
     {
@@ -12671,7 +12671,7 @@
         "muertes":  22,
         "puntos_pesca":  230,
         "killed_npcs":  14,
-        "minutos_online":  1921,
+        "minutos_online":  1930,
         "drag_puntos":  0
     },
     {
@@ -13952,9 +13952,9 @@
     {
         "name":  "Toke",
         "level":  50,
-        "exp":  62035525,
+        "exp":  62114417,
         "exp_next_level":  187186980,
-        "exp_percentage":  33.14,
+        "exp_percentage":  33.18,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  689,
@@ -13971,7 +13971,7 @@
         "muertes":  48,
         "puntos_pesca":  0,
         "killed_npcs":  1166,
-        "minutos_online":  5401,
+        "minutos_online":  5420,
         "drag_puntos":  69
     },
     {
@@ -14245,8 +14245,8 @@
         "usuarios_matados":  519,
         "muertes":  124,
         "puntos_pesca":  0,
-        "killed_npcs":  308,
-        "minutos_online":  2143,
+        "killed_npcs":  310,
+        "minutos_online":  2144,
         "drag_puntos":  14
     },
     {
@@ -15026,10 +15026,10 @@
     },
     {
         "name":  "ELTEMIBLE",
-        "level":  49,
-        "exp":  21880800,
-        "exp_next_level":  52027738,
-        "exp_percentage":  42.06,
+        "level":  50,
+        "exp":  9055911,
+        "exp_next_level":  62433286,
+        "exp_percentage":  14.5,
         "remort":  0,
         "remorted":  "",
         "head":  317,
@@ -15043,11 +15043,11 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  1,
-        "muertes":  36,
+        "muertes":  37,
         "puntos_pesca":  0,
-        "killed_npcs":  837,
-        "minutos_online":  946,
-        "drag_puntos":  29
+        "killed_npcs":  881,
+        "minutos_online":  986,
+        "drag_puntos":  31
     },
     {
         "name":  "CuPiDo",
@@ -15077,9 +15077,9 @@
     {
         "name":  "Pinshito",
         "level":  28,
-        "exp":  865869,
+        "exp":  1330119,
         "exp_next_level":  3390691,
-        "exp_percentage":  25.54,
+        "exp_percentage":  39.23,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  213,
@@ -15095,8 +15095,8 @@
         "usuarios_matados":  6,
         "muertes":  39,
         "puntos_pesca":  0,
-        "killed_npcs":  1411,
-        "minutos_online":  1987,
+        "killed_npcs":  1412,
+        "minutos_online":  1989,
         "drag_puntos":  56
     },
     {
