@@ -396,7 +396,7 @@
         "muertes":  229,
         "puntos_pesca":  0,
         "killed_npcs":  3282,
-        "minutos_online":  7228,
+        "minutos_online":  7229,
         "drag_puntos":  220
     },
     {
@@ -696,7 +696,7 @@
         "muertes":  78,
         "puntos_pesca":  0,
         "killed_npcs":  2900,
-        "minutos_online":  3237,
+        "minutos_online":  3238,
         "drag_puntos":  170
     },
     {
@@ -2021,7 +2021,7 @@
         "muertes":  35,
         "puntos_pesca":  0,
         "killed_npcs":  1672,
-        "minutos_online":  1960,
+        "minutos_online":  1963,
         "drag_puntos":  38
     },
     {
@@ -12301,10 +12301,10 @@
     },
     {
         "name":  "hIIo",
-        "level":  51,
-        "exp":  19981500,
-        "exp_next_level":  74919943,
-        "exp_percentage":  26.67,
+        "level":  53,
+        "exp":  4288621,
+        "exp_next_level":  107884718,
+        "exp_percentage":  3.98,
         "remort":  0,
         "remorted":  "",
         "head":  623,
@@ -12320,8 +12320,8 @@
         "usuarios_matados":  1,
         "muertes":  10,
         "puntos_pesca":  0,
-        "killed_npcs":  92,
-        "minutos_online":  1944,
+        "killed_npcs":  146,
+        "minutos_online":  1971,
         "drag_puntos":  1
     },
     {
@@ -14576,10 +14576,10 @@
     },
     {
         "name":  "Xisko V",
-        "level":  49,
-        "exp":  22100453,
-        "exp_next_level":  52027738,
-        "exp_percentage":  42.48,
+        "level":  50,
+        "exp":  36110005,
+        "exp_next_level":  62433286,
+        "exp_percentage":  57.84,
         "remort":  0,
         "remorted":  "",
         "head":  519,
@@ -14595,9 +14595,9 @@
         "usuarios_matados":  0,
         "muertes":  18,
         "puntos_pesca":  0,
-        "killed_npcs":  676,
-        "minutos_online":  1012,
-        "drag_puntos":  40
+        "killed_npcs":  690,
+        "minutos_online":  1034,
+        "drag_puntos":  42
     },
     {
         "name":  "currante",
