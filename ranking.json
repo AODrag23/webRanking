@@ -4777,9 +4777,9 @@
     {
         "name":  "Domud",
         "level":  40,
-        "exp":  1434483,
+        "exp":  1435983,
         "exp_next_level":  10083324,
-        "exp_percentage":  14.23,
+        "exp_percentage":  14.24,
         "remort":  0,
         "remorted":  "",
         "head":  313,
@@ -4796,7 +4796,7 @@
         "muertes":  8,
         "puntos_pesca":  0,
         "killed_npcs":  264,
-        "minutos_online":  1128,
+        "minutos_online":  1138,
         "drag_puntos":  0
     },
     {
@@ -4852,9 +4852,9 @@
     {
         "name":  "Sifurus",
         "level":  48,
-        "exp":  105263,
+        "exp":  231263,
         "exp_next_level":  43356448,
-        "exp_percentage":  0.24,
+        "exp_percentage":  0.53,
         "remort":  0,
         "remorted":  "",
         "head":  313,
@@ -4868,10 +4868,10 @@
         "criminales_matados":  1,
         "ciudadanos_matados":  0,
         "usuarios_matados":  1,
-        "muertes":  10,
+        "muertes":  11,
         "puntos_pesca":  0,
-        "killed_npcs":  342,
-        "minutos_online":  577,
+        "killed_npcs":  344,
+        "minutos_online":  585,
         "drag_puntos":  7
     },
     {
@@ -12301,10 +12301,10 @@
     },
     {
         "name":  "hIIo",
-        "level":  53,
-        "exp":  4288621,
-        "exp_next_level":  107884718,
-        "exp_percentage":  3.98,
+        "level":  55,
+        "exp":  5680321,
+        "exp_next_level":  155353994,
+        "exp_percentage":  3.66,
         "remort":  0,
         "remorted":  "",
         "head":  623,
@@ -12320,8 +12320,8 @@
         "usuarios_matados":  1,
         "muertes":  10,
         "puntos_pesca":  0,
-        "killed_npcs":  146,
-        "minutos_online":  1971,
+        "killed_npcs":  192,
+        "minutos_online":  2002,
         "drag_puntos":  1
     },
     {
@@ -14251,10 +14251,10 @@
     },
     {
         "name":  "Grimnar",
-        "level":  32,
-        "exp":  3258,
-        "exp_next_level":  2345059,
-        "exp_percentage":  0.14,
+        "level":  37,
+        "exp":  2193265,
+        "exp_next_level":  5835257,
+        "exp_percentage":  37.59,
         "remort":  0,
         "remorted":  "",
         "head":  326,
@@ -14270,9 +14270,9 @@
         "usuarios_matados":  0,
         "muertes":  2,
         "puntos_pesca":  0,
-        "killed_npcs":  76,
-        "minutos_online":  106,
-        "drag_puntos":  0
+        "killed_npcs":  107,
+        "minutos_online":  141,
+        "drag_puntos":  3
     },
     {
         "name":  "Mr Talk",
