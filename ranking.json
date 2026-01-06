@@ -396,7 +396,7 @@
         "muertes":  229,
         "puntos_pesca":  0,
         "killed_npcs":  3282,
-        "minutos_online":  7230,
+        "minutos_online":  7232,
         "drag_puntos":  220
     },
     {
@@ -452,9 +452,9 @@
     {
         "name":  "toPO",
         "level":  50,
-        "exp":  93535193,
+        "exp":  94126193,
         "exp_next_level":  187186980,
-        "exp_percentage":  49.97,
+        "exp_percentage":  50.28,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  625,
@@ -470,8 +470,8 @@
         "usuarios_matados":  86,
         "muertes":  196,
         "puntos_pesca":  20,
-        "killed_npcs":  5810,
-        "minutos_online":  7953,
+        "killed_npcs":  5813,
+        "minutos_online":  7955,
         "drag_puntos":  44
     },
     {
@@ -696,7 +696,7 @@
         "muertes":  78,
         "puntos_pesca":  0,
         "killed_npcs":  2900,
-        "minutos_online":  3341,
+        "minutos_online":  3345,
         "drag_puntos":  170
     },
     {
@@ -2001,10 +2001,10 @@
     },
     {
         "name":  "Hola",
-        "level":  48,
-        "exp":  8885359,
-        "exp_next_level":  43356448,
-        "exp_percentage":  20.49,
+        "level":  52,
+        "exp":  40172714,
+        "exp_next_level":  89903932,
+        "exp_percentage":  44.68,
         "remort":  0,
         "remorted":  "",
         "head":  626,
@@ -2020,9 +2020,9 @@
         "usuarios_matados":  13,
         "muertes":  35,
         "puntos_pesca":  0,
-        "killed_npcs":  1672,
-        "minutos_online":  1963,
-        "drag_puntos":  38
+        "killed_npcs":  1725,
+        "minutos_online":  2011,
+        "drag_puntos":  44
     },
     {
         "name":  "Odnem",
@@ -2802,9 +2802,9 @@
     {
         "name":  "Zhongwen",
         "level":  57,
-        "exp":  362026373,
+        "exp":  456343733,
         "exp_next_level":  670724791,
-        "exp_percentage":  53.98,
+        "exp_percentage":  68.04,
         "remort":  1,
         "remorted":  "Elian-LAL",
         "head":  114,
@@ -2820,8 +2820,8 @@
         "usuarios_matados":  577,
         "muertes":  457,
         "puntos_pesca":  0,
-        "killed_npcs":  2471,
-        "minutos_online":  13080,
+        "killed_npcs":  2473,
+        "minutos_online":  13099,
         "drag_puntos":  63
     },
     {
@@ -3696,7 +3696,7 @@
         "muertes":  283,
         "puntos_pesca":  0,
         "killed_npcs":  2509,
-        "minutos_online":  5813,
+        "minutos_online":  5817,
         "drag_puntos":  69
     },
     {
@@ -7441,12 +7441,12 @@
         "race_id":  2,
         "elo":  1000,
         "criminales_matados":  19,
-        "ciudadanos_matados":  7,
-        "usuarios_matados":  55,
+        "ciudadanos_matados":  8,
+        "usuarios_matados":  56,
         "muertes":  94,
         "puntos_pesca":  0,
-        "killed_npcs":  522,
-        "minutos_online":  969,
+        "killed_npcs":  523,
+        "minutos_online":  986,
         "drag_puntos":  16
     },
     {
@@ -8652,7 +8652,7 @@
     {
         "name":  "jet",
         "level":  61,
-        "exp":  342163873,
+        "exp":  342165475,
         "exp_next_level":  463884540,
         "exp_percentage":  73.76,
         "remort":  0,
@@ -8665,13 +8665,13 @@
         "race":  "Vampiro",
         "race_id":  7,
         "elo":  1000,
-        "criminales_matados":  158,
+        "criminales_matados":  159,
         "ciudadanos_matados":  2,
-        "usuarios_matados":  176,
+        "usuarios_matados":  177,
         "muertes":  54,
         "puntos_pesca":  0,
         "killed_npcs":  643,
-        "minutos_online":  3073,
+        "minutos_online":  3103,
         "drag_puntos":  16
     },
     {
@@ -11371,7 +11371,7 @@
         "muertes":  10,
         "puntos_pesca":  0,
         "killed_npcs":  435,
-        "minutos_online":  538,
+        "minutos_online":  540,
         "drag_puntos":  0
     },
     {
@@ -14251,10 +14251,10 @@
     },
     {
         "name":  "Grimnar",
-        "level":  44,
-        "exp":  11101500,
-        "exp_next_level":  20908781,
-        "exp_percentage":  53.09,
+        "level":  47,
+        "exp":  16561948,
+        "exp_next_level":  36130373,
+        "exp_percentage":  45.84,
         "remort":  0,
         "remorted":  "",
         "head":  326,
@@ -14268,10 +14268,10 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  3,
+        "muertes":  4,
         "puntos_pesca":  0,
-        "killed_npcs":  153,
-        "minutos_online":  220,
+        "killed_npcs":  180,
+        "minutos_online":  277,
         "drag_puntos":  6
     },
     {
@@ -14577,9 +14577,9 @@
     {
         "name":  "Xisko V",
         "level":  50,
-        "exp":  36110005,
+        "exp":  41660005,
         "exp_next_level":  62433286,
-        "exp_percentage":  57.84,
+        "exp_percentage":  66.73,
         "remort":  0,
         "remorted":  "",
         "head":  519,
@@ -14595,8 +14595,8 @@
         "usuarios_matados":  0,
         "muertes":  18,
         "puntos_pesca":  0,
-        "killed_npcs":  690,
-        "minutos_online":  1034,
+        "killed_npcs":  691,
+        "minutos_online":  1037,
         "drag_puntos":  42
     },
     {
@@ -14893,11 +14893,11 @@
         "criminales_matados":  6,
         "ciudadanos_matados":  4,
         "usuarios_matados":  68,
-        "muertes":  61,
+        "muertes":  62,
         "puntos_pesca":  0,
-        "killed_npcs":  604,
-        "minutos_online":  1419,
-        "drag_puntos":  27
+        "killed_npcs":  608,
+        "minutos_online":  1430,
+        "drag_puntos":  28
     },
     {
         "name":  "COLAPINTO",
