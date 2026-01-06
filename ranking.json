@@ -51,10 +51,10 @@
     },
     {
         "name":  "Spock",
-        "level":  45,
-        "exp":  45115728,
-        "exp_next_level":  75226248,
-        "exp_percentage":  59.97,
+        "level":  51,
+        "exp":  0,
+        "exp_next_level":  224624376,
+        "exp_percentage":  0,
         "remort":  1,
         "remorted":  "Elian-LAL",
         "head":  117,
@@ -67,11 +67,11 @@
         "elo":  997,
         "criminales_matados":  23,
         "ciudadanos_matados":  16,
-        "usuarios_matados":  253,
-        "muertes":  374,
+        "usuarios_matados":  256,
+        "muertes":  379,
         "puntos_pesca":  0,
         "killed_npcs":  615,
-        "minutos_online":  7862,
+        "minutos_online":  7915,
         "drag_puntos":  29
     },
     {
@@ -696,7 +696,7 @@
         "muertes":  78,
         "puntos_pesca":  0,
         "killed_npcs":  2900,
-        "minutos_online":  3238,
+        "minutos_online":  3281,
         "drag_puntos":  170
     },
     {
@@ -971,7 +971,7 @@
         "muertes":  49,
         "puntos_pesca":  3415,
         "killed_npcs":  3475,
-        "minutos_online":  5527,
+        "minutos_online":  5534,
         "drag_puntos":  189
     },
     {
@@ -2821,7 +2821,7 @@
         "muertes":  456,
         "puntos_pesca":  0,
         "killed_npcs":  2471,
-        "minutos_online":  13012,
+        "minutos_online":  13022,
         "drag_puntos":  63
     },
     {
@@ -3042,11 +3042,11 @@
         "elo":  1000,
         "criminales_matados":  226,
         "ciudadanos_matados":  306,
-        "usuarios_matados":  755,
-        "muertes":  142,
+        "usuarios_matados":  758,
+        "muertes":  144,
         "puntos_pesca":  0,
         "killed_npcs":  2723,
-        "minutos_online":  7069,
+        "minutos_online":  7079,
         "drag_puntos":  207
     },
     {
@@ -3690,13 +3690,13 @@
         "race":  "Elfo",
         "race_id":  2,
         "elo":  1000,
-        "criminales_matados":  120,
+        "criminales_matados":  124,
         "ciudadanos_matados":  25,
-        "usuarios_matados":  318,
-        "muertes":  282,
+        "usuarios_matados":  322,
+        "muertes":  283,
         "puntos_pesca":  0,
-        "killed_npcs":  2486,
-        "minutos_online":  5761,
+        "killed_npcs":  2509,
+        "minutos_online":  5793,
         "drag_puntos":  69
     },
     {
@@ -6970,8 +6970,8 @@
         "usuarios_matados":  138,
         "muertes":  143,
         "puntos_pesca":  0,
-        "killed_npcs":  2215,
-        "minutos_online":  10608,
+        "killed_npcs":  2234,
+        "minutos_online":  10652,
         "drag_puntos":  193
     },
     {
@@ -7276,10 +7276,10 @@
     },
     {
         "name":  "Destroyer",
-        "level":  54,
-        "exp":  105431266,
-        "exp_next_level":  129461662,
-        "exp_percentage":  81.44,
+        "level":  55,
+        "exp":  22741004,
+        "exp_next_level":  155353994,
+        "exp_percentage":  14.64,
         "remort":  0,
         "remorted":  "",
         "head":  313,
@@ -7293,10 +7293,10 @@
         "criminales_matados":  6,
         "ciudadanos_matados":  3,
         "usuarios_matados":  21,
-        "muertes":  21,
+        "muertes":  22,
         "puntos_pesca":  0,
-        "killed_npcs":  624,
-        "minutos_online":  2081,
+        "killed_npcs":  630,
+        "minutos_online":  2128,
         "drag_puntos":  31
     },
     {
@@ -9021,7 +9021,7 @@
         "muertes":  59,
         "puntos_pesca":  0,
         "killed_npcs":  1570,
-        "minutos_online":  2131,
+        "minutos_online":  2132,
         "drag_puntos":  100
     },
     {
@@ -12301,12 +12301,12 @@
     },
     {
         "name":  "hIIo",
-        "level":  55,
-        "exp":  5680321,
-        "exp_next_level":  155353994,
-        "exp_percentage":  3.66,
-        "remort":  0,
-        "remorted":  "",
+        "level":  1,
+        "exp":  0,
+        "exp_next_level":  1350,
+        "exp_percentage":  0,
+        "remort":  1,
+        "remorted":  "Gork-RoR",
         "head":  623,
         "genre":  "Hombre",
         "genre_id":  1,
@@ -12318,10 +12318,10 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  1,
         "usuarios_matados":  1,
-        "muertes":  10,
+        "muertes":  11,
         "puntos_pesca":  0,
         "killed_npcs":  192,
-        "minutos_online":  2002,
+        "minutos_online":  2008,
         "drag_puntos":  1
     },
     {
@@ -14126,10 +14126,10 @@
     },
     {
         "name":  "aWaKy",
-        "level":  48,
-        "exp":  21123572,
-        "exp_next_level":  129990958,
-        "exp_percentage":  16.25,
+        "level":  51,
+        "exp":  0,
+        "exp_next_level":  224624376,
+        "exp_percentage":  0,
         "remort":  1,
         "remorted":  "Elian-LAL",
         "head":  121,
@@ -14143,10 +14143,10 @@
         "criminales_matados":  2,
         "ciudadanos_matados":  60,
         "usuarios_matados":  76,
-        "muertes":  109,
+        "muertes":  110,
         "puntos_pesca":  0,
         "killed_npcs":  87,
-        "minutos_online":  1564,
+        "minutos_online":  1623,
         "drag_puntos":  1
     },
     {
