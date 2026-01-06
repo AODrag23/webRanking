@@ -396,7 +396,7 @@
         "muertes":  229,
         "puntos_pesca":  0,
         "killed_npcs":  3282,
-        "minutos_online":  7229,
+        "minutos_online":  7230,
         "drag_puntos":  220
     },
     {
@@ -4777,9 +4777,9 @@
     {
         "name":  "Domud",
         "level":  40,
-        "exp":  1435983,
+        "exp":  1437483,
         "exp_next_level":  10083324,
-        "exp_percentage":  14.24,
+        "exp_percentage":  14.26,
         "remort":  0,
         "remorted":  "",
         "head":  313,
@@ -4796,7 +4796,7 @@
         "muertes":  8,
         "puntos_pesca":  0,
         "killed_npcs":  264,
-        "minutos_online":  1138,
+        "minutos_online":  1159,
         "drag_puntos":  0
     },
     {
@@ -9677,9 +9677,9 @@
     {
         "name":  "SMan",
         "level":  49,
-        "exp":  5144727,
+        "exp":  67569537,
         "exp_next_level":  155989150,
-        "exp_percentage":  3.3,
+        "exp_percentage":  43.32,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  622,
@@ -9695,9 +9695,9 @@
         "usuarios_matados":  19,
         "muertes":  32,
         "puntos_pesca":  0,
-        "killed_npcs":  251,
-        "minutos_online":  1356,
-        "drag_puntos":  0
+        "killed_npcs":  289,
+        "minutos_online":  1414,
+        "drag_puntos":  2
     },
     {
         "name":  "aaa",
@@ -10796,7 +10796,7 @@
         "muertes":  12,
         "puntos_pesca":  0,
         "killed_npcs":  4,
-        "minutos_online":  781,
+        "minutos_online":  783,
         "drag_puntos":  0
     },
     {
@@ -11096,7 +11096,7 @@
         "muertes":  6,
         "puntos_pesca":  0,
         "killed_npcs":  491,
-        "minutos_online":  934,
+        "minutos_online":  937,
         "drag_puntos":  33
     },
     {
@@ -12071,7 +12071,7 @@
         "muertes":  0,
         "puntos_pesca":  0,
         "killed_npcs":  22,
-        "minutos_online":  33,
+        "minutos_online":  34,
         "drag_puntos":  0
     },
     {
@@ -14146,7 +14146,7 @@
         "muertes":  109,
         "puntos_pesca":  0,
         "killed_npcs":  76,
-        "minutos_online":  1504,
+        "minutos_online":  1523,
         "drag_puntos":  1
     },
     {
@@ -14251,10 +14251,10 @@
     },
     {
         "name":  "Grimnar",
-        "level":  37,
-        "exp":  2193265,
-        "exp_next_level":  5835257,
-        "exp_percentage":  37.59,
+        "level":  42,
+        "exp":  8215098,
+        "exp_next_level":  14519987,
+        "exp_percentage":  56.58,
         "remort":  0,
         "remorted":  "",
         "head":  326,
@@ -14270,9 +14270,9 @@
         "usuarios_matados":  0,
         "muertes":  2,
         "puntos_pesca":  0,
-        "killed_npcs":  107,
-        "minutos_online":  141,
-        "drag_puntos":  3
+        "killed_npcs":  135,
+        "minutos_online":  191,
+        "drag_puntos":  4
     },
     {
         "name":  "Mr Talk",
@@ -14621,7 +14621,7 @@
         "muertes":  30,
         "puntos_pesca":  0,
         "killed_npcs":  148,
-        "minutos_online":  1177,
+        "minutos_online":  1184,
         "drag_puntos":  0
     },
     {
@@ -16846,7 +16846,7 @@
         "muertes":  1,
         "puntos_pesca":  0,
         "killed_npcs":  88,
-        "minutos_online":  132,
+        "minutos_online":  133,
         "drag_puntos":  0
     },
     {
@@ -17026,10 +17026,10 @@
     },
     {
         "name":  "TraY",
-        "level":  45,
-        "exp":  5851690,
-        "exp_next_level":  25090537,
-        "exp_percentage":  23.32,
+        "level":  46,
+        "exp":  262409,
+        "exp_next_level":  30108644,
+        "exp_percentage":  0.87,
         "remort":  0,
         "remorted":  "",
         "head":  708,
@@ -17045,8 +17045,8 @@
         "usuarios_matados":  2,
         "muertes":  20,
         "puntos_pesca":  0,
-        "killed_npcs":  24,
-        "minutos_online":  332,
+        "killed_npcs":  38,
+        "minutos_online":  344,
         "drag_puntos":  3
     },
     {
