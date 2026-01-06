@@ -396,7 +396,7 @@
         "muertes":  229,
         "puntos_pesca":  0,
         "killed_npcs":  3293,
-        "minutos_online":  7292,
+        "minutos_online":  7293,
         "drag_puntos":  220
     },
     {
@@ -970,8 +970,8 @@
         "usuarios_matados":  19,
         "muertes":  49,
         "puntos_pesca":  3415,
-        "killed_npcs":  3523,
-        "minutos_online":  5561,
+        "killed_npcs":  3532,
+        "minutos_online":  5574,
         "drag_puntos":  195
     },
     {
@@ -1871,7 +1871,7 @@
         "muertes":  4,
         "puntos_pesca":  0,
         "killed_npcs":  0,
-        "minutos_online":  297,
+        "minutos_online":  298,
         "drag_puntos":  0
     },
     {
@@ -2002,9 +2002,9 @@
     {
         "name":  "Hola",
         "level":  54,
-        "exp":  25213719,
+        "exp":  50718669,
         "exp_next_level":  129461662,
-        "exp_percentage":  19.48,
+        "exp_percentage":  39.18,
         "remort":  0,
         "remorted":  "",
         "head":  626,
@@ -2020,8 +2020,8 @@
         "usuarios_matados":  13,
         "muertes":  36,
         "puntos_pesca":  0,
-        "killed_npcs":  1872,
-        "minutos_online":  2126,
+        "killed_npcs":  1900,
+        "minutos_online":  2140,
         "drag_puntos":  59
     },
     {
@@ -3045,8 +3045,8 @@
         "usuarios_matados":  759,
         "muertes":  169,
         "puntos_pesca":  0,
-        "killed_npcs":  2723,
-        "minutos_online":  7215,
+        "killed_npcs":  2728,
+        "minutos_online":  7275,
         "drag_puntos":  207
     },
     {
@@ -4851,10 +4851,10 @@
     },
     {
         "name":  "Sifurus",
-        "level":  51,
-        "exp":  49500,
-        "exp_next_level":  74919943,
-        "exp_percentage":  0.07,
+        "level":  52,
+        "exp":  37702214,
+        "exp_next_level":  89903932,
+        "exp_percentage":  41.94,
         "remort":  0,
         "remorted":  "",
         "head":  313,
@@ -4870,8 +4870,8 @@
         "usuarios_matados":  1,
         "muertes":  12,
         "puntos_pesca":  0,
-        "killed_npcs":  348,
-        "minutos_online":  609,
+        "killed_npcs":  358,
+        "minutos_online":  634,
         "drag_puntos":  7
     },
     {
@@ -5346,7 +5346,7 @@
         "muertes":  31,
         "puntos_pesca":  0,
         "killed_npcs":  2094,
-        "minutos_online":  4006,
+        "minutos_online":  4024,
         "drag_puntos":  131
     },
     {
@@ -7221,7 +7221,7 @@
         "muertes":  305,
         "puntos_pesca":  0,
         "killed_npcs":  781,
-        "minutos_online":  4134,
+        "minutos_online":  4135,
         "drag_puntos":  12
     },
     {
@@ -11296,7 +11296,7 @@
         "muertes":  7,
         "puntos_pesca":  0,
         "killed_npcs":  170,
-        "minutos_online":  445,
+        "minutos_online":  465,
         "drag_puntos":  0
     },
     {
@@ -12301,10 +12301,10 @@
     },
     {
         "name":  "hIIo",
-        "level":  36,
-        "exp":  7647152,
-        "exp_next_level":  14579351,
-        "exp_percentage":  52.45,
+        "level":  39,
+        "exp":  0,
+        "exp_next_level":  25193118,
+        "exp_percentage":  0,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  623,
@@ -12321,7 +12321,7 @@
         "muertes":  11,
         "puntos_pesca":  0,
         "killed_npcs":  193,
-        "minutos_online":  2126,
+        "minutos_online":  2159,
         "drag_puntos":  3
     },
     {
@@ -14271,7 +14271,7 @@
         "muertes":  4,
         "puntos_pesca":  0,
         "killed_npcs":  234,
-        "minutos_online":  335,
+        "minutos_online":  341,
         "drag_puntos":  9
     },
     {
@@ -14576,10 +14576,10 @@
     },
     {
         "name":  "Xisko V",
-        "level":  55,
-        "exp":  18835291,
-        "exp_next_level":  155353994,
-        "exp_percentage":  12.12,
+        "level":  56,
+        "exp":  15001500,
+        "exp_next_level":  186424793,
+        "exp_percentage":  8.05,
         "remort":  0,
         "remorted":  "",
         "head":  519,
@@ -14595,9 +14595,9 @@
         "usuarios_matados":  0,
         "muertes":  19,
         "puntos_pesca":  0,
-        "killed_npcs":  755,
-        "minutos_online":  1143,
-        "drag_puntos":  44
+        "killed_npcs":  768,
+        "minutos_online":  1196,
+        "drag_puntos":  45
     },
     {
         "name":  "currante",
@@ -15121,7 +15121,7 @@
         "muertes":  7,
         "puntos_pesca":  0,
         "killed_npcs":  74,
-        "minutos_online":  140,
+        "minutos_online":  145,
         "drag_puntos":  0
     },
     {
@@ -16696,7 +16696,7 @@
         "muertes":  42,
         "puntos_pesca":  0,
         "killed_npcs":  382,
-        "minutos_online":  1641,
+        "minutos_online":  1643,
         "drag_puntos":  9
     },
     {
