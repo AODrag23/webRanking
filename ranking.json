@@ -145,8 +145,8 @@
         "usuarios_matados":  104,
         "muertes":  118,
         "puntos_pesca":  0,
-        "killed_npcs":  2756,
-        "minutos_online":  7152,
+        "killed_npcs":  2757,
+        "minutos_online":  7160,
         "drag_puntos":  304
     },
     {
@@ -696,7 +696,7 @@
         "muertes":  78,
         "puntos_pesca":  0,
         "killed_npcs":  2900,
-        "minutos_online":  3232,
+        "minutos_online":  3237,
         "drag_puntos":  170
     },
     {
@@ -2002,9 +2002,9 @@
     {
         "name":  "Hola",
         "level":  48,
-        "exp":  4203769,
+        "exp":  8885359,
         "exp_next_level":  43356448,
-        "exp_percentage":  9.7,
+        "exp_percentage":  20.49,
         "remort":  0,
         "remorted":  "",
         "head":  626,
@@ -2020,9 +2020,9 @@
         "usuarios_matados":  13,
         "muertes":  35,
         "puntos_pesca":  0,
-        "killed_npcs":  1653,
-        "minutos_online":  1949,
-        "drag_puntos":  34
+        "killed_npcs":  1672,
+        "minutos_online":  1960,
+        "drag_puntos":  38
     },
     {
         "name":  "Odnem",
@@ -5645,8 +5645,8 @@
         "usuarios_matados":  843,
         "muertes":  407,
         "puntos_pesca":  0,
-        "killed_npcs":  1704,
-        "minutos_online":  6431,
+        "killed_npcs":  1706,
+        "minutos_online":  6435,
         "drag_puntos":  42
     },
     {
@@ -6971,7 +6971,7 @@
         "muertes":  143,
         "puntos_pesca":  0,
         "killed_npcs":  2210,
-        "minutos_online":  10546,
+        "minutos_online":  10556,
         "drag_puntos":  193
     },
     {
@@ -7221,7 +7221,7 @@
         "muertes":  305,
         "puntos_pesca":  0,
         "killed_npcs":  781,
-        "minutos_online":  4117,
+        "minutos_online":  4123,
         "drag_puntos":  12
     },
     {
@@ -10796,7 +10796,7 @@
         "muertes":  12,
         "puntos_pesca":  0,
         "killed_npcs":  4,
-        "minutos_online":  779,
+        "minutos_online":  781,
         "drag_puntos":  0
     },
     {
@@ -13095,8 +13095,8 @@
         "usuarios_matados":  60,
         "muertes":  291,
         "puntos_pesca":  0,
-        "killed_npcs":  1381,
-        "minutos_online":  4949,
+        "killed_npcs":  1383,
+        "minutos_online":  4978,
         "drag_puntos":  24
     },
     {
@@ -13196,7 +13196,7 @@
         "muertes":  160,
         "puntos_pesca":  0,
         "killed_npcs":  126,
-        "minutos_online":  244,
+        "minutos_online":  245,
         "drag_puntos":  0
     },
     {
@@ -14396,7 +14396,7 @@
         "muertes":  62,
         "puntos_pesca":  0,
         "killed_npcs":  8,
-        "minutos_online":  119,
+        "minutos_online":  121,
         "drag_puntos":  0
     },
     {
@@ -16426,10 +16426,10 @@
     },
     {
         "name":  "Circe",
-        "level":  19,
-        "exp":  98970,
-        "exp_next_level":  159129,
-        "exp_percentage":  62.19,
+        "level":  20,
+        "exp":  51723,
+        "exp_next_level":  206868,
+        "exp_percentage":  25,
         "remort":  0,
         "remorted":  "",
         "head":  77,
@@ -16445,8 +16445,8 @@
         "usuarios_matados":  0,
         "muertes":  0,
         "puntos_pesca":  0,
-        "killed_npcs":  88,
-        "minutos_online":  113,
+        "killed_npcs":  90,
+        "minutos_online":  117,
         "drag_puntos":  0
     },
     {
@@ -16696,7 +16696,7 @@
         "muertes":  42,
         "puntos_pesca":  0,
         "killed_npcs":  382,
-        "minutos_online":  1603,
+        "minutos_online":  1641,
         "drag_puntos":  9
     },
     {
@@ -16721,7 +16721,7 @@
         "muertes":  280,
         "puntos_pesca":  0,
         "killed_npcs":  380,
-        "minutos_online":  627,
+        "minutos_online":  628,
         "drag_puntos":  10
     },
     {
@@ -16851,13 +16851,13 @@
     },
     {
         "name":  "DefToNes",
-        "level":  52,
-        "exp":  46449464,
-        "exp_next_level":  89903932,
-        "exp_percentage":  51.67,
+        "level":  53,
+        "exp":  45868674,
+        "exp_next_level":  107884718,
+        "exp_percentage":  42.52,
         "remort":  0,
         "remorted":  "",
-        "head":  111,
+        "head":  104,
         "genre":  "Hombre",
         "genre_id":  1,
         "class":  "Druida",
@@ -16870,8 +16870,8 @@
         "usuarios_matados":  0,
         "muertes":  6,
         "puntos_pesca":  0,
-        "killed_npcs":  102,
-        "minutos_online":  329,
+        "killed_npcs":  107,
+        "minutos_online":  371,
         "drag_puntos":  13
     },
     {
@@ -17026,10 +17026,10 @@
     },
     {
         "name":  "TraY",
-        "level":  43,
-        "exp":  2148891,
-        "exp_next_level":  17423984,
-        "exp_percentage":  12.33,
+        "level":  45,
+        "exp":  5846190,
+        "exp_next_level":  25090537,
+        "exp_percentage":  23.3,
         "remort":  0,
         "remorted":  "",
         "head":  708,
@@ -17045,9 +17045,9 @@
         "usuarios_matados":  2,
         "muertes":  20,
         "puntos_pesca":  0,
-        "killed_npcs":  19,
-        "minutos_online":  258,
-        "drag_puntos":  2
+        "killed_npcs":  24,
+        "minutos_online":  296,
+        "drag_puntos":  3
     },
     {
         "name":  "peladown",
