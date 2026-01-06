@@ -5641,12 +5641,12 @@
         "race_id":  8,
         "elo":  1018,
         "criminales_matados":  103,
-        "ciudadanos_matados":  303,
-        "usuarios_matados":  843,
+        "ciudadanos_matados":  304,
+        "usuarios_matados":  844,
         "muertes":  407,
         "puntos_pesca":  0,
         "killed_npcs":  1706,
-        "minutos_online":  6452,
+        "minutos_online":  6463,
         "drag_puntos":  42
     },
     {
@@ -12296,7 +12296,7 @@
         "muertes":  24,
         "puntos_pesca":  0,
         "killed_npcs":  0,
-        "minutos_online":  81,
+        "minutos_online":  141,
         "drag_puntos":  0
     },
     {
@@ -13196,7 +13196,7 @@
         "muertes":  171,
         "puntos_pesca":  0,
         "killed_npcs":  126,
-        "minutos_online":  264,
+        "minutos_online":  266,
         "drag_puntos":  0
     },
     {
@@ -14245,16 +14245,16 @@
         "usuarios_matados":  520,
         "muertes":  126,
         "puntos_pesca":  0,
-        "killed_npcs":  310,
-        "minutos_online":  2200,
+        "killed_npcs":  339,
+        "minutos_online":  2208,
         "drag_puntos":  14
     },
     {
         "name":  "Grimnar",
-        "level":  51,
-        "exp":  28507500,
-        "exp_next_level":  74919943,
-        "exp_percentage":  38.05,
+        "level":  52,
+        "exp":  7850714,
+        "exp_next_level":  89903932,
+        "exp_percentage":  8.73,
         "remort":  0,
         "remorted":  "",
         "head":  326,
@@ -14270,9 +14270,9 @@
         "usuarios_matados":  1,
         "muertes":  6,
         "puntos_pesca":  0,
-        "killed_npcs":  244,
-        "minutos_online":  424,
-        "drag_puntos":  12
+        "killed_npcs":  279,
+        "minutos_online":  463,
+        "drag_puntos":  13
     },
     {
         "name":  "Mr Talk",
@@ -14301,10 +14301,10 @@
     },
     {
         "name":  "Lothariel",
-        "level":  35,
-        "exp":  796272,
-        "exp_next_level":  4052262,
-        "exp_percentage":  19.65,
+        "level":  42,
+        "exp":  4664598,
+        "exp_next_level":  14519987,
+        "exp_percentage":  32.13,
         "remort":  0,
         "remorted":  "",
         "head":  110,
@@ -14318,10 +14318,10 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  10,
+        "muertes":  11,
         "puntos_pesca":  0,
-        "killed_npcs":  203,
-        "minutos_online":  201,
+        "killed_npcs":  214,
+        "minutos_online":  219,
         "drag_puntos":  0
     },
     {
@@ -14396,7 +14396,7 @@
         "muertes":  62,
         "puntos_pesca":  0,
         "killed_npcs":  8,
-        "minutos_online":  135,
+        "minutos_online":  142,
         "drag_puntos":  0
     },
     {
@@ -17297,6 +17297,31 @@
         "puntos_pesca":  0,
         "killed_npcs":  24,
         "minutos_online":  18,
+        "drag_puntos":  0
+    },
+    {
+        "name":  "Barbero",
+        "level":  28,
+        "exp":  371811,
+        "exp_next_level":  1130912,
+        "exp_percentage":  32.88,
+        "remort":  0,
+        "remorted":  "",
+        "head":  691,
+        "genre":  "Mujer",
+        "genre_id":  2,
+        "class":  "Trabajador",
+        "class_id":  9,
+        "race":  "Vikingo",
+        "race_id":  8,
+        "elo":  1000,
+        "criminales_matados":  0,
+        "ciudadanos_matados":  0,
+        "usuarios_matados":  0,
+        "muertes":  0,
+        "puntos_pesca":  0,
+        "killed_npcs":  0,
+        "minutos_online":  9,
         "drag_puntos":  0
     }
 ]
