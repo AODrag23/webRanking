@@ -6096,7 +6096,7 @@
         "muertes":  109,
         "puntos_pesca":  0,
         "killed_npcs":  3345,
-        "minutos_online":  5553,
+        "minutos_online":  5578,
         "drag_puntos":  20
     },
     {
@@ -6871,7 +6871,7 @@
         "muertes":  149,
         "puntos_pesca":  0,
         "killed_npcs":  1531,
-        "minutos_online":  4307,
+        "minutos_online":  4311,
         "drag_puntos":  109
     },
     {
@@ -7696,7 +7696,7 @@
         "muertes":  43,
         "puntos_pesca":  0,
         "killed_npcs":  1899,
-        "minutos_online":  3306,
+        "minutos_online":  3317,
         "drag_puntos":  142
     },
     {
@@ -8196,7 +8196,7 @@
         "muertes":  2,
         "puntos_pesca":  0,
         "killed_npcs":  236,
-        "minutos_online":  228,
+        "minutos_online":  229,
         "drag_puntos":  1
     },
     {
@@ -8352,9 +8352,9 @@
     {
         "name":  "Triane",
         "level":  50,
-        "exp":  533581,
+        "exp":  3938241,
         "exp_next_level":  62433286,
-        "exp_percentage":  0.85,
+        "exp_percentage":  6.31,
         "remort":  0,
         "remorted":  "",
         "head":  159,
@@ -8370,9 +8370,9 @@
         "usuarios_matados":  5,
         "muertes":  6,
         "puntos_pesca":  0,
-        "killed_npcs":  129,
-        "minutos_online":  800,
-        "drag_puntos":  9
+        "killed_npcs":  147,
+        "minutos_online":  845,
+        "drag_puntos":  13
     },
     {
         "name":  "Madeirinha",
@@ -9217,11 +9217,11 @@
         "elo":  1000,
         "criminales_matados":  43,
         "ciudadanos_matados":  11,
-        "usuarios_matados":  150,
-        "muertes":  199,
+        "usuarios_matados":  180,
+        "muertes":  221,
         "puntos_pesca":  0,
         "killed_npcs":  1927,
-        "minutos_online":  3565,
+        "minutos_online":  3592,
         "drag_puntos":  75
     },
     {
@@ -13596,7 +13596,7 @@
         "muertes":  77,
         "puntos_pesca":  0,
         "killed_npcs":  429,
-        "minutos_online":  1891,
+        "minutos_online":  1901,
         "drag_puntos":  27
     },
     {
@@ -15796,7 +15796,7 @@
         "muertes":  106,
         "puntos_pesca":  0,
         "killed_npcs":  26,
-        "minutos_online":  927,
+        "minutos_online":  928,
         "drag_puntos":  0
     },
     {
@@ -16502,9 +16502,9 @@
     {
         "name":  "Tlachtga",
         "level":  43,
-        "exp":  19048135,
+        "exp":  19059129,
         "exp_next_level":  52240450,
-        "exp_percentage":  36.46,
+        "exp_percentage":  36.48,
         "remort":  1,
         "remorted":  "Elian-LAL",
         "head":  171,
@@ -16517,11 +16517,11 @@
         "elo":  1000,
         "criminales_matados":  8,
         "ciudadanos_matados":  0,
-        "usuarios_matados":  33,
-        "muertes":  49,
+        "usuarios_matados":  55,
+        "muertes":  79,
         "puntos_pesca":  0,
         "killed_npcs":  38,
-        "minutos_online":  590,
+        "minutos_online":  614,
         "drag_puntos":  0
     },
     {
@@ -17247,6 +17247,31 @@
         "puntos_pesca":  0,
         "killed_npcs":  0,
         "minutos_online":  19,
+        "drag_puntos":  0
+    },
+    {
+        "name":  "SoZoRRiTa",
+        "level":  6,
+        "exp":  192,
+        "exp_next_level":  3420,
+        "exp_percentage":  5.61,
+        "remort":  0,
+        "remorted":  "",
+        "head":  376,
+        "genre":  "Mujer",
+        "genre_id":  2,
+        "class":  "Guerrero",
+        "class_id":  3,
+        "race":  "Enano",
+        "race_id":  5,
+        "elo":  1000,
+        "criminales_matados":  0,
+        "ciudadanos_matados":  0,
+        "usuarios_matados":  0,
+        "muertes":  0,
+        "puntos_pesca":  0,
+        "killed_npcs":  5,
+        "minutos_online":  6,
         "drag_puntos":  0
     }
 ]
