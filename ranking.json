@@ -395,8 +395,8 @@
         "usuarios_matados":  398,
         "muertes":  229,
         "puntos_pesca":  0,
-        "killed_npcs":  3290,
-        "minutos_online":  7273,
+        "killed_npcs":  3293,
+        "minutos_online":  7292,
         "drag_puntos":  220
     },
     {
@@ -471,7 +471,7 @@
         "muertes":  196,
         "puntos_pesca":  20,
         "killed_npcs":  5813,
-        "minutos_online":  8001,
+        "minutos_online":  8004,
         "drag_puntos":  44
     },
     {
@@ -771,7 +771,7 @@
         "muertes":  12,
         "puntos_pesca":  0,
         "killed_npcs":  1293,
-        "minutos_online":  2857,
+        "minutos_online":  2858,
         "drag_puntos":  55
     },
     {
@@ -2001,10 +2001,10 @@
     },
     {
         "name":  "Hola",
-        "level":  53,
-        "exp":  58405771,
-        "exp_next_level":  107884718,
-        "exp_percentage":  54.14,
+        "level":  54,
+        "exp":  25213719,
+        "exp_next_level":  129461662,
+        "exp_percentage":  19.48,
         "remort":  0,
         "remorted":  "",
         "head":  626,
@@ -2020,8 +2020,8 @@
         "usuarios_matados":  13,
         "muertes":  36,
         "puntos_pesca":  0,
-        "killed_npcs":  1799,
-        "minutos_online":  2069,
+        "killed_npcs":  1872,
+        "minutos_online":  2126,
         "drag_puntos":  59
     },
     {
@@ -3021,7 +3021,7 @@
         "muertes":  8,
         "puntos_pesca":  26345,
         "killed_npcs":  15,
-        "minutos_online":  1764,
+        "minutos_online":  1782,
         "drag_puntos":  1
     },
     {
@@ -3046,7 +3046,7 @@
         "muertes":  169,
         "puntos_pesca":  0,
         "killed_npcs":  2723,
-        "minutos_online":  7155,
+        "minutos_online":  7215,
         "drag_puntos":  207
     },
     {
@@ -4976,10 +4976,10 @@
     },
     {
         "name":  "KuRoTSuKi",
-        "level":  46,
-        "exp":  8020235,
-        "exp_next_level":  30108644,
-        "exp_percentage":  26.64,
+        "level":  51,
+        "exp":  12606000,
+        "exp_next_level":  74919943,
+        "exp_percentage":  16.83,
         "remort":  0,
         "remorted":  "",
         "head":  625,
@@ -4995,9 +4995,9 @@
         "usuarios_matados":  5,
         "muertes":  18,
         "puntos_pesca":  0,
-        "killed_npcs":  743,
-        "minutos_online":  1514,
-        "drag_puntos":  12
+        "killed_npcs":  776,
+        "minutos_online":  1547,
+        "drag_puntos":  16
     },
     {
         "name":  "Eryndor",
@@ -5346,7 +5346,7 @@
         "muertes":  31,
         "puntos_pesca":  0,
         "killed_npcs":  2094,
-        "minutos_online":  3974,
+        "minutos_online":  4006,
         "drag_puntos":  131
     },
     {
@@ -6971,7 +6971,7 @@
         "muertes":  143,
         "puntos_pesca":  0,
         "killed_npcs":  2236,
-        "minutos_online":  10688,
+        "minutos_online":  10729,
         "drag_puntos":  193
     },
     {
@@ -7065,13 +7065,13 @@
         "race":  "Elfo",
         "race_id":  2,
         "elo":  1000,
-        "criminales_matados":  21,
+        "criminales_matados":  22,
         "ciudadanos_matados":  14,
-        "usuarios_matados":  60,
+        "usuarios_matados":  61,
         "muertes":  138,
         "puntos_pesca":  0,
-        "killed_npcs":  1038,
-        "minutos_online":  2274,
+        "killed_npcs":  1039,
+        "minutos_online":  2297,
         "drag_puntos":  48
     },
     {
@@ -10996,7 +10996,7 @@
         "muertes":  90,
         "puntos_pesca":  0,
         "killed_npcs":  1400,
-        "minutos_online":  5526,
+        "minutos_online":  5527,
         "drag_puntos":  78
     },
     {
@@ -11296,7 +11296,7 @@
         "muertes":  7,
         "puntos_pesca":  0,
         "killed_npcs":  170,
-        "minutos_online":  385,
+        "minutos_online":  445,
         "drag_puntos":  0
     },
     {
@@ -12302,9 +12302,9 @@
     {
         "name":  "hIIo",
         "level":  36,
-        "exp":  7319702,
+        "exp":  7647152,
         "exp_next_level":  14579351,
-        "exp_percentage":  50.21,
+        "exp_percentage":  52.45,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  623,
@@ -12320,8 +12320,8 @@
         "usuarios_matados":  2,
         "muertes":  11,
         "puntos_pesca":  0,
-        "killed_npcs":  192,
-        "minutos_online":  2066,
+        "killed_npcs":  193,
+        "minutos_online":  2126,
         "drag_puntos":  3
     },
     {
@@ -12426,10 +12426,10 @@
     },
     {
         "name":  "SOABFN",
-        "level":  47,
-        "exp":  57914924,
-        "exp_next_level":  108325798,
-        "exp_percentage":  53.46,
+        "level":  48,
+        "exp":  12902926,
+        "exp_next_level":  129990958,
+        "exp_percentage":  9.93,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  636,
@@ -12445,8 +12445,8 @@
         "usuarios_matados":  150,
         "muertes":  50,
         "puntos_pesca":  0,
-        "killed_npcs":  1684,
-        "minutos_online":  1215,
+        "killed_npcs":  1690,
+        "minutos_online":  1218,
         "drag_puntos":  41
     },
     {
@@ -14251,10 +14251,10 @@
     },
     {
         "name":  "Grimnar",
-        "level":  49,
-        "exp":  18632883,
-        "exp_next_level":  52027738,
-        "exp_percentage":  35.81,
+        "level":  51,
+        "exp":  26556000,
+        "exp_next_level":  74919943,
+        "exp_percentage":  35.45,
         "remort":  0,
         "remorted":  "",
         "head":  326,
@@ -14270,9 +14270,9 @@
         "usuarios_matados":  1,
         "muertes":  4,
         "puntos_pesca":  0,
-        "killed_npcs":  196,
-        "minutos_online":  302,
-        "drag_puntos":  7
+        "killed_npcs":  234,
+        "minutos_online":  335,
+        "drag_puntos":  9
     },
     {
         "name":  "Mr Talk",
@@ -14576,10 +14576,10 @@
     },
     {
         "name":  "Xisko V",
-        "level":  53,
-        "exp":  7858471,
-        "exp_next_level":  107884718,
-        "exp_percentage":  7.28,
+        "level":  55,
+        "exp":  18835291,
+        "exp_next_level":  155353994,
+        "exp_percentage":  12.12,
         "remort":  0,
         "remorted":  "",
         "head":  519,
@@ -14593,11 +14593,11 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  18,
+        "muertes":  19,
         "puntos_pesca":  0,
-        "killed_npcs":  716,
-        "minutos_online":  1083,
-        "drag_puntos":  42
+        "killed_npcs":  755,
+        "minutos_online":  1143,
+        "drag_puntos":  44
     },
     {
         "name":  "currante",
