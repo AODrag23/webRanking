@@ -971,7 +971,7 @@
         "muertes":  49,
         "puntos_pesca":  3415,
         "killed_npcs":  3532,
-        "minutos_online":  5574,
+        "minutos_online":  5577,
         "drag_puntos":  195
     },
     {
@@ -3041,12 +3041,12 @@
         "race_id":  3,
         "elo":  1000,
         "criminales_matados":  226,
-        "ciudadanos_matados":  307,
-        "usuarios_matados":  759,
+        "ciudadanos_matados":  308,
+        "usuarios_matados":  760,
         "muertes":  169,
         "puntos_pesca":  0,
-        "killed_npcs":  2728,
-        "minutos_online":  7275,
+        "killed_npcs":  2735,
+        "minutos_online":  7300,
         "drag_puntos":  207
     },
     {
@@ -4521,7 +4521,7 @@
         "muertes":  29,
         "puntos_pesca":  10,
         "killed_npcs":  296,
-        "minutos_online":  868,
+        "minutos_online":  871,
         "drag_puntos":  4
     },
     {
@@ -4851,10 +4851,10 @@
     },
     {
         "name":  "Sifurus",
-        "level":  52,
-        "exp":  37702214,
-        "exp_next_level":  89903932,
-        "exp_percentage":  41.94,
+        "level":  53,
+        "exp":  85306771,
+        "exp_next_level":  107884718,
+        "exp_percentage":  79.07,
         "remort":  0,
         "remorted":  "",
         "head":  313,
@@ -4870,8 +4870,8 @@
         "usuarios_matados":  1,
         "muertes":  12,
         "puntos_pesca":  0,
-        "killed_npcs":  358,
-        "minutos_online":  634,
+        "killed_npcs":  374,
+        "minutos_online":  673,
         "drag_puntos":  7
     },
     {
@@ -7221,7 +7221,7 @@
         "muertes":  305,
         "puntos_pesca":  0,
         "killed_npcs":  781,
-        "minutos_online":  4135,
+        "minutos_online":  4144,
         "drag_puntos":  12
     },
     {
@@ -12221,7 +12221,7 @@
         "muertes":  0,
         "puntos_pesca":  0,
         "killed_npcs":  0,
-        "minutos_online":  35,
+        "minutos_online":  39,
         "drag_puntos":  0
     },
     {
@@ -12321,7 +12321,7 @@
         "muertes":  11,
         "puntos_pesca":  0,
         "killed_npcs":  193,
-        "minutos_online":  2159,
+        "minutos_online":  2166,
         "drag_puntos":  3
     },
     {
@@ -14252,9 +14252,9 @@
     {
         "name":  "Grimnar",
         "level":  51,
-        "exp":  26556000,
+        "exp":  26683500,
         "exp_next_level":  74919943,
-        "exp_percentage":  35.45,
+        "exp_percentage":  35.62,
         "remort":  0,
         "remorted":  "",
         "head":  326,
@@ -14268,10 +14268,10 @@
         "criminales_matados":  1,
         "ciudadanos_matados":  0,
         "usuarios_matados":  1,
-        "muertes":  4,
+        "muertes":  5,
         "puntos_pesca":  0,
-        "killed_npcs":  234,
-        "minutos_online":  341,
+        "killed_npcs":  235,
+        "minutos_online":  390,
         "drag_puntos":  9
     },
     {
@@ -14321,7 +14321,7 @@
         "muertes":  9,
         "puntos_pesca":  0,
         "killed_npcs":  193,
-        "minutos_online":  187,
+        "minutos_online":  190,
         "drag_puntos":  0
     },
     {
@@ -14577,9 +14577,9 @@
     {
         "name":  "Xisko V",
         "level":  56,
-        "exp":  15001500,
+        "exp":  19869750,
         "exp_next_level":  186424793,
-        "exp_percentage":  8.05,
+        "exp_percentage":  10.66,
         "remort":  0,
         "remorted":  "",
         "head":  519,
@@ -14595,8 +14595,8 @@
         "usuarios_matados":  0,
         "muertes":  19,
         "puntos_pesca":  0,
-        "killed_npcs":  768,
-        "minutos_online":  1196,
+        "killed_npcs":  771,
+        "minutos_online":  1231,
         "drag_puntos":  45
     },
     {
@@ -16696,7 +16696,7 @@
         "muertes":  42,
         "puntos_pesca":  0,
         "killed_npcs":  382,
-        "minutos_online":  1643,
+        "minutos_online":  1699,
         "drag_puntos":  9
     },
     {
@@ -17272,6 +17272,31 @@
         "puntos_pesca":  0,
         "killed_npcs":  5,
         "minutos_online":  6,
+        "drag_puntos":  0
+    },
+    {
+        "name":  "Naruto",
+        "level":  11,
+        "exp":  3564,
+        "exp_next_level":  19508,
+        "exp_percentage":  18.27,
+        "remort":  0,
+        "remorted":  "",
+        "head":  226,
+        "genre":  "Hombre",
+        "genre_id":  1,
+        "class":  "Druida",
+        "class_id":  6,
+        "race":  "Elfo oscuro",
+        "race_id":  3,
+        "elo":  1000,
+        "criminales_matados":  0,
+        "ciudadanos_matados":  0,
+        "usuarios_matados":  0,
+        "muertes":  1,
+        "puntos_pesca":  0,
+        "killed_npcs":  14,
+        "minutos_online":  3,
         "drag_puntos":  0
     }
 ]
