@@ -52,9 +52,9 @@
     {
         "name":  "Spock",
         "level":  45,
-        "exp":  13517618,
+        "exp":  45115728,
         "exp_next_level":  75226248,
-        "exp_percentage":  17.97,
+        "exp_percentage":  59.97,
         "remort":  1,
         "remorted":  "Elian-LAL",
         "head":  117,
@@ -70,8 +70,8 @@
         "usuarios_matados":  253,
         "muertes":  374,
         "puntos_pesca":  0,
-        "killed_npcs":  613,
-        "minutos_online":  7810,
+        "killed_npcs":  615,
+        "minutos_online":  7862,
         "drag_puntos":  29
     },
     {
@@ -4851,10 +4851,10 @@
     },
     {
         "name":  "Sifurus",
-        "level":  48,
-        "exp":  231263,
-        "exp_next_level":  43356448,
-        "exp_percentage":  0.53,
+        "level":  51,
+        "exp":  49500,
+        "exp_next_level":  74919943,
+        "exp_percentage":  0.07,
         "remort":  0,
         "remorted":  "",
         "head":  313,
@@ -4868,10 +4868,10 @@
         "criminales_matados":  1,
         "ciudadanos_matados":  0,
         "usuarios_matados":  1,
-        "muertes":  11,
+        "muertes":  12,
         "puntos_pesca":  0,
-        "killed_npcs":  344,
-        "minutos_online":  585,
+        "killed_npcs":  348,
+        "minutos_online":  609,
         "drag_puntos":  7
     },
     {
@@ -6970,8 +6970,8 @@
         "usuarios_matados":  138,
         "muertes":  143,
         "puntos_pesca":  0,
-        "killed_npcs":  2210,
-        "minutos_online":  10563,
+        "killed_npcs":  2215,
+        "minutos_online":  10608,
         "drag_puntos":  193
     },
     {
@@ -7296,7 +7296,7 @@
         "muertes":  21,
         "puntos_pesca":  0,
         "killed_npcs":  624,
-        "minutos_online":  2079,
+        "minutos_online":  2081,
         "drag_puntos":  31
     },
     {
@@ -9677,9 +9677,9 @@
     {
         "name":  "SMan",
         "level":  49,
-        "exp":  67569537,
+        "exp":  87743037,
         "exp_next_level":  155989150,
-        "exp_percentage":  43.32,
+        "exp_percentage":  56.25,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  622,
@@ -9695,8 +9695,8 @@
         "usuarios_matados":  19,
         "muertes":  32,
         "puntos_pesca":  0,
-        "killed_npcs":  289,
-        "minutos_online":  1414,
+        "killed_npcs":  302,
+        "minutos_online":  1448,
         "drag_puntos":  2
     },
     {
@@ -10796,7 +10796,7 @@
         "muertes":  12,
         "puntos_pesca":  0,
         "killed_npcs":  4,
-        "minutos_online":  783,
+        "minutos_online":  786,
         "drag_puntos":  0
     },
     {
@@ -14126,10 +14126,10 @@
     },
     {
         "name":  "aWaKy",
-        "level":  44,
-        "exp":  3782070,
-        "exp_next_level":  62688540,
-        "exp_percentage":  6.03,
+        "level":  48,
+        "exp":  21123572,
+        "exp_next_level":  129990958,
+        "exp_percentage":  16.25,
         "remort":  1,
         "remorted":  "Elian-LAL",
         "head":  121,
@@ -14145,8 +14145,8 @@
         "usuarios_matados":  76,
         "muertes":  109,
         "puntos_pesca":  0,
-        "killed_npcs":  76,
-        "minutos_online":  1523,
+        "killed_npcs":  87,
+        "minutos_online":  1564,
         "drag_puntos":  1
     },
     {
@@ -14252,9 +14252,9 @@
     {
         "name":  "Grimnar",
         "level":  42,
-        "exp":  8215098,
+        "exp":  11555598,
         "exp_next_level":  14519987,
-        "exp_percentage":  56.58,
+        "exp_percentage":  79.58,
         "remort":  0,
         "remorted":  "",
         "head":  326,
@@ -14270,8 +14270,8 @@
         "usuarios_matados":  0,
         "muertes":  2,
         "puntos_pesca":  0,
-        "killed_npcs":  135,
-        "minutos_online":  191,
+        "killed_npcs":  140,
+        "minutos_online":  200,
         "drag_puntos":  4
     },
     {
