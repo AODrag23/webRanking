@@ -12301,10 +12301,10 @@
     },
     {
         "name":  "hIIo",
-        "level":  50,
-        "exp":  2188980,
-        "exp_next_level":  62433286,
-        "exp_percentage":  3.51,
+        "level":  51,
+        "exp":  19981500,
+        "exp_next_level":  74919943,
+        "exp_percentage":  26.67,
         "remort":  0,
         "remorted":  "",
         "head":  623,
@@ -12320,9 +12320,9 @@
         "usuarios_matados":  1,
         "muertes":  10,
         "puntos_pesca":  0,
-        "killed_npcs":  58,
-        "minutos_online":  1921,
-        "drag_puntos":  0
+        "killed_npcs":  92,
+        "minutos_online":  1944,
+        "drag_puntos":  1
     },
     {
         "name":  "Jinx",
@@ -14577,9 +14577,9 @@
     {
         "name":  "Xisko V",
         "level":  49,
-        "exp":  20943833,
+        "exp":  22100453,
         "exp_next_level":  52027738,
-        "exp_percentage":  40.26,
+        "exp_percentage":  42.48,
         "remort":  0,
         "remorted":  "",
         "head":  519,
@@ -14595,8 +14595,8 @@
         "usuarios_matados":  0,
         "muertes":  18,
         "puntos_pesca":  0,
-        "killed_npcs":  669,
-        "minutos_online":  1001,
+        "killed_npcs":  676,
+        "minutos_online":  1012,
         "drag_puntos":  40
     },
     {
@@ -15096,7 +15096,7 @@
         "muertes":  42,
         "puntos_pesca":  0,
         "killed_npcs":  1461,
-        "minutos_online":  2109,
+        "minutos_online":  2120,
         "drag_puntos":  58
     },
     {
@@ -15121,7 +15121,7 @@
         "muertes":  7,
         "puntos_pesca":  0,
         "killed_npcs":  74,
-        "minutos_online":  139,
+        "minutos_online":  140,
         "drag_puntos":  0
     },
     {
@@ -16121,7 +16121,7 @@
         "muertes":  4,
         "puntos_pesca":  0,
         "killed_npcs":  98,
-        "minutos_online":  353,
+        "minutos_online":  361,
         "drag_puntos":  0
     },
     {
