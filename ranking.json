@@ -2021,7 +2021,7 @@
         "muertes":  36,
         "puntos_pesca":  0,
         "killed_npcs":  1900,
-        "minutos_online":  2140,
+        "minutos_online":  2141,
         "drag_puntos":  59
     },
     {
@@ -2802,7 +2802,7 @@
     {
         "name":  "Zhongwen",
         "level":  57,
-        "exp":  456343733,
+        "exp":  456377529,
         "exp_next_level":  670724791,
         "exp_percentage":  68.04,
         "remort":  1,
@@ -2821,7 +2821,7 @@
         "muertes":  457,
         "puntos_pesca":  0,
         "killed_npcs":  2473,
-        "minutos_online":  13099,
+        "minutos_online":  13101,
         "drag_puntos":  63
     },
     {
@@ -5646,7 +5646,7 @@
         "muertes":  407,
         "puntos_pesca":  0,
         "killed_npcs":  1706,
-        "minutos_online":  6436,
+        "minutos_online":  6452,
         "drag_puntos":  42
     },
     {
@@ -6971,7 +6971,7 @@
         "muertes":  143,
         "puntos_pesca":  0,
         "killed_npcs":  2236,
-        "minutos_online":  10729,
+        "minutos_online":  10730,
         "drag_puntos":  193
     },
     {
@@ -11477,9 +11477,9 @@
     {
         "name":  "picotero",
         "level":  41,
-        "exp":  8533423,
+        "exp":  8547698,
         "exp_next_level":  12099989,
-        "exp_percentage":  70.52,
+        "exp_percentage":  70.64,
         "remort":  0,
         "remorted":  "",
         "head":  353,
@@ -11496,7 +11496,7 @@
         "muertes":  2,
         "puntos_pesca":  0,
         "killed_npcs":  1,
-        "minutos_online":  1114,
+        "minutos_online":  1122,
         "drag_puntos":  0
     },
     {
@@ -12071,7 +12071,7 @@
         "muertes":  0,
         "puntos_pesca":  0,
         "killed_npcs":  22,
-        "minutos_online":  34,
+        "minutos_online":  35,
         "drag_puntos":  0
     },
     {
@@ -12296,7 +12296,7 @@
         "muertes":  24,
         "puntos_pesca":  0,
         "killed_npcs":  0,
-        "minutos_online":  77,
+        "minutos_online":  81,
         "drag_puntos":  0
     },
     {
@@ -12846,7 +12846,7 @@
         "muertes":  66,
         "puntos_pesca":  0,
         "killed_npcs":  60,
-        "minutos_online":  3335,
+        "minutos_online":  3336,
         "drag_puntos":  1
     },
     {
@@ -13096,7 +13096,7 @@
         "muertes":  291,
         "puntos_pesca":  0,
         "killed_npcs":  1383,
-        "minutos_online":  4978,
+        "minutos_online":  4980,
         "drag_puntos":  24
     },
     {
@@ -13421,7 +13421,7 @@
         "muertes":  19,
         "puntos_pesca":  0,
         "killed_npcs":  197,
-        "minutos_online":  277,
+        "minutos_online":  278,
         "drag_puntos":  1
     },
     {
@@ -14252,9 +14252,9 @@
     {
         "name":  "Grimnar",
         "level":  51,
-        "exp":  26683500,
+        "exp":  28507500,
         "exp_next_level":  74919943,
-        "exp_percentage":  35.62,
+        "exp_percentage":  38.05,
         "remort":  0,
         "remorted":  "",
         "head":  326,
@@ -14268,11 +14268,11 @@
         "criminales_matados":  1,
         "ciudadanos_matados":  0,
         "usuarios_matados":  1,
-        "muertes":  5,
+        "muertes":  6,
         "puntos_pesca":  0,
-        "killed_npcs":  235,
-        "minutos_online":  390,
-        "drag_puntos":  9
+        "killed_npcs":  244,
+        "minutos_online":  424,
+        "drag_puntos":  12
     },
     {
         "name":  "Mr Talk",
@@ -14301,10 +14301,10 @@
     },
     {
         "name":  "Lothariel",
-        "level":  24,
-        "exp":  69257,
-        "exp_next_level":  545386,
-        "exp_percentage":  12.7,
+        "level":  35,
+        "exp":  796272,
+        "exp_next_level":  4052262,
+        "exp_percentage":  19.65,
         "remort":  0,
         "remorted":  "",
         "head":  110,
@@ -14318,10 +14318,10 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  9,
+        "muertes":  10,
         "puntos_pesca":  0,
-        "killed_npcs":  193,
-        "minutos_online":  190,
+        "killed_npcs":  203,
+        "minutos_online":  201,
         "drag_puntos":  0
     },
     {
@@ -14396,7 +14396,7 @@
         "muertes":  62,
         "puntos_pesca":  0,
         "killed_npcs":  8,
-        "minutos_online":  121,
+        "minutos_online":  135,
         "drag_puntos":  0
     },
     {
@@ -16696,7 +16696,7 @@
         "muertes":  42,
         "puntos_pesca":  0,
         "killed_npcs":  382,
-        "minutos_online":  1699,
+        "minutos_online":  1725,
         "drag_puntos":  9
     },
     {
@@ -17276,10 +17276,10 @@
     },
     {
         "name":  "Naruto",
-        "level":  11,
-        "exp":  3564,
-        "exp_next_level":  19508,
-        "exp_percentage":  18.27,
+        "level":  39,
+        "exp":  0,
+        "exp_next_level":  8402770,
+        "exp_percentage":  0,
         "remort":  0,
         "remorted":  "",
         "head":  226,
@@ -17295,8 +17295,8 @@
         "usuarios_matados":  0,
         "muertes":  1,
         "puntos_pesca":  0,
-        "killed_npcs":  14,
-        "minutos_online":  3,
+        "killed_npcs":  24,
+        "minutos_online":  18,
         "drag_puntos":  0
     }
 ]
