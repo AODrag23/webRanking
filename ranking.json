@@ -3690,13 +3690,13 @@
         "race":  "Elfo",
         "race_id":  2,
         "elo":  1000,
-        "criminales_matados":  118,
+        "criminales_matados":  120,
         "ciudadanos_matados":  25,
-        "usuarios_matados":  312,
-        "muertes":  281,
+        "usuarios_matados":  318,
+        "muertes":  282,
         "puntos_pesca":  0,
-        "killed_npcs":  2484,
-        "minutos_online":  5700,
+        "killed_npcs":  2486,
+        "minutos_online":  5731,
         "drag_puntos":  69
     },
     {
@@ -4402,7 +4402,7 @@
     {
         "name":  "Alessio",
         "level":  50,
-        "exp":  3132009,
+        "exp":  3135355,
         "exp_next_level":  62433286,
         "exp_percentage":  5.02,
         "remort":  0,
@@ -4418,10 +4418,10 @@
         "criminales_matados":  3,
         "ciudadanos_matados":  0,
         "usuarios_matados":  8,
-        "muertes":  30,
+        "muertes":  35,
         "puntos_pesca":  0,
-        "killed_npcs":  246,
-        "minutos_online":  790,
+        "killed_npcs":  249,
+        "minutos_online":  808,
         "drag_puntos":  4
     },
     {
@@ -6077,9 +6077,9 @@
     {
         "name":  "ToRuK",
         "level":  46,
-        "exp":  31430512,
+        "exp":  31983623,
         "exp_next_level":  90271498,
-        "exp_percentage":  34.82,
+        "exp_percentage":  35.43,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  226,
@@ -6090,14 +6090,14 @@
         "race":  "Elfo oscuro",
         "race_id":  3,
         "elo":  1000,
-        "criminales_matados":  28,
+        "criminales_matados":  29,
         "ciudadanos_matados":  19,
-        "usuarios_matados":  82,
-        "muertes":  109,
+        "usuarios_matados":  83,
+        "muertes":  111,
         "puntos_pesca":  0,
-        "killed_npcs":  3345,
-        "minutos_online":  5584,
-        "drag_puntos":  20
+        "killed_npcs":  3370,
+        "minutos_online":  5619,
+        "drag_puntos":  21
     },
     {
         "name":  "Dangann",
@@ -7576,10 +7576,10 @@
     },
     {
         "name":  "Small",
-        "level":  14,
-        "exp":  18643,
-        "exp_next_level":  42858,
-        "exp_percentage":  43.5,
+        "level":  27,
+        "exp":  776527,
+        "exp_next_level":  942427,
+        "exp_percentage":  82.4,
         "remort":  0,
         "remorted":  "",
         "head":  300,
@@ -7593,11 +7593,11 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  9,
+        "muertes":  10,
         "puntos_pesca":  0,
-        "killed_npcs":  65,
-        "minutos_online":  124,
-        "drag_puntos":  0
+        "killed_npcs":  68,
+        "minutos_online":  140,
+        "drag_puntos":  2
     },
     {
         "name":  "Wa Subi",
@@ -9020,8 +9020,8 @@
         "usuarios_matados":  157,
         "muertes":  59,
         "puntos_pesca":  0,
-        "killed_npcs":  1558,
-        "minutos_online":  2043,
+        "killed_npcs":  1564,
+        "minutos_online":  2068,
         "drag_puntos":  100
     },
     {
@@ -12246,7 +12246,7 @@
         "muertes":  1,
         "puntos_pesca":  0,
         "killed_npcs":  1,
-        "minutos_online":  287,
+        "minutos_online":  289,
         "drag_puntos":  0
     },
     {
