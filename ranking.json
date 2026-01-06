@@ -52,7 +52,7 @@
     {
         "name":  "Spock",
         "level":  45,
-        "exp":  13516132,
+        "exp":  13516934,
         "exp_next_level":  75226248,
         "exp_percentage":  17.97,
         "remort":  1,
@@ -67,11 +67,11 @@
         "elo":  997,
         "criminales_matados":  23,
         "ciudadanos_matados":  16,
-        "usuarios_matados":  245,
-        "muertes":  365,
+        "usuarios_matados":  251,
+        "muertes":  370,
         "puntos_pesca":  0,
         "killed_npcs":  613,
-        "minutos_online":  7782,
+        "minutos_online":  7805,
         "drag_puntos":  29
     },
     {
@@ -6971,7 +6971,7 @@
         "muertes":  143,
         "puntos_pesca":  0,
         "killed_npcs":  2210,
-        "minutos_online":  10556,
+        "minutos_online":  10558,
         "drag_puntos":  193
     },
     {
@@ -10746,7 +10746,7 @@
         "muertes":  33,
         "puntos_pesca":  320,
         "killed_npcs":  1536,
-        "minutos_online":  8678,
+        "minutos_online":  8683,
         "drag_puntos":  94
     },
     {
@@ -11371,7 +11371,7 @@
         "muertes":  10,
         "puntos_pesca":  0,
         "killed_npcs":  435,
-        "minutos_online":  537,
+        "minutos_online":  538,
         "drag_puntos":  0
     },
     {
@@ -13177,9 +13177,9 @@
     {
         "name":  "kAk ExpulCe",
         "level":  46,
-        "exp":  18175693,
+        "exp":  18178143,
         "exp_next_level":  30108644,
-        "exp_percentage":  60.37,
+        "exp_percentage":  60.38,
         "remort":  0,
         "remorted":  "",
         "head":  472,
@@ -13192,11 +13192,11 @@
         "elo":  1000,
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
-        "usuarios_matados":  3,
-        "muertes":  160,
+        "usuarios_matados":  8,
+        "muertes":  166,
         "puntos_pesca":  0,
         "killed_npcs":  126,
-        "minutos_online":  245,
+        "minutos_online":  251,
         "drag_puntos":  0
     },
     {
@@ -17046,7 +17046,7 @@
         "muertes":  20,
         "puntos_pesca":  0,
         "killed_npcs":  24,
-        "minutos_online":  296,
+        "minutos_online":  307,
         "drag_puntos":  3
     },
     {
