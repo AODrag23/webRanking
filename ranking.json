@@ -446,7 +446,7 @@
         "muertes":  203,
         "puntos_pesca":  0,
         "killed_npcs":  1650,
-        "minutos_online":  9693,
+        "minutos_online":  9694,
         "drag_puntos":  13
     },
     {
@@ -971,7 +971,7 @@
         "muertes":  49,
         "puntos_pesca":  3415,
         "killed_npcs":  3612,
-        "minutos_online":  5667,
+        "minutos_online":  5679,
         "drag_puntos":  204
     },
     {
@@ -12321,7 +12321,7 @@
         "muertes":  11,
         "puntos_pesca":  0,
         "killed_npcs":  193,
-        "minutos_online":  2207,
+        "minutos_online":  2221,
         "drag_puntos":  3
     },
     {
@@ -14245,8 +14245,8 @@
         "usuarios_matados":  521,
         "muertes":  126,
         "puntos_pesca":  0,
-        "killed_npcs":  352,
-        "minutos_online":  2219,
+        "killed_npcs":  377,
+        "minutos_online":  2237,
         "drag_puntos":  14
     },
     {
@@ -15026,10 +15026,10 @@
     },
     {
         "name":  "ELTEMIBLE",
-        "level":  53,
-        "exp":  12772681,
-        "exp_next_level":  107884718,
-        "exp_percentage":  11.84,
+        "level":  55,
+        "exp":  6183091,
+        "exp_next_level":  155353994,
+        "exp_percentage":  3.98,
         "remort":  0,
         "remorted":  "",
         "head":  317,
@@ -15045,9 +15045,9 @@
         "usuarios_matados":  1,
         "muertes":  37,
         "puntos_pesca":  0,
-        "killed_npcs":  940,
-        "minutos_online":  1055,
-        "drag_puntos":  32
+        "killed_npcs":  988,
+        "minutos_online":  1111,
+        "drag_puntos":  34
     },
     {
         "name":  "CuPiDo",
