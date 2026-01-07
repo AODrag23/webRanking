@@ -71,7 +71,7 @@
         "muertes":  384,
         "puntos_pesca":  0,
         "killed_npcs":  615,
-        "minutos_online":  7996,
+        "minutos_online":  8026,
         "drag_puntos":  29
     },
     {
@@ -1896,7 +1896,7 @@
         "muertes":  796,
         "puntos_pesca":  0,
         "killed_npcs":  1984,
-        "minutos_online":  8045,
+        "minutos_online":  8105,
         "drag_puntos":  66
     },
     {
@@ -6968,10 +6968,10 @@
         "criminales_matados":  42,
         "ciudadanos_matados":  28,
         "usuarios_matados":  139,
-        "muertes":  143,
+        "muertes":  146,
         "puntos_pesca":  0,
-        "killed_npcs":  2241,
-        "minutos_online":  10771,
+        "killed_npcs":  2276,
+        "minutos_online":  10831,
         "drag_puntos":  193
     },
     {
@@ -10996,7 +10996,7 @@
         "muertes":  90,
         "puntos_pesca":  0,
         "killed_npcs":  1400,
-        "minutos_online":  5527,
+        "minutos_online":  5528,
         "drag_puntos":  78
     },
     {
@@ -13402,9 +13402,9 @@
     {
         "name":  "Celegorm",
         "level":  33,
-        "exp":  561919,
+        "exp":  566419,
         "exp_next_level":  2814071,
-        "exp_percentage":  19.97,
+        "exp_percentage":  20.13,
         "remort":  0,
         "remorted":  "",
         "head":  429,
@@ -13421,7 +13421,7 @@
         "muertes":  19,
         "puntos_pesca":  0,
         "killed_npcs":  197,
-        "minutos_online":  278,
+        "minutos_online":  287,
         "drag_puntos":  1
     },
     {
@@ -13621,7 +13621,7 @@
         "muertes":  63,
         "puntos_pesca":  0,
         "killed_npcs":  955,
-        "minutos_online":  4452,
+        "minutos_online":  4455,
         "drag_puntos":  53
     },
     {
@@ -14271,7 +14271,7 @@
         "muertes":  8,
         "puntos_pesca":  0,
         "killed_npcs":  281,
-        "minutos_online":  489,
+        "minutos_online":  494,
         "drag_puntos":  13
     },
     {
@@ -14321,7 +14321,7 @@
         "muertes":  13,
         "puntos_pesca":  0,
         "killed_npcs":  219,
-        "minutos_online":  238,
+        "minutos_online":  240,
         "drag_puntos":  0
     },
     {
@@ -14621,7 +14621,7 @@
         "muertes":  30,
         "puntos_pesca":  0,
         "killed_npcs":  148,
-        "minutos_online":  1185,
+        "minutos_online":  1190,
         "drag_puntos":  0
     },
     {
@@ -15301,10 +15301,10 @@
     },
     {
         "name":  "krothak",
-        "level":  42,
-        "exp":  2204908,
-        "exp_next_level":  14519987,
-        "exp_percentage":  15.19,
+        "level":  46,
+        "exp":  8629985,
+        "exp_next_level":  30108644,
+        "exp_percentage":  28.66,
         "remort":  0,
         "remorted":  "",
         "head":  520,
@@ -15320,9 +15320,9 @@
         "usuarios_matados":  0,
         "muertes":  8,
         "puntos_pesca":  0,
-        "killed_npcs":  284,
-        "minutos_online":  449,
-        "drag_puntos":  8
+        "killed_npcs":  358,
+        "minutos_online":  489,
+        "drag_puntos":  13
     },
     {
         "name":  "Desisto",
@@ -16851,10 +16851,10 @@
     },
     {
         "name":  "DefToNes",
-        "level":  56,
-        "exp":  0,
-        "exp_next_level":  186424793,
-        "exp_percentage":  0,
+        "level":  66,
+        "exp":  60730295,
+        "exp_next_level":  1154293180,
+        "exp_percentage":  5.26,
         "remort":  0,
         "remorted":  "",
         "head":  104,
@@ -16868,10 +16868,10 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  7,
+        "muertes":  9,
         "puntos_pesca":  0,
-        "killed_npcs":  110,
-        "minutos_online":  420,
+        "killed_npcs":  139,
+        "minutos_online":  480,
         "drag_puntos":  13
     },
     {
