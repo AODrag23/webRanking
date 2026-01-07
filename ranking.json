@@ -446,7 +446,7 @@
         "muertes":  203,
         "puntos_pesca":  0,
         "killed_npcs":  1650,
-        "minutos_online":  9694,
+        "minutos_online":  9698,
         "drag_puntos":  13
     },
     {
@@ -3021,7 +3021,7 @@
         "muertes":  8,
         "puntos_pesca":  26345,
         "killed_npcs":  15,
-        "minutos_online":  1782,
+        "minutos_online":  1783,
         "drag_puntos":  1
     },
     {
@@ -5642,11 +5642,11 @@
         "elo":  1018,
         "criminales_matados":  103,
         "ciudadanos_matados":  304,
-        "usuarios_matados":  844,
-        "muertes":  407,
+        "usuarios_matados":  865,
+        "muertes":  415,
         "puntos_pesca":  0,
         "killed_npcs":  1706,
-        "minutos_online":  6477,
+        "minutos_online":  6504,
         "drag_puntos":  42
     },
     {
@@ -13177,9 +13177,9 @@
     {
         "name":  "kAk ExpulCe",
         "level":  46,
-        "exp":  18183283,
+        "exp":  18201819,
         "exp_next_level":  30108644,
-        "exp_percentage":  60.39,
+        "exp_percentage":  60.45,
         "remort":  0,
         "remorted":  "",
         "head":  472,
@@ -13192,11 +13192,11 @@
         "elo":  1000,
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
-        "usuarios_matados":  17,
-        "muertes":  171,
+        "usuarios_matados":  21,
+        "muertes":  174,
         "puntos_pesca":  0,
         "killed_npcs":  126,
-        "minutos_online":  266,
+        "minutos_online":  275,
         "drag_puntos":  0
     },
     {
@@ -14246,7 +14246,7 @@
         "muertes":  126,
         "puntos_pesca":  0,
         "killed_npcs":  377,
-        "minutos_online":  2237,
+        "minutos_online":  2238,
         "drag_puntos":  14
     },
     {
@@ -14571,7 +14571,7 @@
         "muertes":  241,
         "puntos_pesca":  0,
         "killed_npcs":  3,
-        "minutos_online":  982,
+        "minutos_online":  986,
         "drag_puntos":  0
     },
     {
@@ -15026,10 +15026,10 @@
     },
     {
         "name":  "ELTEMIBLE",
-        "level":  55,
-        "exp":  6183091,
-        "exp_next_level":  155353994,
-        "exp_percentage":  3.98,
+        "level":  56,
+        "exp":  7725660,
+        "exp_next_level":  186424793,
+        "exp_percentage":  4.14,
         "remort":  0,
         "remorted":  "",
         "head":  317,
@@ -15045,9 +15045,9 @@
         "usuarios_matados":  1,
         "muertes":  37,
         "puntos_pesca":  0,
-        "killed_npcs":  988,
-        "minutos_online":  1111,
-        "drag_puntos":  34
+        "killed_npcs":  1105,
+        "minutos_online":  1164,
+        "drag_puntos":  39
     },
     {
         "name":  "CuPiDo",
@@ -16867,11 +16867,11 @@
         "elo":  1000,
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
-        "usuarios_matados":  43,
-        "muertes":  23,
+        "usuarios_matados":  54,
+        "muertes":  48,
         "puntos_pesca":  0,
         "killed_npcs":  148,
-        "minutos_online":  703,
+        "minutos_online":  748,
         "drag_puntos":  13
     },
     {
