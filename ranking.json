@@ -146,7 +146,7 @@
         "muertes":  118,
         "puntos_pesca":  0,
         "killed_npcs":  2757,
-        "minutos_online":  7163,
+        "minutos_online":  7165,
         "drag_puntos":  304
     },
     {
@@ -4777,9 +4777,9 @@
     {
         "name":  "Domud",
         "level":  40,
-        "exp":  1437483,
+        "exp":  1438983,
         "exp_next_level":  10083324,
-        "exp_percentage":  14.26,
+        "exp_percentage":  14.27,
         "remort":  0,
         "remorted":  "",
         "head":  313,
@@ -4796,7 +4796,7 @@
         "muertes":  8,
         "puntos_pesca":  0,
         "killed_npcs":  264,
-        "minutos_online":  1159,
+        "minutos_online":  1181,
         "drag_puntos":  0
     },
     {
@@ -4852,9 +4852,9 @@
     {
         "name":  "Sifurus",
         "level":  55,
-        "exp":  22549621,
+        "exp":  22551121,
         "exp_next_level":  155353994,
-        "exp_percentage":  14.51,
+        "exp_percentage":  14.52,
         "remort":  0,
         "remorted":  "",
         "head":  313,
@@ -4871,7 +4871,7 @@
         "muertes":  12,
         "puntos_pesca":  0,
         "killed_npcs":  378,
-        "minutos_online":  728,
+        "minutos_online":  751,
         "drag_puntos":  7
     },
     {
@@ -11096,7 +11096,7 @@
         "muertes":  6,
         "puntos_pesca":  0,
         "killed_npcs":  491,
-        "minutos_online":  1012,
+        "minutos_online":  1027,
         "drag_puntos":  33
     },
     {
@@ -17301,10 +17301,10 @@
     },
     {
         "name":  "Withery",
-        "level":  48,
-        "exp":  14630054,
-        "exp_next_level":  43356448,
-        "exp_percentage":  33.74,
+        "level":  50,
+        "exp":  20743733,
+        "exp_next_level":  62433286,
+        "exp_percentage":  33.23,
         "remort":  0,
         "remorted":  "",
         "head":  324,
@@ -17320,8 +17320,8 @@
         "usuarios_matados":  0,
         "muertes":  6,
         "puntos_pesca":  0,
-        "killed_npcs":  70,
-        "minutos_online":  78,
+        "killed_npcs":  75,
+        "minutos_online":  92,
         "drag_puntos":  0
     }
 ]
