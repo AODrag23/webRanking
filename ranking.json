@@ -11096,7 +11096,7 @@
         "muertes":  6,
         "puntos_pesca":  0,
         "killed_npcs":  491,
-        "minutos_online":  952,
+        "minutos_online":  1012,
         "drag_puntos":  33
     },
     {
@@ -17301,10 +17301,10 @@
     },
     {
         "name":  "Withery",
-        "level":  34,
-        "exp":  632838,
-        "exp_next_level":  3376885,
-        "exp_percentage":  18.74,
+        "level":  48,
+        "exp":  14630054,
+        "exp_next_level":  43356448,
+        "exp_percentage":  33.74,
         "remort":  0,
         "remorted":  "",
         "head":  324,
@@ -17318,10 +17318,10 @@
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
         "usuarios_matados":  0,
-        "muertes":  0,
+        "muertes":  6,
         "puntos_pesca":  0,
-        "killed_npcs":  26,
-        "minutos_online":  18,
+        "killed_npcs":  70,
+        "minutos_online":  78,
         "drag_puntos":  0
     }
 ]
