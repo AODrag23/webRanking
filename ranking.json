@@ -4851,10 +4851,10 @@
     },
     {
         "name":  "Sifurus",
-        "level":  54,
-        "exp":  25402839,
-        "exp_next_level":  129461662,
-        "exp_percentage":  19.62,
+        "level":  55,
+        "exp":  22549621,
+        "exp_next_level":  155353994,
+        "exp_percentage":  14.51,
         "remort":  0,
         "remorted":  "",
         "head":  313,
@@ -4870,8 +4870,8 @@
         "usuarios_matados":  1,
         "muertes":  12,
         "puntos_pesca":  0,
-        "killed_npcs":  376,
-        "minutos_online":  684,
+        "killed_npcs":  378,
+        "minutos_online":  728,
         "drag_puntos":  7
     },
     {
@@ -11096,7 +11096,7 @@
         "muertes":  6,
         "puntos_pesca":  0,
         "killed_npcs":  491,
-        "minutos_online":  937,
+        "minutos_online":  952,
         "drag_puntos":  33
     },
     {
@@ -17296,6 +17296,31 @@
         "muertes":  1,
         "puntos_pesca":  0,
         "killed_npcs":  24,
+        "minutos_online":  18,
+        "drag_puntos":  0
+    },
+    {
+        "name":  "Withery",
+        "level":  34,
+        "exp":  632838,
+        "exp_next_level":  3376885,
+        "exp_percentage":  18.74,
+        "remort":  0,
+        "remorted":  "",
+        "head":  324,
+        "genre":  "Hombre",
+        "genre_id":  1,
+        "class":  "Paladin",
+        "class_id":  7,
+        "race":  "Enano",
+        "race_id":  5,
+        "elo":  1000,
+        "criminales_matados":  0,
+        "ciudadanos_matados":  0,
+        "usuarios_matados":  0,
+        "muertes":  0,
+        "puntos_pesca":  0,
+        "killed_npcs":  26,
         "minutos_online":  18,
         "drag_puntos":  0
     }
