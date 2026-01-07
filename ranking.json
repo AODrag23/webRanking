@@ -1893,10 +1893,10 @@
         "criminales_matados":  38,
         "ciudadanos_matados":  30,
         "usuarios_matados":  416,
-        "muertes":  802,
+        "muertes":  807,
         "puntos_pesca":  0,
         "killed_npcs":  1984,
-        "minutos_online":  8180,
+        "minutos_online":  8223,
         "drag_puntos":  66
     },
     {
@@ -6971,7 +6971,7 @@
         "muertes":  148,
         "puntos_pesca":  0,
         "killed_npcs":  2284,
-        "minutos_online":  10934,
+        "minutos_online":  10977,
         "drag_puntos":  193
     },
     {
@@ -7251,10 +7251,10 @@
     },
     {
         "name":  "Eavc",
-        "level":  55,
-        "exp":  35765011,
-        "exp_next_level":  155353994,
-        "exp_percentage":  23.02,
+        "level":  56,
+        "exp":  268,
+        "exp_next_level":  186424793,
+        "exp_percentage":  0,
         "remort":  0,
         "remorted":  "",
         "head":  102,
@@ -7267,11 +7267,11 @@
         "elo":  1000,
         "criminales_matados":  10,
         "ciudadanos_matados":  10,
-        "usuarios_matados":  25,
-        "muertes":  60,
+        "usuarios_matados":  27,
+        "muertes":  67,
         "puntos_pesca":  0,
-        "killed_npcs":  527,
-        "minutos_online":  1429,
+        "killed_npcs":  562,
+        "minutos_online":  1470,
         "drag_puntos":  0
     },
     {
@@ -14146,7 +14146,7 @@
         "muertes":  135,
         "puntos_pesca":  0,
         "killed_npcs":  87,
-        "minutos_online":  1781,
+        "minutos_online":  1824,
         "drag_puntos":  1
     },
     {
@@ -16867,11 +16867,11 @@
         "elo":  1000,
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
-        "usuarios_matados":  32,
-        "muertes":  21,
+        "usuarios_matados":  43,
+        "muertes":  23,
         "puntos_pesca":  0,
         "killed_npcs":  148,
-        "minutos_online":  660,
+        "minutos_online":  703,
         "drag_puntos":  13
     },
     {
