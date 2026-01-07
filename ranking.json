@@ -2552,12 +2552,12 @@
     {
         "name":  "ZanDer",
         "level":  50,
-        "exp":  58330004,
+        "exp":  74143184,
         "exp_next_level":  187186980,
-        "exp_percentage":  31.16,
+        "exp_percentage":  39.61,
         "remort":  1,
         "remorted":  "Gork-RoR",
-        "head":  527,
+        "head":  523,
         "genre":  "Hombre",
         "genre_id":  1,
         "class":  "Guerrero",
@@ -2570,8 +2570,8 @@
         "usuarios_matados":  54,
         "muertes":  79,
         "puntos_pesca":  0,
-        "killed_npcs":  1782,
-        "minutos_online":  4229,
+        "killed_npcs":  1806,
+        "minutos_online":  4261,
         "drag_puntos":  111
     },
     {
@@ -16471,7 +16471,7 @@
         "muertes":  3,
         "puntos_pesca":  0,
         "killed_npcs":  3,
-        "minutos_online":  58,
+        "minutos_online":  59,
         "drag_puntos":  1
     },
     {
