@@ -471,7 +471,7 @@
         "muertes":  196,
         "puntos_pesca":  20,
         "killed_npcs":  5814,
-        "minutos_online":  8050,
+        "minutos_online":  8110,
         "drag_puntos":  44
     },
     {
@@ -970,9 +970,9 @@
         "usuarios_matados":  19,
         "muertes":  49,
         "puntos_pesca":  3415,
-        "killed_npcs":  3532,
-        "minutos_online":  5577,
-        "drag_puntos":  195
+        "killed_npcs":  3571,
+        "minutos_online":  5607,
+        "drag_puntos":  201
     },
     {
         "name":  "Alat",
@@ -12671,7 +12671,7 @@
         "muertes":  22,
         "puntos_pesca":  230,
         "killed_npcs":  14,
-        "minutos_online":  1930,
+        "minutos_online":  1947,
         "drag_puntos":  0
     },
     {
@@ -15046,7 +15046,7 @@
         "muertes":  37,
         "puntos_pesca":  0,
         "killed_npcs":  939,
-        "minutos_online":  1042,
+        "minutos_online":  1045,
         "drag_puntos":  32
     },
     {
@@ -16302,9 +16302,9 @@
     {
         "name":  "Peter",
         "level":  20,
-        "exp":  98206,
+        "exp":  128206,
         "exp_next_level":  206868,
-        "exp_percentage":  47.47,
+        "exp_percentage":  61.97,
         "remort":  0,
         "remorted":  "",
         "head":  322,
@@ -16321,7 +16321,7 @@
         "muertes":  2,
         "puntos_pesca":  0,
         "killed_npcs":  213,
-        "minutos_online":  175,
+        "minutos_online":  182,
         "drag_puntos":  0
     },
     {
