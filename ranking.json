@@ -471,7 +471,7 @@
         "muertes":  196,
         "puntos_pesca":  20,
         "killed_npcs":  5814,
-        "minutos_online":  8110,
+        "minutos_online":  8135,
         "drag_puntos":  44
     },
     {
@@ -970,9 +970,9 @@
         "usuarios_matados":  19,
         "muertes":  49,
         "puntos_pesca":  3415,
-        "killed_npcs":  3571,
-        "minutos_online":  5607,
-        "drag_puntos":  201
+        "killed_npcs":  3612,
+        "minutos_online":  5667,
+        "drag_puntos":  204
     },
     {
         "name":  "Alat",
@@ -2552,9 +2552,9 @@
     {
         "name":  "ZanDer",
         "level":  50,
-        "exp":  75999824,
+        "exp":  76061572,
         "exp_next_level":  187186980,
-        "exp_percentage":  40.6,
+        "exp_percentage":  40.63,
         "remort":  1,
         "remorted":  "Gork-RoR",
         "head":  523,
@@ -2570,8 +2570,8 @@
         "usuarios_matados":  58,
         "muertes":  79,
         "puntos_pesca":  0,
-        "killed_npcs":  1817,
-        "minutos_online":  4289,
+        "killed_npcs":  1818,
+        "minutos_online":  4296,
         "drag_puntos":  111
     },
     {
@@ -7071,7 +7071,7 @@
         "muertes":  138,
         "puntos_pesca":  0,
         "killed_npcs":  1039,
-        "minutos_online":  2297,
+        "minutos_online":  2299,
         "drag_puntos":  48
     },
     {
@@ -12301,9 +12301,9 @@
     },
     {
         "name":  "hIIo",
-        "level":  39,
+        "level":  44,
         "exp":  0,
-        "exp_next_level":  25193118,
+        "exp_next_level":  62688540,
         "exp_percentage":  0,
         "remort":  1,
         "remorted":  "Gork-RoR",
@@ -12321,7 +12321,7 @@
         "muertes":  11,
         "puntos_pesca":  0,
         "killed_npcs":  193,
-        "minutos_online":  2166,
+        "minutos_online":  2207,
         "drag_puntos":  3
     },
     {
@@ -12671,7 +12671,7 @@
         "muertes":  22,
         "puntos_pesca":  230,
         "killed_npcs":  14,
-        "minutos_online":  1947,
+        "minutos_online":  1974,
         "drag_puntos":  0
     },
     {
@@ -15027,9 +15027,9 @@
     {
         "name":  "ELTEMIBLE",
         "level":  53,
-        "exp":  12716431,
+        "exp":  12772681,
         "exp_next_level":  107884718,
-        "exp_percentage":  11.79,
+        "exp_percentage":  11.84,
         "remort":  0,
         "remorted":  "",
         "head":  317,
@@ -15045,8 +15045,8 @@
         "usuarios_matados":  1,
         "muertes":  37,
         "puntos_pesca":  0,
-        "killed_npcs":  939,
-        "minutos_online":  1045,
+        "killed_npcs":  940,
+        "minutos_online":  1055,
         "drag_puntos":  32
     },
     {
@@ -17322,6 +17322,31 @@
         "puntos_pesca":  0,
         "killed_npcs":  75,
         "minutos_online":  92,
+        "drag_puntos":  0
+    },
+    {
+        "name":  "Asereje",
+        "level":  23,
+        "exp":  229174,
+        "exp_next_level":  454488,
+        "exp_percentage":  50.42,
+        "remort":  0,
+        "remorted":  "",
+        "head":  313,
+        "genre":  "Hombre",
+        "genre_id":  1,
+        "class":  "Trabajador",
+        "class_id":  9,
+        "race":  "Enano",
+        "race_id":  5,
+        "elo":  1000,
+        "criminales_matados":  0,
+        "ciudadanos_matados":  0,
+        "usuarios_matados":  0,
+        "muertes":  1,
+        "puntos_pesca":  0,
+        "killed_npcs":  84,
+        "minutos_online":  43,
         "drag_puntos":  0
     }
 ]
