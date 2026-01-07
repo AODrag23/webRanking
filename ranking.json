@@ -4851,10 +4851,10 @@
     },
     {
         "name":  "Sifurus",
-        "level":  53,
-        "exp":  85306771,
-        "exp_next_level":  107884718,
-        "exp_percentage":  79.07,
+        "level":  54,
+        "exp":  25402839,
+        "exp_next_level":  129461662,
+        "exp_percentage":  19.62,
         "remort":  0,
         "remorted":  "",
         "head":  313,
@@ -4870,8 +4870,8 @@
         "usuarios_matados":  1,
         "muertes":  12,
         "puntos_pesca":  0,
-        "killed_npcs":  374,
-        "minutos_online":  673,
+        "killed_npcs":  376,
+        "minutos_online":  684,
         "drag_puntos":  7
     },
     {
