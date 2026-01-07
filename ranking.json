@@ -2021,7 +2021,7 @@
         "muertes":  36,
         "puntos_pesca":  0,
         "killed_npcs":  1900,
-        "minutos_online":  2141,
+        "minutos_online":  2150,
         "drag_puntos":  59
     },
     {
@@ -5642,11 +5642,11 @@
         "elo":  1018,
         "criminales_matados":  103,
         "ciudadanos_matados":  304,
-        "usuarios_matados":  865,
-        "muertes":  415,
+        "usuarios_matados":  874,
+        "muertes":  416,
         "puntos_pesca":  0,
         "killed_npcs":  1706,
-        "minutos_online":  6504,
+        "minutos_online":  6511,
         "drag_puntos":  42
     },
     {
@@ -13096,7 +13096,7 @@
         "muertes":  291,
         "puntos_pesca":  0,
         "killed_npcs":  1383,
-        "minutos_online":  4984,
+        "minutos_online":  4985,
         "drag_puntos":  24
     },
     {
@@ -13177,9 +13177,9 @@
     {
         "name":  "kAk ExpulCe",
         "level":  46,
-        "exp":  18201819,
+        "exp":  18212963,
         "exp_next_level":  30108644,
-        "exp_percentage":  60.45,
+        "exp_percentage":  60.49,
         "remort":  0,
         "remorted":  "",
         "head":  472,
@@ -13192,11 +13192,11 @@
         "elo":  1000,
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
-        "usuarios_matados":  21,
-        "muertes":  174,
+        "usuarios_matados":  28,
+        "muertes":  175,
         "puntos_pesca":  0,
         "killed_npcs":  126,
-        "minutos_online":  275,
+        "minutos_online":  284,
         "drag_puntos":  0
     },
     {
@@ -14027,9 +14027,9 @@
     {
         "name":  "Ethel Cain",
         "level":  46,
-        "exp":  56416721,
+        "exp":  56467985,
         "exp_next_level":  90271498,
-        "exp_percentage":  62.5,
+        "exp_percentage":  62.55,
         "remort":  1,
         "remorted":  "Elian-LAL",
         "head":  179,
@@ -14042,11 +14042,11 @@
         "elo":  997,
         "criminales_matados":  4,
         "ciudadanos_matados":  78,
-        "usuarios_matados":  210,
-        "muertes":  171,
+        "usuarios_matados":  242,
+        "muertes":  195,
         "puntos_pesca":  0,
         "killed_npcs":  152,
-        "minutos_online":  1945,
+        "minutos_online":  1986,
         "drag_puntos":  4
     },
     {
@@ -14142,11 +14142,11 @@
         "elo":  1000,
         "criminales_matados":  2,
         "ciudadanos_matados":  60,
-        "usuarios_matados":  86,
-        "muertes":  135,
+        "usuarios_matados":  99,
+        "muertes":  169,
         "puntos_pesca":  0,
         "killed_npcs":  87,
-        "minutos_online":  1824,
+        "minutos_online":  1877,
         "drag_puntos":  1
     },
     {
@@ -16867,11 +16867,11 @@
         "elo":  1000,
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
-        "usuarios_matados":  54,
-        "muertes":  48,
+        "usuarios_matados":  56,
+        "muertes":  51,
         "puntos_pesca":  0,
         "killed_npcs":  148,
-        "minutos_online":  748,
+        "minutos_online":  767,
         "drag_puntos":  13
     },
     {
