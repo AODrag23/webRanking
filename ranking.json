@@ -970,8 +970,8 @@
         "usuarios_matados":  19,
         "muertes":  49,
         "puntos_pesca":  3415,
-        "killed_npcs":  3612,
-        "minutos_online":  5679,
+        "killed_npcs":  3618,
+        "minutos_online":  5689,
         "drag_puntos":  204
     },
     {
@@ -5646,7 +5646,7 @@
         "muertes":  416,
         "puntos_pesca":  0,
         "killed_npcs":  1706,
-        "minutos_online":  6511,
+        "minutos_online":  6512,
         "drag_puntos":  42
     },
     {
@@ -12321,7 +12321,7 @@
         "muertes":  11,
         "puntos_pesca":  0,
         "killed_npcs":  193,
-        "minutos_online":  2221,
+        "minutos_online":  2223,
         "drag_puntos":  3
     },
     {
@@ -13177,9 +13177,9 @@
     {
         "name":  "kAk ExpulCe",
         "level":  46,
-        "exp":  18212963,
+        "exp":  18273855,
         "exp_next_level":  30108644,
-        "exp_percentage":  60.49,
+        "exp_percentage":  60.69,
         "remort":  0,
         "remorted":  "",
         "head":  472,
@@ -13192,11 +13192,11 @@
         "elo":  1000,
         "criminales_matados":  0,
         "ciudadanos_matados":  0,
-        "usuarios_matados":  28,
-        "muertes":  175,
+        "usuarios_matados":  54,
+        "muertes":  195,
         "puntos_pesca":  0,
         "killed_npcs":  126,
-        "minutos_online":  284,
+        "minutos_online":  304,
         "drag_puntos":  0
     },
     {
@@ -14027,9 +14027,9 @@
     {
         "name":  "Ethel Cain",
         "level":  46,
-        "exp":  56467985,
+        "exp":  56505825,
         "exp_next_level":  90271498,
-        "exp_percentage":  62.55,
+        "exp_percentage":  62.6,
         "remort":  1,
         "remorted":  "Elian-LAL",
         "head":  179,
@@ -14042,11 +14042,11 @@
         "elo":  997,
         "criminales_matados":  4,
         "ciudadanos_matados":  78,
-        "usuarios_matados":  242,
-        "muertes":  195,
+        "usuarios_matados":  262,
+        "muertes":  221,
         "puntos_pesca":  0,
         "killed_npcs":  152,
-        "minutos_online":  1986,
+        "minutos_online":  2006,
         "drag_puntos":  4
     },
     {
@@ -14146,7 +14146,7 @@
         "muertes":  169,
         "puntos_pesca":  0,
         "killed_npcs":  87,
-        "minutos_online":  1877,
+        "minutos_online":  1898,
         "drag_puntos":  1
     },
     {
