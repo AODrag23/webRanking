@@ -970,9 +970,9 @@
         "usuarios_matados":  19,
         "muertes":  49,
         "puntos_pesca":  3415,
-        "killed_npcs":  3618,
-        "minutos_online":  5689,
-        "drag_puntos":  204
+        "killed_npcs":  3679,
+        "minutos_online":  5739,
+        "drag_puntos":  207
     },
     {
         "name":  "Alat",
@@ -5646,7 +5646,7 @@
         "muertes":  416,
         "puntos_pesca":  0,
         "killed_npcs":  1706,
-        "minutos_online":  6512,
+        "minutos_online":  6513,
         "drag_puntos":  42
     },
     {
@@ -12321,7 +12321,7 @@
         "muertes":  11,
         "puntos_pesca":  0,
         "killed_npcs":  193,
-        "minutos_online":  2223,
+        "minutos_online":  2272,
         "drag_puntos":  3
     },
     {
@@ -14246,7 +14246,7 @@
         "muertes":  126,
         "puntos_pesca":  0,
         "killed_npcs":  377,
-        "minutos_online":  2238,
+        "minutos_online":  2244,
         "drag_puntos":  14
     },
     {
