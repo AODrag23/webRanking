@@ -4977,9 +4977,9 @@
     {
         "name":  "KuRoTSuKi",
         "level":  53,
-        "exp":  6055771,
+        "exp":  17737111,
         "exp_next_level":  107884718,
-        "exp_percentage":  5.61,
+        "exp_percentage":  16.44,
         "remort":  0,
         "remorted":  "",
         "head":  625,
@@ -4995,8 +4995,8 @@
         "usuarios_matados":  5,
         "muertes":  19,
         "puntos_pesca":  0,
-        "killed_npcs":  778,
-        "minutos_online":  1562,
+        "killed_npcs":  788,
+        "minutos_online":  1574,
         "drag_puntos":  16
     },
     {
@@ -7471,7 +7471,7 @@
         "muertes":  6,
         "puntos_pesca":  0,
         "killed_npcs":  629,
-        "minutos_online":  3186,
+        "minutos_online":  3187,
         "drag_puntos":  17
     },
     {
@@ -10745,8 +10745,8 @@
         "usuarios_matados":  64,
         "muertes":  33,
         "puntos_pesca":  320,
-        "killed_npcs":  1536,
-        "minutos_online":  8688,
+        "killed_npcs":  1542,
+        "minutos_online":  8696,
         "drag_puntos":  94
     },
     {
@@ -14771,7 +14771,7 @@
         "muertes":  5,
         "puntos_pesca":  0,
         "killed_npcs":  184,
-        "minutos_online":  2806,
+        "minutos_online":  2807,
         "drag_puntos":  0
     },
     {
@@ -17347,6 +17347,31 @@
         "puntos_pesca":  0,
         "killed_npcs":  84,
         "minutos_online":  43,
+        "drag_puntos":  0
+    },
+    {
+        "name":  "NiNa",
+        "level":  1,
+        "exp":  0,
+        "exp_next_level":  450,
+        "exp_percentage":  0,
+        "remort":  0,
+        "remorted":  "",
+        "head":  0,
+        "genre":  "Mujer",
+        "genre_id":  2,
+        "class":  "NiÃ±o",
+        "class_id":  14,
+        "race":  "Elfo oscuro",
+        "race_id":  3,
+        "elo":  1000,
+        "criminales_matados":  0,
+        "ciudadanos_matados":  0,
+        "usuarios_matados":  0,
+        "muertes":  0,
+        "puntos_pesca":  0,
+        "killed_npcs":  0,
+        "minutos_online":  0,
         "drag_puntos":  0
     }
 ]
